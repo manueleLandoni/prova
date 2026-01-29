@@ -1,0 +1,3716 @@
+{
+  "meta": {
+    "title": "Diritto Amministrativo con Riferimenti al Pubblico Impiego - Parte 1",
+    "materia": "Diritto Amministrativo",
+    "livello": "Base – comprensione iniziale",
+    "version": 1,
+    "note": "Parte 1 di 6 - PRINCIPI GENERALI, FONTI, ORGANIZZAZIONE"
+  },
+  "nodes": [
+    {
+      "id": "1",
+      "type": "section",
+      "title": "1. INTRODUZIONE AL DIRITTO AMMINISTRATIVO",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "1.0",
+          "type": "definition",
+          "content": "Il diritto amministrativo è l'insieme delle norme giuridiche che disciplinano l'organizzazione, il funzionamento e l'attività della pubblica amministrazione, nonché i rapporti tra amministrazione e cittadini. È il settore del diritto che regola come lo Stato e gli altri enti pubblici agiscono per perseguire l'interesse pubblico."
+        },
+        {
+          "id": "1.1",
+          "type": "section",
+          "title": "1.1 Nozione e oggetto",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "1.1.1",
+              "type": "definition",
+              "content": "Il diritto amministrativo si occupa di regolare tre aspetti fondamentali: come sono organizzate le amministrazioni pubbliche, quali poteri hanno e come devono esercitarli, e quali sono i diritti e le tutele dei cittadini nei confronti della pubblica amministrazione."
+            },
+            {
+              "id": "1.1.2",
+              "type": "keypoint",
+              "content": "Storicamente, il diritto amministrativo italiano nasce nell'Ottocento con l'unificazione del Paese, seguendo il modello francese. Si è evoluto nel tempo passando da un sistema in cui l'amministrazione aveva ampi poteri discrezionali a uno in cui i cittadini hanno sempre più tutele e garanzie."
+            },
+            {
+              "id": "1.1.3",
+              "type": "keypoint",
+              "content": "Il diritto amministrativo si collega strettamente con altri settori dell'ordinamento: con il diritto costituzionale per i principi fondamentali, con il diritto civile per i contratti e la responsabilità, con il diritto penale per i reati contro la pubblica amministrazione."
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "section",
+          "title": "1.2 L'amministrazione pubblica",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "1.2.1",
+              "type": "definition",
+              "content": "L'amministrazione pubblica è l'insieme degli enti e degli organi che svolgono attività finalizzate alla cura concreta degli interessi pubblici. Si distingue dalla funzione legislativa, che crea le leggi, e dalla funzione giurisdizionale, che risolve le controversie applicando le norme."
+            },
+            {
+              "id": "1.2.2",
+              "type": "keypoint",
+              "content": "La funzione amministrativa consiste nel prendere decisioni concrete per realizzare gli obiettivi stabiliti dalle leggi. Ad esempio, se la legge prevede la tutela della salute, l'amministrazione sanitaria organizza ospedali, assume medici, autorizza farmacie."
+            },
+            {
+              "id": "1.2.3",
+              "type": "keypoint",
+              "content": "Il principio di legalità significa che l'amministrazione può fare solo ciò che le leggi le permettono di fare. Non può agire arbitrariamente ma deve sempre avere una base normativa che autorizzi il suo operato e ne definisca i limiti."
+            }
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "section",
+          "title": "1.3 Principi costituzionali dell'amministrazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "1.3.0",
+              "type": "definition",
+              "content": "La Costituzione italiana stabilisce alcuni principi fondamentali che devono guidare tutta l'attività amministrativa. Questi principi garantiscono che le pubbliche amministrazioni operino in modo efficiente, imparziale e rispettoso dei diritti dei cittadini."
+            },
+            {
+              "id": "1.3.1",
+              "type": "section",
+              "title": "Buon andamento",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "1.3.1.1",
+                  "type": "definition",
+                  "content": "Il principio del buon andamento, previsto dall'articolo 97 della Costituzione, impone che l'amministrazione sia organizzata ed operi in modo efficiente, efficace ed economico. Significa che deve raggiungere i propri obiettivi nel modo migliore possibile, senza sprechi di tempo e risorse."
+                },
+                {
+                  "id": "1.3.1.2",
+                  "type": "keypoint",
+                  "content": "In pratica, il buon andamento si traduce in obblighi concreti: evitare procedure inutilmente complicate, usare bene il denaro pubblico, adottare soluzioni organizzative moderne, formare adeguatamente il personale, utilizzare la tecnologia per migliorare i servizi."
+                }
+              ]
+            },
+            {
+              "id": "1.3.2",
+              "type": "section",
+              "title": "Imparzialità",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "1.3.2.1",
+                  "type": "definition",
+                  "content": "Il principio di imparzialità, anch'esso nell'articolo 97 della Costituzione, stabilisce che l'amministrazione deve trattare tutti i cittadini allo stesso modo, senza favoritismi o discriminazioni. Non può privilegiare alcuni soggetti a danno di altri per ragioni personali, politiche o di altro tipo."
+                },
+                {
+                  "id": "1.3.2.2",
+                  "type": "keypoint",
+                  "content": "L'imparzialità si realizza attraverso regole oggettive: i concorsi pubblici per assumere personale devono essere aperti a tutti, gli appalti devono seguire procedure trasparenti, i servizi pubblici devono essere accessibili a chiunque ne abbia diritto secondo criteri predefiniti."
+                }
+              ]
+            },
+            {
+              "id": "1.3.3",
+              "type": "section",
+              "title": "Responsabilità",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "1.3.3.1",
+                  "type": "definition",
+                  "content": "L'articolo 28 della Costituzione stabilisce che i dipendenti pubblici sono direttamente responsabili degli atti compiuti in violazione di diritti. Questo significa che chi lavora nella pubblica amministrazione risponde personalmente se con il suo comportamento danneggia i cittadini."
+                },
+                {
+                  "id": "1.3.3.2",
+                  "type": "keypoint",
+                  "content": "La responsabilità opera su più livelli: disciplinare se il dipendente viola i suoi doveri d'ufficio, penale se commette reati, civile se causa danni ingiusti, amministrativa se provoca danni economici all'ente pubblico per cui lavora."
+                }
+              ]
+            },
+            {
+              "id": "1.3.4",
+              "type": "section",
+              "title": "Decentramento",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "1.3.4.1",
+                  "type": "definition",
+                  "content": "Il principio di decentramento significa che le funzioni amministrative sono distribuite tra diversi livelli di governo: Stato, Regioni, Province, Comuni. L'idea è che molte decisioni siano prese il più vicino possibile ai cittadini che ne sono interessati."
+                },
+                {
+                  "id": "1.3.4.2",
+                  "type": "keypoint",
+                  "content": "Ad esempio, le questioni locali come l'urbanistica o i servizi sociali sono gestite dai Comuni, mentre lo Stato si occupa di materie di interesse nazionale come la difesa o la politica estera. Questo rende l'amministrazione più vicina alle esigenze del territorio."
+                }
+              ]
+            },
+            {
+              "id": "1.3.5",
+              "type": "section",
+              "title": "Sussidiarietà",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "1.3.5.1",
+                  "type": "definition",
+                  "content": "L'articolo 118 della Costituzione prevede due forme di sussidiarietà. La sussidiarietà verticale stabilisce che le funzioni amministrative spettano all'ente più vicino ai cittadini, salvo che per esigenze di coordinamento non sia necessario attribuirle a un livello superiore."
+                },
+                {
+                  "id": "1.3.5.2",
+                  "type": "keypoint",
+                  "content": "La sussidiarietà orizzontale prevede che lo Stato e gli enti pubblici favoriscano l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale. Significa che associazioni, volontari e privati possono collaborare con le istituzioni pubbliche."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "type": "section",
+      "title": "2. FONTI DEL DIRITTO AMMINISTRATIVO",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "2.0",
+          "type": "definition",
+          "content": "Le fonti del diritto amministrativo sono gli atti e i documenti da cui nascono le norme che regolano l'amministrazione pubblica. Sono organizzate secondo una gerarchia: ogni fonte deve rispettare le fonti di livello superiore e prevale su quelle di livello inferiore."
+        },
+        {
+          "id": "2.1",
+          "type": "section",
+          "title": "2.1 Sistema delle fonti",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.1.1",
+              "type": "definition",
+              "content": "Al vertice della gerarchia delle fonti c'è la Costituzione italiana, la legge fondamentale dello Stato che stabilisce i principi supremi dell'ordinamento. Tutte le altre norme devono essere conformi alla Costituzione, altrimenti possono essere dichiarate incostituzionali."
+            },
+            {
+              "id": "2.1.2",
+              "type": "keypoint",
+              "content": "La normativa europea ha grande importanza: i Trattati dell'Unione Europea, i Regolamenti europei che si applicano direttamente in Italia, e le Direttive che lo Stato italiano deve attuare con proprie leggi. In caso di contrasto, il diritto europeo prevale su quello nazionale."
+            },
+            {
+              "id": "2.1.3",
+              "type": "keypoint",
+              "content": "Le leggi ordinarie dello Stato sono approvate dal Parlamento e disciplinano i settori più importanti. Hanno forza di legge anche i decreti legislativi, emanati dal Governo su delega del Parlamento, e i decreti-legge, provvedimenti urgenti che devono poi essere convertiti in legge."
+            },
+            {
+              "id": "2.1.4",
+              "type": "keypoint",
+              "content": "Le Regioni hanno potestà legislativa nelle materie che la Costituzione attribuisce loro. Possono quindi approvare leggi regionali che disciplinano materie come sanità, trasporti locali, agricoltura, turismo, nel rispetto dei principi fondamentali stabiliti dallo Stato."
+            },
+            {
+              "id": "2.1.5",
+              "type": "keypoint",
+              "content": "I regolamenti sono atti normativi di rango inferiore alle leggi, emanati dal Governo, dai Ministri, dalle Regioni o dagli enti locali. Servono a disciplinare i dettagli applicativi delle leggi, stabilendo le modalità concrete di attuazione delle norme legislative."
+            },
+            {
+              "id": "2.1.6",
+              "type": "keypoint",
+              "content": "Gli statuti degli enti locali sono le norme fondamentali di Comuni, Province e Città metropolitane. Stabiliscono come sono organizzati, quali sono gli organi, come funzionano i consigli e le giunte, nel rispetto delle leggi statali e regionali."
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "section",
+          "title": "2.2 Principi interpretativi",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.2.1",
+              "type": "definition",
+              "content": "Quando una norma entra in vigore, deve essere pubblicata sulla Gazzetta Ufficiale e diventa obbligatoria dopo un periodo chiamato vacatio legis, di solito quindici giorni. Questo tempo serve perché tutti possano conoscere la nuova regola prima che diventi vincolante."
+            },
+            {
+              "id": "2.2.2",
+              "type": "keypoint",
+              "content": "Se due norme sono in contrasto tra loro, si applicano criteri per risolvere l'antinomia: la norma superiore prevale su quella inferiore, la norma successiva prevale su quella precedente, la norma speciale prevale su quella generale."
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "section",
+          "title": "2.3 Principi generali dell'ordinamento",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.3.0",
+              "type": "definition",
+              "content": "La Legge 241 del 1990 sul procedimento amministrativo stabilisce alcuni principi fondamentali che guidano tutta l'attività della pubblica amministrazione. Questi principi assicurano che le amministrazioni agiscano in modo corretto, trasparente ed efficiente."
+            },
+            {
+              "id": "2.3.1",
+              "type": "keypoint",
+              "content": "Il principio di legalità impone che ogni azione amministrativa sia prevista e autorizzata dalla legge. L'amministrazione non può agire al di fuori dei poteri che le sono attribuiti dalle norme."
+            },
+            {
+              "id": "2.3.2",
+              "type": "keypoint",
+              "content": "Il principio di economicità significa che l'amministrazione deve utilizzare le risorse pubbliche nel modo più conveniente possibile, evitando sprechi e inefficienze, ottenendo il massimo risultato con il minor impiego di mezzi."
+            },
+            {
+              "id": "2.3.3",
+              "type": "keypoint",
+              "content": "Il principio di efficacia richiede che l'attività amministrativa raggiunga concretamente gli obiettivi per cui è stata posta in essere, producendo i risultati attesi nell'interesse pubblico."
+            },
+            {
+              "id": "2.3.4",
+              "type": "keypoint",
+              "content": "Il principio di pubblicità garantisce che i cittadini possano conoscere gli atti e i documenti dell'amministrazione, favorendo il controllo democratico sull'operato degli enti pubblici."
+            },
+            {
+              "id": "2.3.5",
+              "type": "keypoint",
+              "content": "Il principio di trasparenza, più ampio della semplice pubblicità, impone che l'amministrazione renda accessibili e comprensibili le proprie attività, decisioni e l'uso delle risorse pubbliche."
+            },
+            {
+              "id": "2.3.6",
+              "type": "keypoint",
+              "content": "Il principio di digitalizzazione, introdotto nel 2020, impone all'amministrazione di utilizzare le tecnologie informatiche per semplificare i procedimenti e rendere più efficienti i servizi offerti ai cittadini."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "section",
+      "title": "3. SOGGETTI DELL'ORDINAMENTO AMMINISTRATIVO",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "3.0",
+          "type": "definition",
+          "content": "I soggetti dell'ordinamento amministrativo sono gli enti pubblici che svolgono funzioni amministrative. Ciascuno ha una propria personalità giuridica, può compiere atti, assumere obblighi e vantare diritti. Sono organizzati in modo gerarchico e operano in ambiti di competenza definiti dalla legge."
+        },
+        {
+          "id": "3.1",
+          "type": "section",
+          "title": "3.1 Persone giuridiche pubbliche",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.1.1",
+              "type": "definition",
+              "content": "Le persone giuridiche pubbliche sono organizzazioni create dalla legge per perseguire interessi pubblici. Hanno capacità giuridica, cioè possono essere titolari di diritti e doveri, e capacità di agire, cioè possono compiere atti giuridici attraverso i loro organi."
+            },
+            {
+              "id": "3.1.2",
+              "type": "keypoint",
+              "content": "Gli enti pubblici si classificano in: enti territoriali come Stato, Regioni e Comuni che amministrano un territorio; enti istituzionali come INPS e INAIL che svolgono funzioni specifiche; enti pubblici economici che operano nel mercato producendo beni o servizi."
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "section",
+          "title": "3.2 Lo Stato",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.2.1",
+              "type": "definition",
+              "content": "L'organizzazione centrale dello Stato comprende il Governo con il Presidente del Consiglio e i Ministri, i Ministeri che sono le grandi strutture amministrative settoriali, e la Presidenza del Consiglio che coordina l'azione governativa."
+            },
+            {
+              "id": "3.2.2",
+              "type": "keypoint",
+              "content": "L'organizzazione periferica dello Stato è rappresentata dai Prefetti, che sono i rappresentanti del Governo nelle province e coordinano le attività statali sul territorio, dalle Questure per l'ordine pubblico, e dagli uffici territoriali dei vari Ministeri."
+            },
+            {
+              "id": "3.2.3",
+              "type": "keypoint",
+              "content": "Le agenzie governative sono enti pubblici specializzati che svolgono funzioni tecniche specifiche. Ad esempio l'Agenzia delle Entrate per la riscossione dei tributi, l'Agenzia del Demanio per la gestione del patrimonio immobiliare statale."
+            },
+            {
+              "id": "3.2.4",
+              "type": "keypoint",
+              "content": "Le autorità amministrative indipendenti sono organismi che operano con autonomia dal Governo per garantire imparzialità in settori sensibili. Esempi sono l'Autorità Garante della Concorrenza e del Mercato, l'Autorità Nazionale Anticorruzione, il Garante per la protezione dei dati personali."
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "section",
+          "title": "3.3 Regioni",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.3.1",
+              "type": "definition",
+              "content": "Le Regioni hanno potestà legislativa in tutte le materie che non sono espressamente riservate allo Stato dall'articolo 117 della Costituzione. Possono quindi approvare leggi nelle materie di loro competenza come sanità, urbanistica, trasporti locali, agricoltura."
+            },
+            {
+              "id": "3.3.2",
+              "type": "keypoint",
+              "content": "La potestà amministrativa delle Regioni, secondo l'articolo 118 della Costituzione, si esercita normalmente attraverso i Comuni, salvo che per assicurare un esercizio unitario sia necessario conferirla alle Province, alle Città metropolitane, alle Regioni o allo Stato."
+            },
+            {
+              "id": "3.3.3",
+              "type": "keypoint",
+              "content": "Gli organi della Regione sono il Consiglio regionale che esercita il potere legislativo, la Giunta regionale che è l'organo esecutivo, e il Presidente della Regione che rappresenta la Regione e dirige la politica della Giunta."
+            },
+            {
+              "id": "3.3.4",
+              "type": "keypoint",
+              "content": "L'autonomia differenziata, disciplinata dalla legge 86 del 2024 e parzialmente dichiarata incostituzionale dalla Corte Costituzionale con sentenza 192 del 2024, prevede la possibilità per le Regioni di ottenere maggiori competenze in alcune materie."
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "section",
+          "title": "3.4 Enti locali",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.4.1",
+              "type": "section",
+              "title": "Comuni",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "3.4.1.1",
+                  "type": "definition",
+                  "content": "Il Comune è l'ente locale fondamentale che rappresenta la propria comunità, ne cura gli interessi e ne promuove lo sviluppo. Ha autonomia statutaria, normativa, organizzativa e amministrativa. Si occupa di tutti i servizi di prossimità ai cittadini."
+                },
+                {
+                  "id": "3.4.1.2",
+                  "type": "keypoint",
+                  "content": "Il Sindaco è l'organo responsabile dell'amministrazione comunale, rappresenta il Comune, convoca e presiede la Giunta, sovrintende al funzionamento degli uffici e dei servizi, ed è anche ufficiale del Governo per alcune funzioni come l'anagrafe e lo stato civile."
+                },
+                {
+                  "id": "3.4.1.3",
+                  "type": "keypoint",
+                  "content": "La Giunta comunale è l'organo esecutivo del Comune, composta dal Sindaco che la presiede e da un numero di assessori che varia in base alla popolazione. Adotta gli atti di gestione e propone al Consiglio gli atti fondamentali."
+                },
+                {
+                  "id": "3.4.1.4",
+                  "type": "keypoint",
+                  "content": "Il Consiglio comunale è l'organo di indirizzo e controllo politico-amministrativo, eletto direttamente dai cittadini. Approva i bilanci, i regolamenti, i piani urbanistici e gli atti più importanti per la vita del Comune."
+                },
+                {
+                  "id": "3.4.1.5",
+                  "type": "keypoint",
+                  "content": "Il Segretario comunale è un funzionario con competenze giuridiche che assiste gli organi del Comune in materia di legittimità degli atti, partecipa alle sedute del Consiglio e della Giunta, dirige il personale e sovrintende allo svolgimento delle funzioni dei dirigenti."
+                }
+              ]
+            },
+            {
+              "id": "3.4.2",
+              "type": "keypoint",
+              "content": "Le Province e le Città metropolitane, dopo la riforma della legge 56 del 2014, sono enti di area vasta con funzioni di coordinamento tra i Comuni. Si occupano principalmente di pianificazione territoriale, tutela ambientale, edilizia scolastica e gestione della viabilità provinciale."
+            },
+            {
+              "id": "3.4.3",
+              "type": "keypoint",
+              "content": "Le Unioni di Comuni sono enti locali costituiti da due o più Comuni per l'esercizio associato di funzioni e servizi. Permettono ai Comuni piccoli di gestire insieme servizi che da soli non potrebbero offrire in modo efficiente, come i servizi sociali o la polizia municipale."
+            }
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "section",
+          "title": "3.5 Altri enti pubblici",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.5.1",
+              "type": "definition",
+              "content": "Gli enti pubblici istituzionali sono organizzazioni create per svolgere specifiche funzioni di interesse generale. L'INPS gestisce la previdenza sociale, l'INAIL l'assicurazione contro gli infortuni sul lavoro, il CNR la ricerca scientifica, l'ENEA la ricerca in campo energetico e ambientale."
+            },
+            {
+              "id": "3.5.2",
+              "type": "keypoint",
+              "content": "Le Università pubbliche sono enti pubblici dotati di autonomia didattica, scientifica, organizzativa, finanziaria e contabile. Svolgono attività di formazione superiore e di ricerca scientifica, organizzandosi secondo propri statuti."
+            },
+            {
+              "id": "3.5.3",
+              "type": "keypoint",
+              "content": "Le Camere di Commercio sono enti pubblici che rappresentano gli interessi generali delle imprese e promuovono lo sviluppo economico del territorio. Tengono il registro delle imprese e offrono servizi di supporto alle attività economiche."
+            }
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "section",
+          "title": "3.6 Società pubbliche",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.6.1",
+              "type": "definition",
+              "content": "Le società in house sono società di capitali interamente partecipate da enti pubblici che svolgono la propria attività prevalentemente per gli enti che le controllano. Operano come se fossero uffici interni dell'amministrazione, pur essendo formalmente soggetti di diritto privato."
+            },
+            {
+              "id": "3.6.2",
+              "type": "keypoint",
+              "content": "Il Testo Unico sulle società a partecipazione pubblica, decreto legislativo 175 del 2016, disciplina le società in cui lo Stato o altri enti pubblici detengono quote di capitale. Prevede limiti e controlli per garantire efficienza e prevenire sprechi."
+            },
+            {
+              "id": "3.6.3",
+              "type": "keypoint",
+              "content": "La razionalizzazione delle partecipazioni pubbliche impone agli enti di ridurre il numero di società partecipate, mantenendo solo quelle strettamente necessarie per lo svolgimento di attività di interesse generale, e di dismettere quelle che non rispettano i requisiti di legge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "type": "section",
+      "title": "4. ORGANIZZAZIONE DEGLI UFFICI E RAPPORTI INTERORGANICI",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "4.0",
+          "type": "definition",
+          "content": "L'organizzazione degli uffici pubblici segue principi che assicurano il corretto funzionamento dell'amministrazione. Ogni ufficio ha competenze definite, si collega agli altri secondo rapporti stabiliti, e opera nel rispetto di regole che garantiscono efficienza e responsabilità."
+        },
+        {
+          "id": "4.1",
+          "type": "section",
+          "title": "4.1 Principi di organizzazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.1.1",
+              "type": "definition",
+              "content": "Il principio di competenza stabilisce che ogni organo può esercitare solo i poteri che la legge gli attribuisce. Se un organo agisce al di fuori della propria competenza, il suo atto è illegittimo e può essere annullato."
+            },
+            {
+              "id": "4.1.2",
+              "type": "keypoint",
+              "content": "La gerarchia è il rapporto tra organi in cui uno è sovraordinato all'altro. L'organo superiore può dare ordini, controllare e correggere l'attività dell'organo inferiore, che è tenuto ad obbedire e a riferire sulla propria attività."
+            },
+            {
+              "id": "4.1.3",
+              "type": "keypoint",
+              "content": "La direzione è un potere di coordinamento e impulso che un organo esercita su altri per assicurare l'unitarietà dell'azione amministrativa, senza però i poteri tipici della gerarchia come quello di riforma degli atti."
+            },
+            {
+              "id": "4.1.4",
+              "type": "keypoint",
+              "content": "Il coordinamento è l'attività volta ad armonizzare le azioni di più organi o enti che perseguono finalità comuni o connesse, evitando contrasti e sovrapposizioni."
+            },
+            {
+              "id": "4.1.5",
+              "type": "keypoint",
+              "content": "Il controllo è l'attività con cui un organo verifica la legittimità, la regolarità o il merito dell'attività di un altro organo, potendo eventualmente intervenire per correggere irregolarità o inefficienze."
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "section",
+          "title": "4.2 Organi: nozione e classificazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.2.1",
+              "type": "definition",
+              "content": "Gli organi si distinguono in individuali, quando sono costituiti da una sola persona come il Sindaco o un Ministro, e collegiali quando sono formati da più persone che decidono insieme come il Consiglio comunale o il Consiglio dei Ministri."
+            },
+            {
+              "id": "4.2.2",
+              "type": "keypoint",
+              "content": "Gli organi attivi adottano decisioni e provvedimenti, gli organi consultivi danno pareri, gli organi di controllo verificano la legittimità o l'opportunità degli atti. Alcuni organi possono svolgere più funzioni contemporaneamente."
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "section",
+          "title": "4.3 Uffici e loro organizzazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.3.1",
+              "type": "definition",
+              "content": "La struttura ministeriale è organizzata in modo gerarchico. Al vertice c'è il Ministro, sotto ci sono i Dipartimenti che raggruppano settori omogenei, poi le Direzioni generali che gestiscono materie specifiche, e infine gli Uffici che svolgono le attività operative."
+            },
+            {
+              "id": "4.3.2",
+              "type": "keypoint",
+              "content": "La delega è il trasferimento temporaneo di un potere da un organo a un altro, che lo esercita in nome proprio. L'avocazione è il potere dell'organo superiore di assumere direttamente la trattazione di un affare di competenza di un organo inferiore."
+            },
+            {
+              "id": "4.3.3",
+              "type": "keypoint",
+              "content": "La sostituzione si ha quando un organo sostituisce temporaneamente un altro nell'esercizio delle sue funzioni, di solito in caso di assenza o impedimento. La supplenza è analoga ma opera automaticamente senza bisogno di un atto formale."
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "section",
+          "title": "4.4 Rapporti tra politica e amministrazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.4.1",
+              "type": "definition",
+              "content": "La separazione tra indirizzo politico e gestione amministrativa è un principio fondamentale: gli organi politici fissano obiettivi e priorità, i dirigenti amministrativi attuano concretamente le decisioni politiche con autonomia gestionale e responsabilità sui risultati."
+            },
+            {
+              "id": "4.4.2",
+              "type": "keypoint",
+              "content": "Lo spoils system è il sistema in cui alcuni incarichi dirigenziali di vertice sono legati alla fiducia politica e cessano automaticamente con il cambio di governo. La giurisprudenza costituzionale ne ha limitato fortemente l'applicazione per tutelare l'imparzialità dell'amministrazione."
+            },
+            {
+              "id": "4.4.3",
+              "type": "keypoint",
+              "content": "Gli incarichi dirigenziali sono conferiti con contratti a tempo determinato, di solito tra tre e cinque anni, sulla base delle competenze professionali. Possono avere elementi di fiduciarietà ma devono comunque rispettare criteri di trasparenza e motivazione."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "section",
+      "title": "5. DISCIPLINA GENERALE DEL RAPPORTO DI PUBBLICO IMPIEGO",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "5.0",
+          "type": "definition",
+          "content": "Il pubblico impiego è il rapporto di lavoro tra un dipendente e una pubblica amministrazione. Oggi questo rapporto è disciplinato prevalentemente da norme di diritto privato, come per i lavoratori del settore privato, ma con alcune specificità che garantiscono il rispetto dei principi costituzionali di imparzialità e buon andamento."
+        },
+        {
+          "id": "5.1",
+          "type": "section",
+          "title": "5.1 Evoluzione normativa",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.1.1",
+              "type": "definition",
+              "content": "Fino agli anni Novanta il rapporto di pubblico impiego era disciplinato interamente da leggi e regolamenti. Con la privatizzazione avviata nei primi anni Novanta, il rapporto è diventato un normale contratto di lavoro disciplinato dal codice civile e dai contratti collettivi, tranne che per alcune categorie come magistrati e militari."
+            },
+            {
+              "id": "5.1.2",
+              "type": "keypoint",
+              "content": "Il decreto legislativo 165 del 2001 è la legge quadro che regola l'organizzazione del lavoro nelle pubbliche amministrazioni. Stabilisce i principi generali, le modalità di accesso, i diritti e doveri dei dipendenti, lasciando ai contratti collettivi la disciplina di dettaglio."
+            },
+            {
+              "id": "5.1.3",
+              "type": "keypoint",
+              "content": "Negli ultimi vent'anni ci sono state diverse riforme: la riforma Brunetta del 2009 ha introdotto la valutazione della performance, la riforma Madia del 2015-2017 ha semplificato le procedure, e le recenti riforme Zangrillo puntano sul merito e sulla valorizzazione delle competenze."
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "section",
+          "title": "5.2 Fonti della disciplina",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.2.1",
+              "type": "definition",
+              "content": "Le norme legislative, in particolare il decreto legislativo 165 del 2001 e successive modifiche, stabiliscono i principi fondamentali che regolano il pubblico impiego: come si accede, quali sono i diritti e doveri generali, come funziona la dirigenza, quali sono le responsabilità."
+            },
+            {
+              "id": "5.2.2",
+              "type": "section",
+              "title": "Contratti collettivi nazionali",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.2.2.1",
+                  "type": "definition",
+                  "content": "I Contratti Collettivi Nazionali di Lavoro sono accordi tra ARAN, l'Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni, e i sindacati. Disciplinano gli aspetti economici e normativi del rapporto di lavoro: retribuzioni, orari, ferie, permessi, progressioni di carriera."
+                },
+                {
+                  "id": "5.2.2.2",
+                  "type": "keypoint",
+                  "content": "I dipendenti pubblici sono divisi in comparti contrattuali: Funzioni Centrali per i ministeri, Funzioni Locali per Comuni e Regioni, Sanità per il personale sanitario, Istruzione e Ricerca per scuole e università. Ogni comparto ha un proprio CCNL."
+                },
+                {
+                  "id": "5.2.2.3",
+                  "type": "keypoint",
+                  "content": "ARAN è l'agenzia pubblica che rappresenta tutte le amministrazioni nella contrattazione collettiva. Negozia i CCNL con i sindacati più rappresentativi, garantendo l'unitarietà della disciplina contrattuale e il rispetto dei vincoli di finanza pubblica."
+                },
+                {
+                  "id": "5.2.2.4",
+                  "type": "keypoint",
+                  "content": "I rinnovi contrattuali 2022-2024 sono stati firmati tra fine 2024 e inizio 2025 dopo anni di blocco contrattuale. Hanno portato aumenti retributivi medi del 6% per recuperare parzialmente l'inflazione. I rinnovi 2025-2027 sono attualmente in fase di trattativa."
+                }
+              ]
+            },
+            {
+              "id": "5.2.3",
+              "type": "keypoint",
+              "content": "La contrattazione integrativa decentrata si svolge a livello di singola amministrazione o ente tra la dirigenza locale e le rappresentanze sindacali interne. Disciplina l'utilizzo delle risorse del fondo per il salario accessorio, definendo premi e incentivi legati alla performance."
+            },
+            {
+              "id": "5.2.4",
+              "type": "keypoint",
+              "content": "Il Codice di comportamento stabilisce i doveri etici e le regole di condotta che ogni dipendente pubblico deve rispettare. Il codice generale è contenuto nel DPR 62 del 2013, ma ogni amministrazione deve adottare anche un proprio codice specifico."
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "section",
+          "title": "5.3 Accesso al pubblico impiego",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.3.1",
+              "type": "definition",
+              "content": "L'accesso agli impieghi nelle pubbliche amministrazioni avviene mediante concorso pubblico, come stabilito dall'articolo 97 della Costituzione. Questo principio garantisce che tutti i cittadini possano accedere in condizioni di parità, valutati solo in base al merito e alle competenze."
+            },
+            {
+              "id": "5.3.2",
+              "type": "section",
+              "title": "Concorso pubblico",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.3.2.1",
+                  "type": "definition",
+                  "content": "Il bando di concorso è l'avviso pubblico con cui l'amministrazione comunica che intende assumere personale. Indica i posti disponibili, i requisiti necessari per partecipare, le prove da superare, i titoli valutabili, le modalità di presentazione della domanda."
+                },
+                {
+                  "id": "5.3.2.2",
+                  "type": "keypoint",
+                  "content": "Le modalità di selezione possono includere prove scritte per verificare le conoscenze teoriche, prove pratiche per testare le abilità operative, prove orali per valutare la capacità di esposizione e la padronanza della materia, e la valutazione dei titoli posseduti dal candidato."
+                },
+                {
+                  "id": "5.3.2.3",
+                  "type": "keypoint",
+                  "content": "Esistono riserve di posti per categorie particolari: una quota è riservata a chi appartiene alle categorie protette come i disabili, un'altra quota ai volontari delle forze armate. Ci sono anche preferenze in caso di parità di punteggio, ad esempio per chi ha figli a carico."
+                },
+                {
+                  "id": "5.3.2.4",
+                  "type": "keypoint",
+                  "content": "La digitalizzazione delle procedure concorsuali sta trasformando i concorsi: molte amministrazioni usano piattaforme online per presentare le domande, per svolgere i test preselettivi con quiz informatizzati, e per comunicare con i candidati in modo più rapido ed efficiente."
+                }
+              ]
+            },
+            {
+              "id": "5.3.3",
+              "type": "section",
+              "title": "Modalità alternative di reclutamento",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.3.3.1",
+                  "type": "definition",
+                  "content": "La mobilità permette ai dipendenti pubblici di trasferirsi da un'amministrazione a un'altra senza dover fare un nuovo concorso. Esistono la mobilità volontaria, su richiesta del dipendente, e la mobilità d'ufficio per esigenze organizzative."
+                },
+                {
+                  "id": "5.3.3.2",
+                  "type": "keypoint",
+                  "content": "Lo scorrimento delle graduatorie consente alle amministrazioni di assumere candidati che hanno superato un concorso ma non sono stati assunti perché i posti si erano esauriti. Le graduatorie di solito restano valide per tre anni."
+                },
+                {
+                  "id": "5.3.3.3",
+                  "type": "keypoint",
+                  "content": "Le progressioni verticali permettono ai dipendenti già in servizio di accedere a categorie superiori attraverso procedure selettive interne. Non sono automatiche ma richiedono prove di selezione e la disponibilità di posti vacanti."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "section",
+          "title": "5.4 Costituzione del rapporto di lavoro",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.4.1",
+              "type": "definition",
+              "content": "Il rapporto di lavoro si costituisce con la stipula di un contratto individuale tra l'amministrazione e il vincitore del concorso. Il contratto è a tempo indeterminato, salvo che per specifiche esigenze temporanee per le quali è possibile assumere a tempo determinato."
+            },
+            {
+              "id": "5.4.2",
+              "type": "keypoint",
+              "content": "Il periodo di prova è un periodo iniziale, di solito di alcuni mesi, durante il quale sia l'amministrazione che il neo-assunto possono recedere dal rapporto senza particolari formalità. Serve a verificare che il dipendente sia effettivamente adatto alle mansioni assegnate."
+            },
+            {
+              "id": "5.4.3",
+              "type": "keypoint",
+              "content": "Le incompatibilità sono situazioni in cui un dipendente pubblico non può svolgere contemporaneamente altre attività. Ad esempio, non può avere un secondo lavoro pubblico a tempo pieno, non può fare l'imprenditore in settori che potrebbero creare conflitti con le sue funzioni pubbliche."
+            },
+            {
+              "id": "5.4.4",
+              "type": "keypoint",
+              "content": "Il part-time è possibile nella pubblica amministrazione. Il dipendente può chiedere di lavorare a orario ridotto per esigenze personali o familiari. L'amministrazione valuta la compatibilità con le proprie esigenze organizzative prima di concedere l'autorizzazione."
+            }
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "section",
+          "title": "5.5 Diritti e doveri del dipendente pubblico",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.5.1",
+              "type": "definition",
+              "content": "I diritti del dipendente pubblico comprendono il diritto a una retribuzione adeguata e certa, al godimento delle ferie annuali, ai permessi per motivi personali o familiari, alla tutela della salute e sicurezza sul lavoro, alla formazione professionale continua."
+            },
+            {
+              "id": "5.5.2",
+              "type": "keypoint",
+              "content": "I doveri principali sono la fedeltà all'istituzione e alla Costituzione, l'obbligo di svolgere le proprie mansioni con diligenza e professionalità, il dovere di riservatezza sugli atti e le informazioni di cui viene a conoscenza, l'obbligo di servire imparzialmente l'interesse pubblico."
+            },
+            {
+              "id": "5.5.3",
+              "type": "keypoint",
+              "content": "Il Codice di comportamento definisce nel dettaglio le regole etiche: come comportarsi con i cittadini, come gestire eventuali regali o inviti, quando astenersi da decisioni per conflitto di interessi, come usare i beni e le risorse dell'amministrazione."
+            },
+            {
+              "id": "5.5.4",
+              "type": "keypoint",
+              "content": "Gli obblighi di prevenzione della corruzione e trasparenza, introdotti dalla legge 190 del 2012, impongono ai dipendenti di segnalare situazioni di illegalità, di dichiarare situazioni di conflitto di interessi, di rispettare le norme sulla rotazione degli incarichi nelle aree a rischio."
+            },
+            {
+              "id": "5.5.5",
+              "type": "keypoint",
+              "content": "Il conflitto di interessi si verifica quando il dipendente ha un interesse personale, anche non economico, che potrebbe influenzare l'imparzialità delle sue decisioni. In questi casi ha l'obbligo di astenersi e di segnalare la situazione al suo superiore."
+            },
+            {
+              "id": "5.5.6",
+              "type": "keypoint",
+              "content": "Il whistleblowing è la segnalazione di illeciti che il dipendente osserva sul posto di lavoro. Il segnalante è protetto dalla legge: non può subire ritorsioni, licenziamenti o discriminazioni per aver fatto una segnalazione in buona fede."
+            }
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "section",
+          "title": "5.6 Orario di lavoro e modalità di prestazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.6.1",
+              "type": "definition",
+              "content": "L'orario ordinario di lavoro nella pubblica amministrazione è di 36 ore settimanali, distribuite su cinque o sei giorni. Ogni amministrazione può organizzare gli orari in modo flessibile per garantire l'apertura degli uffici al pubblico e l'efficienza dei servizi."
+            },
+            {
+              "id": "5.6.2",
+              "type": "keypoint",
+              "content": "Il lavoro straordinario è l'attività lavorativa svolta oltre l'orario normale. È possibile solo per comprovate esigenze di servizio, deve essere preventivamente autorizzato, e viene retribuito con un compenso aggiuntivo o compensato con riposi."
+            },
+            {
+              "id": "5.6.3",
+              "type": "section",
+              "title": "Lavoro agile (smart working)",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.6.3.1",
+                  "type": "definition",
+                  "content": "Il lavoro agile, disciplinato dalla legge 81 del 2017, permette al dipendente di svolgere la prestazione lavorativa in parte fuori dalla sede dell'ufficio, spesso da casa, utilizzando strumenti informatici. Mantiene lo stesso orario e la stessa retribuzione del lavoro in presenza."
+                },
+                {
+                  "id": "5.6.3.2",
+                  "type": "keypoint",
+                  "content": "Dopo il COVID-19, molte amministrazioni hanno sperimentato il lavoro agile in modo massiccio. Oggi si cerca un equilibrio: alcuni giorni in presenza per mantenere la collaborazione e il senso di appartenenza, alcuni giorni da remoto per conciliare vita privata e lavoro."
+                },
+                {
+                  "id": "5.6.3.3",
+                  "type": "keypoint",
+                  "content": "I nuovi CCNL del 2025 prevedono regole più precise sul lavoro agile: numero massimo di giorni consentiti, diritto ai buoni pasto anche in smart working, dotazioni tecnologiche che l'amministrazione deve fornire, obiettivi e modalità di controllo della prestazione."
+                }
+              ]
+            },
+            {
+              "id": "5.6.4",
+              "type": "keypoint",
+              "content": "La sperimentazione della settimana corta di quattro giorni lavorativi è in corso in alcune amministrazioni. L'idea è che concentrare le ore su meno giorni possa migliorare la qualità della vita dei dipendenti senza ridurre l'efficienza dei servizi."
+            },
+            {
+              "id": "5.6.5",
+              "type": "keypoint",
+              "content": "Il telelavoro è diverso dallo smart working: il dipendente lavora stabilmente da una postazione fissa fuori dall'ufficio, collegata telematicamente, con orari e modalità predefinite. È meno flessibile dello smart working ma più strutturato."
+            }
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "section",
+          "title": "5.7 Classificazione e progressioni di carriera",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.7.1",
+              "type": "definition",
+              "content": "I dipendenti pubblici sono inquadrati in categorie e aree professionali che corrispondono a diversi livelli di responsabilità e competenza. Le principali categorie vanno dalla A per le mansioni più semplici alla D per quelle di maggiore complessità. Sopra c'è la dirigenza."
+            },
+            {
+              "id": "5.7.2",
+              "type": "keypoint",
+              "content": "Le Progressioni Economiche Orizzontali, chiamate PEO, permettono di aumentare la retribuzione rimanendo nella stessa categoria. Si basano sulla valutazione della performance: chi lavora meglio e ottiene risultati può accedere a fasce economiche superiori."
+            },
+            {
+              "id": "5.7.3",
+              "type": "keypoint",
+              "content": "Le progressioni verticali consentono di passare a una categoria superiore, ad esempio da categoria C a categoria D. Richiedono procedure selettive basate sul merito, esperienza e titoli. Non sono automatiche e dipendono dalla disponibilità di posti."
+            },
+            {
+              "id": "5.7.4",
+              "type": "keypoint",
+              "content": "La mobilità interna permette di cambiare ruolo o ufficio all'interno della stessa amministrazione, mentre la mobilità esterna consente di trasferirsi presso altre amministrazioni. Entrambe possono essere volontarie o disposte per esigenze organizzative."
+            }
+          ]
+        },
+        {
+          "id": "5.8",
+          "type": "section",
+          "title": "5.8 Valutazione della performance",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.8.1",
+              "type": "definition",
+              "content": "Il ciclo della performance, regolato dal decreto legislativo 150 del 2009, è il processo con cui ogni amministrazione definisce obiettivi, misura i risultati, valuta il personale e distribuisce incentivi. Serve a collegare la retribuzione accessoria ai risultati effettivamente raggiunti."
+            },
+            {
+              "id": "5.8.2",
+              "type": "keypoint",
+              "content": "Gli obiettivi si dividono in organizzativi, assegnati all'intera struttura o a un ufficio, e individuali, assegnati al singolo dipendente. Devono essere specifici, misurabili, raggiungibili, rilevanti e definiti nel tempo."
+            },
+            {
+              "id": "5.8.3",
+              "type": "keypoint",
+              "content": "I sistemi di misurazione e valutazione devono essere trasparenti, basati su criteri oggettivi e condivisi. Valutano sia cosa il dipendente ha realizzato sia come lo ha fatto, considerando anche comportamenti organizzativi e competenze professionali."
+            },
+            {
+              "id": "5.8.4",
+              "type": "keypoint",
+              "content": "Gli Organismi Indipendenti di Valutazione, chiamati OIV, sono organi collegiali di ciascuna amministrazione che verificano il corretto funzionamento del sistema di valutazione, validano i risultati e assicurano che le valutazioni siano effettivamente differenziate."
+            },
+            {
+              "id": "5.8.5",
+              "type": "keypoint",
+              "content": "La valutazione ha conseguenze concrete: influisce sull'accesso alle progressioni economiche, sulla distribuzione dei premi di produttività, sulle possibilità di progressione di carriera. Una valutazione negativa può portare a piani di miglioramento o, nei casi gravi, a sanzioni."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "type": "section",
+      "title": "6. TRATTAMENTO ECONOMICO DEL PUBBLICO IMPIEGO",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "6.0",
+          "type": "definition",
+          "content": "Il trattamento economico del dipendente pubblico comprende la retribuzione fissa, che è uguale per tutti quelli della stessa categoria, e la retribuzione accessoria, che varia in base ai risultati e alle responsabilità. L'obiettivo è premiare il merito e incentivare il buon lavoro."
+        },
+        {
+          "id": "6.1",
+          "type": "section",
+          "title": "6.1 Struttura della retribuzione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "6.1.1",
+              "type": "definition",
+              "content": "Lo stipendio tabellare è la parte fissa della retribuzione, determinata dai contratti collettivi nazionali in base alla categoria di inquadramento. È uguale per tutti i dipendenti della stessa categoria e costituisce la base della retribuzione."
+            },
+            {
+              "id": "6.1.2",
+              "type": "section",
+              "title": "Indennità di Vacanza Contrattuale (IVC)",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.1.2.1",
+                  "type": "definition",
+                  "content": "L'IVC è un'indennità provvisoria che viene corrisposta quando il contratto collettivo scade e non è ancora stato rinnovato. Serve a compensare parzialmente la perdita del potere d'acquisto dovuta all'inflazione durante il periodo di attesa del rinnovo."
+                },
+                {
+                  "id": "6.1.2.2",
+                  "type": "keypoint",
+                  "content": "Nel triennio 2025-2027 è prevista un'IVC dello 0,5% dal primo aprile 2025 e dell'1% da luglio 2025. Questi importi verranno poi assorbiti negli aumenti definitivi quando i nuovi contratti saranno firmati."
+                }
+              ]
+            },
+            {
+              "id": "6.1.3",
+              "type": "keypoint",
+              "content": "Le indennità e gli assegni vari sono compensi aggiuntivi per particolari condizioni o responsabilità: indennità di turno per chi lavora di notte o nei festivi, indennità di disagio, assegni per il nucleo familiare, rimborsi spese."
+            },
+            {
+              "id": "6.1.4",
+              "type": "keypoint",
+              "content": "La tredicesima mensilità è una mensilità aggiuntiva che viene pagata a dicembre. Corrisponde all'importo dello stipendio mensile ed è maturata proporzionalmente ai mesi lavorati nell'anno."
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "section",
+          "title": "6.2 Trattamento accessorio",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "6.2.1",
+              "type": "definition",
+              "content": "Il fondo delle risorse decentrate è costituito da risorse economiche destinate alla retribuzione di risultato e agli incentivi. Ogni amministrazione ha il proprio fondo, le cui risorse vengono distribuite attraverso la contrattazione integrativa tra dirigenza e sindacati."
+            },
+            {
+              "id": "6.2.2",
+              "type": "keypoint",
+              "content": "La produttività collettiva premia gruppi di lavoro o uffici che raggiungono obiettivi comuni. La produttività individuale va invece ai singoli dipendenti sulla base della valutazione della loro performance personale."
+            },
+            {
+              "id": "6.2.3",
+              "type": "keypoint",
+              "content": "I premi per risultati eccellenti sono riconoscimenti economici significativi riservati a chi ottiene valutazioni particolarmente elevate. Non possono essere distribuiti a tutti ma devono effettivamente distinguere i migliori."
+            },
+            {
+              "id": "6.2.4",
+              "type": "keypoint",
+              "content": "Il welfare aziendale comprende servizi e benefit che l'amministrazione offre ai dipendenti: convenzioni con asili nido, palestre, assistenza sanitaria integrativa, borse di studio per i figli. Migliora la qualità della vita senza aumentare direttamente lo stipendio."
+            },
+            {
+              "id": "6.2.5",
+              "type": "section",
+              "title": "Buoni pasto",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.2.5.1",
+                  "type": "definition",
+                  "content": "I buoni pasto sono titoli che l'amministrazione fornisce per ogni giornata lavorativa per permettere al dipendente di consumare un pasto. Hanno un valore definito dal contratto collettivo e possono essere usati in ristoranti e negozi convenzionati."
+                },
+                {
+                  "id": "6.2.5.2",
+                  "type": "keypoint",
+                  "content": "I nuovi CCNL prevedono che i buoni pasto spettino anche ai dipendenti in lavoro agile, riconoscendo che chi lavora da casa ha comunque diritto alla pausa pranzo come chi è in ufficio."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "section",
+          "title": "6.3 Rinnovi contrattuali e aumenti retributivi",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "6.3.1",
+              "type": "section",
+              "title": "CCNL Funzioni Centrali 2022-2024",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.3.1.1",
+                  "type": "definition",
+                  "content": "Il CCNL Funzioni Centrali riguarda i dipendenti dei Ministeri e degli enti pubblici nazionali. È stato firmato a novembre 2024 e ratificato definitivamente a gennaio 2025 dopo una lunga attesa dovuta alle difficoltà economiche del Paese."
+                },
+                {
+                  "id": "6.3.1.2",
+                  "type": "keypoint",
+                  "content": "Gli aumenti medi sono di 165 euro lordi mensili, pari a circa il 6% dello stipendio. Questo aumento compensa solo parzialmente l'inflazione accumulata nel triennio, durante il quale i prezzi sono cresciuti molto di più."
+                },
+                {
+                  "id": "6.3.1.3",
+                  "type": "keypoint",
+                  "content": "È prevista anche un'una tantum per gli arretrati, cioè un pagamento unico di circa 1.000 euro che compensa i mesi trascorsi tra la scadenza del vecchio contratto e l'entrata in vigore del nuovo."
+                }
+              ]
+            },
+            {
+              "id": "6.3.2",
+              "type": "keypoint",
+              "content": "Il CCNL Funzioni Locali per i dipendenti di Comuni, Province e Regioni è in fase di sottoscrizione nel 2025. Seguirà linee simili a quello delle Funzioni Centrali con aumenti proporzionati alle risorse disponibili."
+            },
+            {
+              "id": "6.3.3",
+              "type": "keypoint",
+              "content": "Il CCNL Istruzione e Ricerca per insegnanti e personale scolastico è stato firmato a dicembre 2025 con aumenti medi leggermente superiori rispetto ad altri comparti, in considerazione della specificità del lavoro educativo."
+            },
+            {
+              "id": "6.3.4",
+              "type": "keypoint",
+              "content": "Il CCNL Sanità per medici, infermieri e altri operatori sanitari prevede aumenti e riconoscimenti economici per valorizzare il lavoro pesante svolto soprattutto durante l'emergenza COVID."
+            },
+            {
+              "id": "6.3.5",
+              "type": "section",
+              "title": "Previsioni rinnovi 2025-2027",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.3.5.1",
+                  "type": "definition",
+                  "content": "La Legge di Bilancio 2025 ha stanziato risorse significative per i rinnovi contrattuali del pubblico impiego: 10 miliardi di euro per il 2025, e complessivamente 27,11 miliardi fino al 2028 per coprire tutto il triennio contrattuale."
+                },
+                {
+                  "id": "6.3.5.2",
+                  "type": "keypoint",
+                  "content": "Gli aumenti previsti dovrebbero attestarsi intorno al 2% annuo. Non è molto, ma è comunque un miglioramento rispetto ai lunghi periodi di blocco contrattuale degli anni scorsi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "section",
+          "title": "6.4 Previdenza e trattamento di fine servizio",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "6.4.1",
+              "type": "definition",
+              "content": "Il sistema pensionistico pubblico funziona con il metodo contributivo: la pensione dipende dai contributi effettivamente versati durante la vita lavorativa. I dipendenti pubblici sono iscritti all'INPS come tutti i lavoratori."
+            },
+            {
+              "id": "6.4.2",
+              "type": "keypoint",
+              "content": "Il TFS o TFR è il trattamento di fine servizio o fine rapporto che il dipendente riceve quando va in pensione. È una somma accumulata durante tutta la carriera lavorativa, calcolata in base agli stipendi percepiti negli ultimi anni."
+            },
+            {
+              "id": "6.4.3",
+              "type": "keypoint",
+              "content": "La previdenza complementare permette al dipendente di costruirsi una pensione integrativa versando contributi volontari in fondi pensione. Questo è utile perché le pensioni pubbliche sono sempre più basse rispetto agli ultimi stipendi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "type": "section",
+      "title": "7. DIRIGENZA PUBBLICA",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "7.0",
+          "type": "definition",
+          "content": "La dirigenza pubblica è il livello apicale dell'amministrazione. I dirigenti hanno autonomia gestionale, sono responsabili dei risultati e rispondono direttamente agli organi politici per il raggiungimento degli obiettivi. Non sono semplici impiegati ma veri e propri manager pubblici."
+        },
+        {
+          "id": "7.1",
+          "type": "section",
+          "title": "7.1 Status giuridico",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.1.1",
+              "type": "definition",
+              "content": "La qualifica dirigenziale comporta poteri decisionali, autonomia nell'organizzazione del lavoro degli uffici, responsabilità diretta sui risultati e sulla gestione delle risorse umane e finanziarie assegnate."
+            },
+            {
+              "id": "7.1.2",
+              "type": "keypoint",
+              "content": "A differenza del personale non dirigente, i dirigenti hanno un rapporto fiduciario con gli organi politici, ricevono incarichi a tempo determinato, hanno maggiore autonomia ma anche maggiori responsabilità, compresa quella contabile per la gestione del denaro pubblico."
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "section",
+          "title": "7.2 Accesso alla dirigenza",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.2.1",
+              "type": "definition",
+              "content": "L'accesso alla dirigenza pubblica avviene principalmente attraverso concorsi pubblici molto selettivi che valutano competenze manageriali, capacità di gestione delle risorse, conoscenze giuridiche ed economiche, attitudini alla leadership."
+            },
+            {
+              "id": "7.2.2",
+              "type": "keypoint",
+              "content": "Il corso-concorso della Scuola Nazionale dell'Amministrazione, chiamata SNA, è un percorso formativo altamente qualificante della durata di circa due anni che prepara i futuri dirigenti pubblici attraverso teoria e stage pratici nelle amministrazioni."
+            },
+            {
+              "id": "7.2.3",
+              "type": "keypoint",
+              "content": "Le progressioni interne permettono a dipendenti di elevata professionalità già in servizio di accedere alla dirigenza attraverso procedure selettive che valutano l'esperienza maturata, i risultati conseguiti e le competenze acquisite."
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "section",
+          "title": "7.3 Conferimento e revoca incarichi",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.3.1",
+              "type": "definition",
+              "content": "Gli incarichi dirigenziali sono conferiti con contratti a tempo determinato, di solito tra tre e cinque anni. Il dirigente mantiene la qualifica ma l'incarico specifico, ad esempio la direzione di un determinato ufficio, è temporaneo e rinnovabile."
+            },
+            {
+              "id": "7.3.2",
+              "type": "keypoint",
+              "content": "Lo spoils system, il sistema in cui alcuni incarichi dirigenziali di vertice decadono automaticamente con il cambio di governo, è stato fortemente limitato dalla giurisprudenza costituzionale per garantire l'imparzialità dell'amministrazione e la continuità dell'azione amministrativa."
+            },
+            {
+              "id": "7.3.3",
+              "type": "keypoint",
+              "content": "Il conferimento degli incarichi deve seguire criteri trasparenti basati sulle competenze professionali, sull'esperienza, sui risultati conseguiti in precedenza. La scelta deve essere motivata e non può essere puramente discrezionale o politica."
+            },
+            {
+              "id": "7.3.4",
+              "type": "keypoint",
+              "content": "Gli incarichi dirigenziali hanno una durata minima e massima. Possono essere rinnovati se i risultati sono stati positivi, ma non possono protrarsi indefinitamente con lo stesso dirigente per favorire il ricambio e nuove energie."
+            },
+            {
+              "id": "7.3.5",
+              "type": "keypoint",
+              "content": "La revoca dell'incarico prima della scadenza è possibile per responsabilità dirigenziale, cioè quando non vengono raggiunti gli obiettivi assegnati, o per gravi violazioni dei doveri. Deve essere motivata e il dirigente ha diritto di difendersi."
+            }
+          ]
+        },
+        {
+          "id": "7.4",
+          "type": "section",
+          "title": "7.4 Funzioni e responsabilità",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.4.1",
+              "type": "definition",
+              "content": "I dirigenti hanno autonomia gestionale completa: organizzano gli uffici, gestiscono il personale, adottano gli atti amministrativi, controllano l'andamento dell'attività. Rispondono direttamente dei risultati raggiunti o non raggiunti."
+            },
+            {
+              "id": "7.4.2",
+              "type": "keypoint",
+              "content": "La distinzione tra indirizzo politico e gestione è fondamentale: gli organi politici fissano obiettivi e priorità, i dirigenti attuano questi obiettivi con autonomia nelle scelte operative. I politici non possono interferire nella gestione quotidiana."
+            },
+            {
+              "id": "7.4.3",
+              "type": "keypoint",
+              "content": "La responsabilità dirigenziale prevista dall'articolo 21 del decreto legislativo 165 del 2001 si attiva quando il dirigente non raggiunge gli obiettivi o non rispetta i livelli di qualità del servizio. Le conseguenze vanno dalla mancata attribuzione di premi fino alla revoca dell'incarico."
+            },
+            {
+              "id": "7.4.4",
+              "type": "keypoint",
+              "content": "La responsabilità disciplinare colpisce il dirigente che viola i suoi doveri professionali: può andare dal rimprovero alla sospensione fino al licenziamento nei casi più gravi."
+            },
+            {
+              "id": "7.4.5",
+              "type": "keypoint",
+              "content": "La responsabilità amministrativo-contabile riguarda i danni economici causati all'amministrazione per colpa grave o dolo. Il dirigente può essere chiamato dalla Corte dei Conti a risarcire il danno causato."
+            },
+            {
+              "id": "7.4.6",
+              "type": "keypoint",
+              "content": "I dirigenti rispondono anche civilmente e penalmente per gli atti compiuti. Ad esempio, possono rispondere penalmente per reati come peculato, corruzione, abuso d'ufficio se commettono illeciti nell'esercizio delle loro funzioni."
+            }
+          ]
+        },
+        {
+          "id": "7.5",
+          "type": "section",
+          "title": "7.5 Trattamento economico",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.5.1",
+              "type": "definition",
+              "content": "La retribuzione di posizione è la parte fissa dello stipendio del dirigente, legata all'importanza e alla complessità dell'incarico ricoperto. Più l'incarico è rilevante e impegnativo, più alta è la retribuzione di posizione."
+            },
+            {
+              "id": "7.5.2",
+              "type": "keypoint",
+              "content": "La retribuzione di risultato è la parte variabile che dipende dal raggiungimento degli obiettivi assegnati. Se i risultati sono eccellenti può essere molto significativa, se gli obiettivi non sono raggiunti può essere ridotta o azzerata."
+            },
+            {
+              "id": "7.5.3",
+              "type": "keypoint",
+              "content": "Il CCNL dell'Area Dirigenza regola gli aspetti economici e normativi comuni a tutti i dirigenti pubblici: minimi retributivi, criteri per determinare la retribuzione di posizione e risultato, permessi, ferie, trattamento di fine rapporto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "type": "section",
+      "title": "8. La discrezionalità amministrativa e i suoi limiti",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "8.0",
+          "type": "definition",
+          "content": "La discrezionalità amministrativa è uno spazio di autonomia decisionale riconosciuto all'amministrazione per scegliere, tra diverse soluzioni conformi alla legge, quella più idonea a realizzare l'interesse pubblico. Questa libertà di scelta non è illimitata ma incontra precisi vincoli e limiti posti dall'ordinamento."
+        },
+        {
+          "id": "8.1",
+          "type": "section",
+          "title": "8.1 Distinzione tra discrezionalità pura e tecnica",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.1.1",
+              "type": "definition",
+              "content": "La discrezionalità si manifesta in due forme principali che, pur presentando analogie, si distinguono per natura e modalità di esercizio: la discrezionalità amministrativa pura e la discrezionalità tecnica."
+            },
+            {
+              "id": "8.1.2",
+              "type": "keypoint",
+              "title": "Discrezionalità pura o amministrativa",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La discrezionalità pura riguarda la scelta tra diversi interessi pubblici da soddisfare o tra diverse modalità di perseguimento dell'interesse pubblico."
+                },
+                {
+                  "content": "È una valutazione di natura politico-amministrativa che implica scelte di opportunità sulla migliore allocazione delle risorse e sulle priorità da perseguire."
+                },
+                {
+                  "content": "Esempio: decidere se costruire una scuola o un asilo nido, dove localizzare un'opera pubblica, a chi attribuire una concessione quando più soggetti sono idonei."
+                }
+              ]
+            },
+            {
+              "id": "8.1.3",
+              "type": "keypoint",
+              "title": "Discrezionalità tecnica",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La discrezionalità tecnica riguarda l'applicazione di cognizioni scientifiche, tecniche o specialistiche per accertare fatti o valutare situazioni secondo parametri oggettivi."
+                },
+                {
+                  "content": "Non implica una scelta tra interessi ma l'applicazione di regole tecniche per verificare la sussistenza di determinati presupposti."
+                },
+                {
+                  "content": "Esempio: valutare l'idoneità fisica di un candidato, accertare il livello di inquinamento, determinare la pericolosità statica di un edificio."
+                }
+              ]
+            },
+            {
+              "id": "8.1.4",
+              "type": "keypoint",
+              "title": "Conseguenze della distinzione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il sindacato del giudice sulla discrezionalità pura è limitato al controllo di legittimità, non potendo sostituirsi alle scelte di merito dell'amministrazione."
+                },
+                {
+                  "content": "Il sindacato sulla discrezionalità tecnica è più penetrante: il giudice può verificare la correttezza delle valutazioni tecniche e la loro aderenza alle regole scientifiche."
+                },
+                {
+                  "content": "Nella discrezionalità tecnica è più frequente il ricorso a consulenti tecnici per verificare l'attendibilità delle conclusioni dell'amministrazione."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "type": "section",
+          "title": "8.2 Merito amministrativo",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.2.1",
+              "type": "definition",
+              "content": "Il merito amministrativo è l'ambito delle valutazioni di opportunità, convenienza ed efficacia che l'amministrazione compie nell'esercizio della discrezionalità. Rappresenta il nucleo delle scelte amministrative sottratte al sindacato del giudice."
+            },
+            {
+              "id": "8.2.2",
+              "type": "keypoint",
+              "title": "Contenuto del merito",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il merito comprende tutte le valutazioni sull'opportunità di un intervento: se è il momento giusto, se conviene agire in un modo piuttosto che in un altro."
+                },
+                {
+                  "content": "Include le scelte sulle priorità nell'allocazione delle risorse limitate tra bisogni concorrenti, tutte legittime ma non tutte soddisfacibili contemporaneamente."
+                },
+                {
+                  "content": "Riguarda anche la valutazione dell'efficacia delle soluzioni: quale strumento amministrativo è più idoneo a raggiungere il risultato voluto."
+                }
+              ]
+            },
+            {
+              "id": "8.2.3",
+              "type": "keypoint",
+              "title": "Insindacabilità del merito",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il giudice amministrativo non può sindacare il merito delle scelte amministrative, cioè non può sostituire la propria valutazione di opportunità a quella dell'amministrazione."
+                },
+                {
+                  "content": "Questo principio deriva dalla separazione dei poteri: le scelte di politica amministrativa spettano agli organi democraticamente legittimati, non ai giudici."
+                },
+                {
+                  "content": "Il giudice può solo verificare che la discrezionalità sia stata esercitata nei limiti di legge, senza eccessi, contraddizioni o irragionevolezza manifesta."
+                }
+              ]
+            },
+            {
+              "id": "8.2.4",
+              "type": "keypoint",
+              "title": "Confine tra legittimità e merito",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il confine non è sempre netto: l'eccesso di irragionevolezza nelle scelte di merito può trasformarsi in vizio di eccesso di potere sindacabile dal giudice."
+                },
+                {
+                  "content": "Quando la scelta di merito viola principi come proporzionalità, ragionevolezza o imparzialità, diventa una questione di legittimità."
+                },
+                {
+                  "content": "La giurisprudenza ha progressivamente ampliato il controllo di legittimità, riducendo l'area del merito insindacabile."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.3",
+          "type": "section",
+          "title": "8.3 Obbligo di motivazione: adeguatezza e sufficienza",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.3.1",
+              "type": "definition",
+              "content": "L'obbligo di motivazione è uno dei principali limiti alla discrezionalità. La motivazione deve essere adeguata e sufficiente, permettendo di comprendere il percorso logico-giuridico seguito e di verificare la ragionevolezza della scelta."
+            },
+            {
+              "id": "8.3.2",
+              "type": "requirements",
+              "title": "Requisiti della motivazione adeguata",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La motivazione deve essere specifica e non può limitarsi a formule generiche o stereotipate che potrebbero adattarsi a qualsiasi situazione."
+                },
+                {
+                  "content": "Deve dare conto degli elementi di fatto rilevanti emersi dall'istruttoria e spiegare perché sono stati ritenuti determinanti per la decisione."
+                },
+                {
+                  "content": "Deve indicare le norme applicate e chiarire come si è giunti, partendo dai fatti accertati, alla soluzione adottata."
+                }
+              ]
+            },
+            {
+              "id": "8.3.3",
+              "type": "keypoint",
+              "title": "Motivazione nei provvedimenti discrezionali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nei provvedimenti discrezionali la motivazione deve esplicitare il bilanciamento degli interessi pubblici e privati coinvolti."
+                },
+                {
+                  "content": "Deve spiegare perché si è privilegiato un interesse rispetto ad altri e perché la soluzione adottata è stata ritenuta la più idonea."
+                },
+                {
+                  "content": "Quando si discosta da precedenti decisioni analoghe, deve spiegare le ragioni della diversità di trattamento."
+                }
+              ]
+            },
+            {
+              "id": "8.3.4",
+              "type": "keypoint",
+              "title": "Motivazione per relationem",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "È ammessa la motivazione per relationem, che richiama e fa propri atti istruttori o pareri contenuti nel fascicolo del procedimento."
+                },
+                {
+                  "content": "Il richiamo deve essere chiaro e l'atto richiamato deve essere conoscibile e accessibile al destinatario del provvedimento."
+                },
+                {
+                  "content": "Non è sufficiente un richiamo generico: deve essere specificato quale atto si richiama e quale parte della sua motivazione si fa propria."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.4",
+          "type": "section",
+          "title": "8.4 Principio di proporzionalità",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.4.1",
+              "type": "definition",
+              "content": "Il principio di proporzionalità impone che i provvedimenti amministrativi siano adeguati, necessari e non eccessivi rispetto al fine pubblico perseguito. L'amministrazione deve scegliere la misura meno restrittiva tra quelle idonee a raggiungere l'obiettivo."
+            },
+            {
+              "id": "8.4.2",
+              "type": "keypoint",
+              "title": "Idoneità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il provvedimento deve essere idoneo a raggiungere il risultato perseguito: non può essere adottato se non è in grado di conseguire l'obiettivo di interesse pubblico."
+                },
+                {
+                  "content": "L'idoneità va valutata in concreto, considerando le circostanze del caso specifico e la probabilità che la misura produca gli effetti voluti."
+                }
+              ]
+            },
+            {
+              "id": "8.4.3",
+              "type": "keypoint",
+              "title": "Necessità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il provvedimento deve essere necessario: tra più misure idonee a raggiungere lo stesso risultato, deve essere scelta quella meno gravosa per il destinatario."
+                },
+                {
+                  "content": "L'amministrazione non può imporre sacrifici maggiori di quelli strettamente indispensabili per tutelare l'interesse pubblico."
+                },
+                {
+                  "content": "Se esistono soluzioni alternative che incidono meno sui diritti del privato, queste devono essere preferite."
+                }
+              ]
+            },
+            {
+              "id": "8.4.4",
+              "type": "keypoint",
+              "title": "Proporzionalità in senso stretto",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Anche quando il provvedimento è idoneo e necessario, deve sussistere un rapporto proporzionato tra il sacrificio imposto al privato e il vantaggio pubblico conseguito."
+                },
+                {
+                  "content": "L'amministrazione deve bilanciare gli interessi in gioco: il provvedimento è sproporzionato se il danno per il privato supera largamente il beneficio pubblico."
+                },
+                {
+                  "content": "La violazione della proporzionalità può integrare eccesso di potere e determinare l'annullamento del provvedimento."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.5",
+          "type": "section",
+          "title": "8.5 Principio di ragionevolezza",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.5.1",
+              "type": "definition",
+              "content": "Il principio di ragionevolezza impone che le scelte discrezionali dell'amministrazione siano logiche, coerenti e conformi al buon senso. Costituisce un limite generale alla discrezionalità e permette al giudice di censurare decisioni manifestamente illogiche o contraddittorie."
+            },
+            {
+              "id": "8.5.2",
+              "type": "keypoint",
+              "title": "Ragionevolezza come logicità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il provvedimento deve essere sorretto da un percorso logico comprensibile: deve esistere un nesso razionale tra presupposti di fatto, valutazioni e conclusioni."
+                },
+                {
+                  "content": "È irragionevole il provvedimento che si fonda su premesse contraddittorie o che giunge a conclusioni non coerenti con le premesse."
+                },
+                {
+                  "content": "L'illogicità manifesta integra il vizio di eccesso di potere ed è sindacabile dal giudice anche se riguarda scelte di merito."
+                }
+              ]
+            },
+            {
+              "id": "8.5.3",
+              "type": "keypoint",
+              "title": "Ragionevolezza come congruità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La decisione deve essere congrua rispetto alla situazione concreta: deve adattarsi alle specificità del caso senza applicare schemi rigidi inadeguati."
+                },
+                {
+                  "content": "È irragionevole trattare allo stesso modo situazioni oggettivamente diverse o in modo diverso situazioni sostanzialmente identiche, senza adeguata giustificazione."
+                },
+                {
+                  "content": "L'amministrazione deve considerare tutte le circostanze rilevanti del caso concreto nella sua valutazione."
+                }
+              ]
+            },
+            {
+              "id": "8.5.4",
+              "type": "keypoint",
+              "title": "Ragionevolezza come non contraddittorietà",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il provvedimento deve essere coerente con i precedenti comportamenti dell'amministrazione in casi analoghi, salvo giustificazioni specifiche."
+                },
+                {
+                  "content": "È irragionevole adottare soluzioni opposte a fronte di situazioni identiche senza spiegare le ragioni del diverso trattamento."
+                },
+                {
+                  "content": "La contraddittorietà può riguardare sia atti successivi della stessa amministrazione sia diverse parti dello stesso provvedimento."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.6",
+          "type": "section",
+          "title": "8.6 Principio del giusto procedimento",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.6.1",
+              "type": "definition",
+              "content": "Il principio del giusto procedimento richiede che l'amministrazione segua regole procedimentali eque e trasparenti, garantendo la partecipazione degli interessati e il contraddittorio. Costituisce una garanzia fondamentale contro l'arbitrio."
+            },
+            {
+              "id": "8.6.2",
+              "type": "keypoint",
+              "title": "Diritto al contraddittorio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Gli interessati devono essere messi in condizione di conoscere gli elementi su cui si fonderà la decisione e di far valere le proprie ragioni."
+                },
+                {
+                  "content": "La partecipazione deve essere effettiva, non meramente formale: le osservazioni presentate devono essere effettivamente valutate dall'amministrazione."
+                },
+                {
+                  "content": "La violazione del contraddittorio determina l'illegittimità del provvedimento quando ha impedito l'acquisizione di elementi rilevanti per la decisione."
+                }
+              ]
+            },
+            {
+              "id": "8.6.3",
+              "type": "keypoint",
+              "title": "Imparzialità del decisore",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Chi adotta la decisione deve essere terzo e imparziale, senza interessi personali nella vicenda."
+                },
+                {
+                  "content": "Il funzionario o l'organo collegiale in situazione di conflitto di interessi deve astenersi e la decisione deve essere presa da altri."
+                },
+                {
+                  "content": "La violazione dei doveri di astensione può determinare l'annullamento del provvedimento per eccesso di potere."
+                }
+              ]
+            },
+            {
+              "id": "8.6.4",
+              "type": "keypoint",
+              "title": "Completezza dell'istruttoria",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione deve acquisire tutti gli elementi di fatto e di diritto necessari per una decisione consapevole e corretta."
+                },
+                {
+                  "content": "Il difetto di istruttoria sussiste quando l'amministrazione ha trascurato accertamenti essenziali o non ha considerato elementi rilevanti a sua disposizione."
+                },
+                {
+                  "content": "L'incompletezza dell'istruttoria integra il vizio di eccesso di potere quando ha influito sulla decisione finale."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.7",
+          "type": "section",
+          "title": "8.7 Vincoli alla discrezionalità: norme, precedenti, circolari",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.7.1",
+              "type": "definition",
+              "content": "La discrezionalità amministrativa non si esercita nel vuoto ma incontra numerosi vincoli derivanti da norme, prassi consolidate, orientamenti interni e principi generali che circoscrivono lo spazio di scelta dell'amministrazione."
+            },
+            {
+              "id": "8.7.2",
+              "type": "keypoint",
+              "title": "Vincoli normativi",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La discrezionalità deve essere esercitata nel rispetto delle norme di legge e dei regolamenti che ne definiscono l'ambito e i limiti."
+                },
+                {
+                  "content": "Anche quando la legge lascia ampi margini di scelta, l'amministrazione deve rispettare i principi costituzionali e i vincoli derivanti dal diritto europeo."
+                },
+                {
+                  "content": "Le norme possono progressivamente ridurre la discrezionalità, indicando criteri vincolanti per l'esercizio del potere."
+                }
+              ]
+            },
+            {
+              "id": "8.7.3",
+              "type": "keypoint",
+              "title": "Vincolo del precedente",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione è tendenzialmente vincolata dai propri precedenti: deve trattare casi analoghi in modo uniforme per garantire imparzialità e tutelare l'affidamento."
+                },
+                {
+                  "content": "Il discostamento dai precedenti è possibile ma richiede una motivazione rafforzata che giustifichi il diverso trattamento."
+                },
+                {
+                  "content": "La prassi amministrativa consolidata crea legittimo affidamento nei cittadini e non può essere abbandonata arbitrariamente."
+                }
+              ]
+            },
+            {
+              "id": "8.7.4",
+              "type": "keypoint",
+              "title": "Circolari e direttive interne",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le circolari sono atti interni con cui l'amministrazione impartisce direttive ai propri uffici su come esercitare la discrezionalità in determinate materie."
+                },
+                {
+                  "content": "Pur non avendo valore normativo verso l'esterno, le circolari vincolano gli uffici subordinati e creano un'aspettativa di uniforme applicazione."
+                },
+                {
+                  "content": "Il funzionario può discostarsi dalla circolare nel caso concreto ma deve motivare adeguatamente il discostamento."
+                },
+                {
+                  "content": "Le circolari illegittime non vincolano i funzionari, che devono applicare direttamente la legge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.8",
+          "type": "section",
+          "title": "8.8 Sindacato giurisdizionale sulla discrezionalità",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.8.1",
+              "type": "definition",
+              "content": "Il sindacato giurisdizionale sulla discrezionalità amministrativa è il controllo che il giudice amministrativo esercita sulle scelte discrezionali dell'amministrazione. È un controllo di legittimità che verifica il rispetto dei limiti esterni ed interni della discrezionalità."
+            },
+            {
+              "id": "8.8.2",
+              "type": "keypoint",
+              "title": "Controllo estrinseco",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il giudice verifica che siano rispettati i limiti esterni della discrezionalità: competenza, procedimento, forma, motivazione."
+                },
+                {
+                  "content": "Controlla che l'amministrazione non abbia violato norme di legge o regolamento che disciplinano l'esercizio del potere."
+                },
+                {
+                  "content": "Verifica la sussistenza dei presupposti di fatto e di diritto richiesti dalla legge per l'esercizio del potere."
+                }
+              ]
+            },
+            {
+              "id": "8.8.3",
+              "type": "keypoint",
+              "title": "Controllo intrinseco",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il giudice verifica che la discrezionalità sia stata esercitata in modo razionale, coerente e proporzionato, senza eccessi o sviamenti."
+                },
+                {
+                  "content": "Controlla che non sussistano le figure sintomatiche dell'eccesso di potere: illogicità, contraddittorietà, disparità di trattamento, difetto di istruttoria."
+                },
+                {
+                  "content": "Verifica il rispetto dei principi di ragionevolezza, proporzionalità, imparzialità che costituiscono limiti interni alla discrezionalità."
+                }
+              ]
+            },
+            {
+              "id": "8.8.4",
+              "type": "keypoint",
+              "title": "Limiti del sindacato",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il giudice non può sostituire la propria valutazione di opportunità a quella dell'amministrazione: non sindaca il merito."
+                },
+                {
+                  "content": "Non può indicare all'amministrazione quale scelta avrebbe dovuto compiere tra quelle legittime, ma solo annullare la scelta illegittima."
+                },
+                {
+                  "content": "Dopo l'annullamento per vizio di legittimità, l'amministrazione riesercita il potere e può adottare una decisione diversa purché legittima."
+                }
+              ]
+            },
+            {
+              "id": "8.8.5",
+              "type": "keypoint",
+              "title": "Evoluzione giurisprudenziale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La giurisprudenza ha progressivamente ampliato il sindacato del giudice, intensificando il controllo sulla ragionevolezza e proporzionalità delle scelte."
+                },
+                {
+                  "content": "L'influenza del diritto europeo ha rafforzato i principi di proporzionalità e tutela dell'affidamento, ampliando le possibilità di controllo giurisdizionale."
+                },
+                {
+                  "content": "Oggi il sindacato è particolarmente penetrante quando sono coinvolti diritti fondamentali o quando la discrezionalità è fortemente ridotta da vincoli normativi."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "type": "section",
+      "title": "9. Servizi pubblici e liberalizzazioni",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "9.0",
+          "type": "definition",
+          "content": "I servizi pubblici sono attività svolte direttamente dalla Pubblica Amministrazione o affidate a soggetti terzi per soddisfare bisogni collettivi della comunità. Le liberalizzazioni hanno aperto molti settori alla concorrenza, modificando profondamente il sistema di erogazione dei servizi."
+        },
+        {
+          "id": "9.1",
+          "type": "section",
+          "title": "9.1 Nozione di servizio pubblico",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.1.1",
+              "type": "definition",
+              "content": "Il servizio pubblico è un'attività destinata a soddisfare bisogni di interesse generale della collettività, che l'amministrazione assume come propria responsabilità garantendone l'erogazione continua e regolare ai cittadini."
+            },
+            {
+              "id": "9.1.2",
+              "type": "keypoint",
+              "title": "Elementi caratterizzanti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Interesse generale: l'attività risponde a bisogni diffusi nella collettività che richiedono un intervento pubblico per essere soddisfatti adeguatamente."
+                },
+                {
+                  "content": "Assunzione pubblica: l'ente pubblico decide di assumere la responsabilità di garantire l'erogazione del servizio, direttamente o tramite terzi."
+                },
+                {
+                  "content": "Continuità e regolarità: il servizio deve essere erogato senza interruzioni, secondo standard qualitativi definiti, garantendo l'accessibilità a tutti."
+                }
+              ]
+            },
+            {
+              "id": "9.1.3",
+              "type": "keypoint",
+              "title": "Tipologie di servizi pubblici",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Servizi a rilevanza economica: attività d'impresa che producono beni o servizi sul mercato, come trasporti, energia, telecomunicazioni."
+                },
+                {
+                  "content": "Servizi privi di rilevanza economica: attività non imprenditoriali che lo Stato riserva a sé per garantire funzioni essenziali, come giustizia, sicurezza pubblica, istruzione obbligatoria."
+                },
+                {
+                  "content": "Servizi sociali: attività volte a garantire l'assistenza alle persone più fragili, come servizi per anziani, disabili, minori."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.2",
+          "type": "section",
+          "title": "9.2 Servizi pubblici essenziali",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.2.1",
+              "type": "definition",
+              "content": "I servizi pubblici essenziali sono quelli destinati a garantire il godimento di diritti fondamentali della persona costituzionalmente tutelati, come la vita, la salute, la libertà, la sicurezza, la mobilità. Sono soggetti a una disciplina particolare che ne garantisce l'erogazione minima anche in caso di sciopero."
+            },
+            {
+              "id": "9.2.2",
+              "type": "keypoint",
+              "title": "Individuazione dei servizi essenziali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La legge 146/1990 individua come essenziali i servizi volti a garantire diritti costituzionalmente protetti: sanità, trasporti, energia, telecomunicazioni, raccolta rifiuti, istruzione."
+                },
+                {
+                  "content": "L'individuazione è fatta considerando l'impatto che l'interruzione del servizio avrebbe sui diritti fondamentali delle persone."
+                },
+                {
+                  "content": "La Commissione di garanzia sugli scioperi definisce le prestazioni indispensabili che devono essere garantite anche durante gli scioperi."
+                }
+              ]
+            },
+            {
+              "id": "9.2.3",
+              "type": "requirements",
+              "title": "Obblighi specifici",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Gli erogatori di servizi essenziali devono garantire livelli minimi di prestazione definiti contrattualmente o per legge."
+                },
+                {
+                  "content": "Devono assicurare continuità del servizio evitando interruzioni che compromettano i diritti fondamentali degli utenti."
+                },
+                {
+                  "content": "In caso di sciopero, devono garantire le prestazioni indispensabili individuate dagli accordi o dalle ordinanze della Commissione di garanzia."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.3",
+          "type": "section",
+          "title": "9.3 Gestione diretta in economia",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.3.1",
+              "type": "definition",
+              "content": "La gestione diretta in economia si verifica quando l'ente pubblico eroga il servizio pubblico direttamente attraverso propri uffici e dipendenti, senza affidarlo a soggetti esterni. L'ente si organizza internamente per fornire la prestazione agli utenti."
+            },
+            {
+              "id": "9.3.2",
+              "type": "keypoint",
+              "title": "Caratteristiche della gestione diretta",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'ente pubblico utilizza proprie risorse umane e strumentali per erogare il servizio, mantenendo il controllo completo sull'organizzazione e sulla qualità."
+                },
+                {
+                  "content": "I dipendenti che erogano il servizio sono pubblici dipendenti con rapporto di lavoro alle dipendenze dell'ente."
+                },
+                {
+                  "content": "La gestione economica è disciplinata dal bilancio pubblico, senza finalità di lucro ma con obbligo di efficienza ed economicità."
+                }
+              ]
+            },
+            {
+              "id": "9.3.3",
+              "type": "keypoint",
+              "title": "Vantaggi e limiti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Vantaggi: controllo diretto sulla qualità, possibilità di orientare il servizio secondo obiettivi sociali, nessun rischio di interruzione per motivi commerciali."
+                },
+                {
+                  "content": "Limiti: minore flessibilità organizzativa, vincoli di bilancio pubblico, difficoltà nell'innovazione e nell'adattamento a esigenze mutevoli."
+                },
+                {
+                  "content": "Oggi la gestione diretta è meno diffusa rispetto al passato, sostituita da forme di gestione esternalizzata o societarizzata."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.4",
+          "type": "section",
+          "title": "9.4 Gestione indiretta: concessione e appalto",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.4.1",
+              "type": "definition",
+              "content": "La gestione indiretta si realizza quando l'ente pubblico affida a soggetti terzi l'erogazione del servizio pubblico attraverso contratti di concessione o appalto. L'ente mantiene la titolarità del servizio ma ne affida la gestione operativa."
+            },
+            {
+              "id": "9.4.2",
+              "type": "keypoint",
+              "title": "La concessione di servizi",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nella concessione, l'amministrazione affida a un operatore economico il compito di gestire il servizio a proprio rischio, remunerandosi attraverso tariffe pagate dagli utenti."
+                },
+                {
+                  "content": "Il concessionario assume il rischio operativo: se il servizio non viene utilizzato o i costi superano i ricavi, le perdite sono a suo carico."
+                },
+                {
+                  "content": "L'ente concedente mantiene poteri di indirizzo, controllo e vigilanza sull'erogazione del servizio, potendo intervenire in caso di inadempimenti."
+                }
+              ]
+            },
+            {
+              "id": "9.4.3",
+              "type": "keypoint",
+              "title": "L'appalto di servizi",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nell'appalto, l'amministrazione corrisponde all'appaltatore un corrispettivo determinato per l'erogazione del servizio secondo le modalità stabilite contrattualmente."
+                },
+                {
+                  "content": "L'appaltatore non assume il rischio operativo: viene pagato dall'ente pubblico indipendentemente dall'utilizzo del servizio da parte degli utenti."
+                },
+                {
+                  "content": "Gli appalti sono disciplinati dal Codice dei contratti pubblici e devono essere affidati mediante procedure di gara competitive."
+                }
+              ]
+            },
+            {
+              "id": "9.4.4",
+              "type": "keypoint",
+              "title": "Differenza tra concessione e appalto",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nella concessione il gestore si remunera con i proventi del servizio e sopporta il rischio di domanda. Nell'appalto è remunerato dall'ente pubblico."
+                },
+                {
+                  "content": "La concessione ha generalmente durata più lunga per permettere al gestore di ammortizzare gli investimenti. L'appalto ha durata limitata."
+                },
+                {
+                  "content": "La concessione richiede maggiore autonomia gestionale del concessionario. L'appalto comporta maggiore controllo dell'ente appaltante."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.5",
+          "type": "section",
+          "title": "9.5 Affidamento in house providing",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.5.1",
+              "type": "definition",
+              "content": "L'in house providing è una forma di affidamento diretto di servizi pubblici a società interamente pubbliche che operano in modo prevalente per l'ente controllante, senza procedura di gara. È un'eccezione al principio della concorrenza ammessa a condizioni rigorose."
+            },
+            {
+              "id": "9.5.2",
+              "type": "requirements",
+              "title": "Requisiti per l'affidamento in house",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Controllo analogo: l'ente pubblico deve esercitare sulla società un controllo analogo a quello che esercita sui propri servizi interni, determinando obiettivi strategici e decisioni importanti."
+                },
+                {
+                  "content": "Destinazione prevalente: la società deve svolgere la propria attività prevalentemente (almeno l'80%) per gli enti che la controllano, con limitata apertura al mercato."
+                },
+                {
+                  "content": "Capitale interamente pubblico: la società non può avere partecipazione di privati nel capitale sociale, deve essere interamente pubblica."
+                }
+              ]
+            },
+            {
+              "id": "9.5.3",
+              "type": "keypoint",
+              "title": "Vantaggi e criticità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Vantaggi: maggiore controllo pubblico, assenza di costi di gara, possibilità di orientare il servizio verso obiettivi sociali, flessibilità gestionale rispetto alla gestione diretta."
+                },
+                {
+                  "content": "Criticità: rischio di inefficienza per assenza di concorrenza, possibili conflitti con il diritto europeo se non rispettati rigorosamente i requisiti."
+                },
+                {
+                  "content": "La giurisprudenza europea ha progressivamente ristretto le condizioni per l'in house, favorendo l'apertura al mercato."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.6",
+          "type": "section",
+          "title": "9.6 Partenariato pubblico-privato (PPP)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.6.1",
+              "type": "definition",
+              "content": "Il partenariato pubblico-privato è una forma di collaborazione tra amministrazione e operatori economici privati per la realizzazione e gestione di opere pubbliche o servizi di interesse generale, con condivisione di rischi e responsabilità."
+            },
+            {
+              "id": "9.6.2",
+              "type": "keypoint",
+              "title": "Tipologie di PPP",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Concessione di lavori: il privato progetta, costruisce, finanzia e gestisce un'opera pubblica remunerandosi attraverso pedaggi o tariffe pagate dagli utenti."
+                },
+                {
+                  "content": "Finanza di progetto: schema in cui il privato presenta una proposta progettuale e finanziaria per realizzare e gestire un'opera di pubblica utilità."
+                },
+                {
+                  "content": "Contratti di disponibilità: il privato realizza l'opera e la mette a disposizione dell'amministrazione che paga canoni periodici in base alla disponibilità e qualità."
+                }
+              ]
+            },
+            {
+              "id": "9.6.3",
+              "type": "keypoint",
+              "title": "Caratteristiche comuni",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Allocazione dei rischi: i rischi di costruzione, disponibilità e domanda sono ripartiti tra pubblico e privato secondo il principio che ciascuno assume i rischi che può meglio gestire."
+                },
+                {
+                  "content": "Finanziamento privato: il privato anticipa le risorse finanziarie necessarie per realizzare l'opera, recuperandole nella fase di gestione."
+                },
+                {
+                  "content": "Durata pluriennale: i contratti hanno durata lunga (spesso 20-30 anni) per permettere al privato di recuperare gli investimenti attraverso la gestione."
+                }
+              ]
+            },
+            {
+              "id": "9.6.4",
+              "type": "keypoint",
+              "title": "Vantaggi e rischi",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Vantaggi: possibilità di realizzare opere senza immediato esborso pubblico, trasferimento di rischi al privato, efficienza gestionale del settore privato."
+                },
+                {
+                  "content": "Rischi: complessità contrattuale, difficoltà nel bilanciare interessi pubblici e rendimento privato, necessità di solide competenze pubbliche nella negoziazione e vigilanza."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.7",
+          "type": "section",
+          "title": "9.7 Servizi di interesse economico generale (SIEG)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.7.1",
+              "type": "definition",
+              "content": "I servizi di interesse economico generale sono servizi di natura economica che gli Stati membri dell'UE sottopongono a specifici obblighi di servizio pubblico in quanto ritenuti essenziali per la collettività. Beneficiano di un regime speciale nel diritto della concorrenza."
+            },
+            {
+              "id": "9.7.2",
+              "type": "keypoint",
+              "title": "Nozione europea di SIEG",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sono attività economiche (producono beni o servizi sul mercato) che lo Stato ritiene debbano essere garantite a tutti i cittadini a condizioni accessibili, anche quando il mercato da solo non lo consentirebbe."
+                },
+                {
+                  "content": "Gli Stati membri hanno ampia discrezionalità nell'individuare i SIEG secondo le esigenze nazionali, ma devono rispettare i principi europei di proporzionalità e non discriminazione."
+                },
+                {
+                  "content": "Esempi tipici: servizi postali universali, distribuzione energia elettrica in zone remote, trasporto pubblico locale in aree svantaggiate."
+                }
+              ]
+            },
+            {
+              "id": "9.7.3",
+              "type": "keypoint",
+              "title": "Obblighi di servizio pubblico",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Lo Stato può imporre al gestore obblighi specifici: servire tutte le aree del territorio, garantire tariffe accessibili, assicurare continuità e qualità minima."
+                },
+                {
+                  "content": "Questi obblighi devono essere chiaramente definiti in un atto di affidamento che ne specifichi contenuto, durata, criteri di qualità e compensazione economica."
+                },
+                {
+                  "content": "Il gestore può ricevere compensazioni economiche per i costi sostenuti nell'adempimento degli obblighi, purché calcolate secondo criteri trasparenti e non eccedenti il necessario."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.8",
+          "type": "section",
+          "title": "9.8 Liberalizzazioni e privatizzazioni",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.8.1",
+              "type": "definition",
+              "content": "Le liberalizzazioni consistono nell'apertura alla concorrenza di settori precedentemente riservati a monopoli pubblici. Le privatizzazioni comportano il trasferimento di imprese o servizi dal settore pubblico a quello privato. Sono processi distinti ma spesso complementari."
+            },
+            {
+              "id": "9.8.2",
+              "type": "keypoint",
+              "title": "Liberalizzazioni",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La liberalizzazione elimina riserve legali di attività, permettendo a più operatori di entrare nel mercato e competere nell'offerta di servizi."
+                },
+                {
+                  "content": "Obiettivi: ridurre i prezzi, migliorare la qualità, stimolare l'innovazione attraverso la competizione tra operatori."
+                },
+                {
+                  "content": "Esempi: telecomunicazioni, energia elettrica e gas, servizi postali, trasporto aereo. Settori un tempo monopolistici oggi aperti alla concorrenza."
+                },
+                {
+                  "content": "La liberalizzazione non elimina la regolazione pubblica: nascono autorità indipendenti che vigilano sul mercato e tutelano consumatori e concorrenza."
+                }
+              ]
+            },
+            {
+              "id": "9.8.3",
+              "type": "keypoint",
+              "title": "Privatizzazioni",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Privatizzazione formale: trasformazione di enti pubblici in società per azioni, mantenendo il controllo pubblico (es. ex municipalizzate diventate società pubbliche)."
+                },
+                {
+                  "content": "Privatizzazione sostanziale: vendita delle azioni a privati con perdita del controllo pubblico sull'impresa (es. dismissione di società statali)."
+                },
+                {
+                  "content": "La privatizzazione può accompagnarsi alla liberalizzazione ma può anche riguardare settori che rimangono regolati o parzialmente protetti."
+                }
+              ]
+            },
+            {
+              "id": "9.8.4",
+              "type": "effects",
+              "title": "Impatto sui servizi pubblici",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "I servizi pubblici essenziali, anche se liberalizzati, mantengono obblighi di servizio universale per garantire accessibilità a tutti i cittadini."
+                },
+                {
+                  "content": "Lo Stato conserva poteri di regolazione, vigilanza e intervento per correggere fallimenti del mercato e tutelare utenti deboli."
+                },
+                {
+                  "content": "Il dibattito continua tra chi ritiene preferibile il modello concorrenziale e chi difende la gestione pubblica per servizi ritenuti fondamentali."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.9",
+          "type": "section",
+          "title": "9.9 Autorità di regolazione indipendenti",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.9.1",
+              "type": "definition",
+              "content": "Le autorità di regolazione indipendenti sono organismi pubblici dotati di autonomia dal Governo istituiti per regolare e vigilare su specifici settori economici, soprattutto quelli liberalizzati. Hanno poteri normativi, di vigilanza e sanzionatori."
+            },
+            {
+              "id": "9.9.2",
+              "type": "authority",
+              "title": "Principali autorità in Italia",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "AGCOM (Autorità per le Garanzie nelle Comunicazioni): regola telecomunicazioni, media, servizi postali, garantendo concorrenza e tutela degli utenti."
+                },
+                {
+                  "content": "ARERA (Autorità di Regolazione per Energia Reti e Ambiente): regola energia elettrica, gas, servizi idrici e rifiuti, definendo tariffe e standard di qualità."
+                },
+                {
+                  "content": "Autorità dei Trasporti: regola i settori dei trasporti per garantire concorrenza, efficienza e tutela degli utenti."
+                },
+                {
+                  "content": "AGCM (Autorità Garante della Concorrenza e del Mercato - Antitrust): tutela la concorrenza in tutti i settori, sanzionando pratiche anticoncorrenziali."
+                }
+              ]
+            },
+            {
+              "id": "9.9.3",
+              "type": "keypoint",
+              "title": "Caratteristiche delle autorità indipendenti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Indipendenza: non sono sottoposte a direttive del Governo, decidono autonomamente nell'ambito delle competenze attribuite dalla legge."
+                },
+                {
+                  "content": "Competenza tecnica: sono composte da esperti del settore nominati con procedure che ne garantiscono professionalità e indipendenza."
+                },
+                {
+                  "content": "Poteri: possono emanare regolamenti settoriali, autorizzare operatori, vigilare sul rispetto delle regole, irrogare sanzioni, risolvere controversie."
+                }
+              ]
+            },
+            {
+              "id": "9.9.4",
+              "type": "keypoint",
+              "title": "Funzioni principali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Regolazione: definiscono le regole di funzionamento dei mercati liberalizzati, bilanciando concorrenza e servizio universale."
+                },
+                {
+                  "content": "Vigilanza: monitorano i comportamenti degli operatori per assicurare il rispetto delle regole e prevenire abusi di posizione dominante."
+                },
+                {
+                  "content": "Tutela: proteggono consumatori e utenti, intervenendo contro pratiche scorrette e garantendo la qualità dei servizi."
+                },
+                {
+                  "content": "Risoluzione controversie: decidono su ricorsi e contenziosi tra operatori o tra operatori e utenti, con procedure più rapide di quelle giudiziarie."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "type": "section",
+      "title": "10. I beni pubblici e il regime giuridico",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "10.0",
+          "type": "definition",
+          "content": "I beni pubblici sono i beni appartenenti allo Stato, agli enti pubblici territoriali e agli altri enti pubblici. Sono soggetti a un regime giuridico particolare che ne garantisce la destinazione all'interesse generale e la tutela rafforzata rispetto ai beni privati."
+        },
+        {
+          "id": "10.1",
+          "type": "section",
+          "title": "10.1 Classificazione: demanio pubblico",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.1.1",
+              "type": "definition",
+              "content": "Il demanio pubblico comprende i beni appartenenti allo Stato e agli enti pubblici territoriali che sono destinati direttamente e immediatamente a soddisfare esigenze collettive. Sono soggetti a un regime di particolare tutela che li rende inalienabili e imprescrittibili."
+            },
+            {
+              "id": "10.1.2",
+              "type": "keypoint",
+              "title": "Demanio marittimo",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Comprende il lido del mare, la spiaggia, i porti, le rade e le lagune. Sono beni essenziali per la navigazione e l'utilizzo del mare."
+                },
+                {
+                  "content": "L'utilizzo delle spiagge deve garantire il libero accesso e la fruizione pubblica, pur potendo essere rilasciate concessioni a privati per stabilimenti balneari."
+                },
+                {
+                  "content": "Le concessioni demaniali marittime sono temporanee e soggette a canoni da versare allo Stato per l'uso esclusivo di porzioni di demanio."
+                }
+              ]
+            },
+            {
+              "id": "10.1.3",
+              "type": "keypoint",
+              "title": "Demanio idrico",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Comprende i fiumi, i torrenti, i laghi e le altre acque definite pubbliche dalla legge, essenziali per l'approvvigionamento idrico e la navigazione interna."
+                },
+                {
+                  "content": "Le acque pubbliche non possono essere oggetto di appropriazione privata e il loro utilizzo è regolato da concessioni rilasciate dall'autorità competente."
+                },
+                {
+                  "content": "Lo sfruttamento delle acque per uso irriguo, industriale o idroelettrico richiede concessione amministrativa con pagamento di canoni."
+                }
+              ]
+            },
+            {
+              "id": "10.1.4",
+              "type": "keypoint",
+              "title": "Demanio stradale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Comprende le strade statali, regionali, provinciali e comunali destinate alla circolazione pubblica, insieme alle loro pertinenze."
+                },
+                {
+                  "content": "Le strade demaniali devono essere mantenute in condizioni di sicurezza e accessibilità da parte degli enti proprietari."
+                },
+                {
+                  "content": "L'occupazione di suolo pubblico stradale per dehors, edicole, cantieri richiede autorizzazione e comporta il pagamento di un canone."
+                }
+              ]
+            },
+            {
+              "id": "10.1.5",
+              "type": "keypoint",
+              "title": "Demanio aeronautico, militare, culturale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il demanio aeronautico comprende gli aeroporti e le infrastrutture destinate al trasporto aereo."
+                },
+                {
+                  "content": "Il demanio militare include caserme, fortificazioni, aree addestrative e altri beni destinati alla difesa nazionale."
+                },
+                {
+                  "content": "I beni culturali appartenenti allo Stato, come musei, biblioteche, archivi, monumenti, costituiscono il demanio culturale con particolare tutela."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.2",
+          "type": "section",
+          "title": "10.2 Demanio necessario e accidentale",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.2.1",
+              "type": "definition",
+              "content": "I beni demaniali si distinguono in demanio necessario, che appartiene esclusivamente allo Stato per loro natura, e demanio accidentale, che può appartenere anche ad altri enti pubblici territoriali."
+            },
+            {
+              "id": "10.2.2",
+              "type": "keypoint",
+              "title": "Demanio necessario",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Comprende il demanio marittimo, idrico e militare che per loro natura essenziale possono appartenere solo allo Stato."
+                },
+                {
+                  "content": "Questi beni sono destinati a funzioni di rilevanza nazionale che non possono essere frammentate tra diversi enti."
+                },
+                {
+                  "content": "Non possono mai perdere la natura demaniale né essere trasferiti a privati o ad altri enti pubblici."
+                }
+              ]
+            },
+            {
+              "id": "10.2.3",
+              "type": "keypoint",
+              "title": "Demanio accidentale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Comprende strade, acquedotti, immobili di interesse storico e artistico che possono appartenere anche a regioni, province, comuni."
+                },
+                {
+                  "content": "Questi beni sono demaniali non per loro natura intrinseca ma per destinazione: se cambia la destinazione d'uso possono perdere la qualità demaniale."
+                },
+                {
+                  "content": "La sdemanializzazione, cioè il passaggio dal demanio al patrimonio, richiede un provvedimento formale che accerti il venir meno della destinazione pubblica."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "type": "section",
+          "title": "10.3 Patrimonio indisponibile",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.3.1",
+              "type": "definition",
+              "content": "Il patrimonio indisponibile comprende i beni pubblici che, pur non essendo demaniali, sono destinati a un pubblico servizio e quindi sottoposti a limitazioni nella disponibilità. Non possono essere alienati senza che cessi la loro destinazione pubblica."
+            },
+            {
+              "id": "10.3.2",
+              "type": "keypoint",
+              "title": "Tipologie di beni indisponibili",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Edifici pubblici destinati a sedi di uffici amministrativi, scuole, ospedali, caserme, carceri che servono per l'esercizio di funzioni pubbliche."
+                },
+                {
+                  "content": "Foreste demaniali che costituiscono parte del patrimonio forestale pubblico e sono destinate alla tutela ambientale e idrogeologica."
+                },
+                {
+                  "content": "Beni mobili di interesse storico, artistico, archeologico che fanno parte del patrimonio culturale pubblico."
+                },
+                {
+                  "content": "Impianti e attrezzature destinati all'erogazione di servizi pubblici come depuratori, discariche, mezzi di trasporto pubblico."
+                }
+              ]
+            },
+            {
+              "id": "10.3.3",
+              "type": "keypoint",
+              "title": "Regime giuridico",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "I beni del patrimonio indisponibile non possono essere alienati finché non viene meno la loro destinazione a pubblico servizio."
+                },
+                {
+                  "content": "Possono essere concessi in uso a privati con contratti di locazione o concessione, ma la destinazione pubblica deve essere rispettata."
+                },
+                {
+                  "content": "Sono soggetti a esecuzione forzata nei limiti e con le modalità stabilite dalla legge, con maggiori garanzie rispetto ai beni privati."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "type": "section",
+          "title": "10.4 Patrimonio disponibile",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.4.1",
+              "type": "definition",
+              "content": "Il patrimonio disponibile comprende tutti i beni appartenenti agli enti pubblici che non rientrano nel demanio né nel patrimonio indisponibile. Sono soggetti alle norme del diritto privato salvo le deroghe previste da leggi speciali."
+            },
+            {
+              "id": "10.4.2",
+              "type": "keypoint",
+              "title": "Natura e caratteristiche",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sono beni di cui l'ente pubblico può disporre liberamente secondo le regole del diritto comune, alienandoli, concedendoli, ipotecandoli."
+                },
+                {
+                  "content": "Comprendono immobili non utilizzati per fini istituzionali, terreni, fabbricati locati a privati, partecipazioni societarie, denaro e crediti."
+                },
+                {
+                  "content": "L'amministrazione può gestire questi beni con finalità patrimoniali, ricavandone redditi attraverso locazioni, vendite o altre forme di valorizzazione."
+                }
+              ]
+            },
+            {
+              "id": "10.4.3",
+              "type": "keypoint",
+              "title": "Limiti all'alienazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Anche se disponibili, l'alienazione deve seguire procedure ad evidenza pubblica per garantire trasparenza e ottenere il miglior prezzo."
+                },
+                {
+                  "content": "Per immobili di valore storico-artistico è necessaria l'autorizzazione del Ministero della Cultura che può esercitare prelazione o imporre vincoli."
+                },
+                {
+                  "content": "Le dismissioni devono rispettare i piani di valorizzazione e razionalizzazione del patrimonio pubblico approvati dagli enti."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.5",
+          "type": "section",
+          "title": "10.5 Uso pubblico e uso particolare dei beni",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.5.1",
+              "type": "definition",
+              "content": "I beni demaniali e del patrimonio indisponibile sono destinati all'uso della collettività. L'uso può essere generale quando tutti possono utilizzare il bene liberamente, oppure particolare quando viene attribuito in via esclusiva a soggetti determinati mediante concessione."
+            },
+            {
+              "id": "10.5.2",
+              "type": "keypoint",
+              "title": "Uso generale o comune",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'uso generale permette a tutti i cittadini di utilizzare il bene pubblico senza necessità di autorizzazione, nel rispetto delle regole comuni."
+                },
+                {
+                  "content": "Esempi: passeggiare su una strada pubblica, sostare su una spiaggia libera, navigare su fiumi e laghi pubblici."
+                },
+                {
+                  "content": "L'uso generale può essere regolato dall'amministrazione per garantire l'ordine e la sicurezza, ma non può essere completamente precluso."
+                }
+              ]
+            },
+            {
+              "id": "10.5.3",
+              "type": "keypoint",
+              "title": "Uso particolare o esclusivo",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'uso particolare attribuisce a un soggetto determinato il diritto di utilizzare in via esclusiva una porzione di bene demaniale, impedendo l'accesso agli altri."
+                },
+                {
+                  "content": "Richiede sempre un titolo amministrativo: concessione, autorizzazione o licenza rilasciata dall'ente proprietario."
+                },
+                {
+                  "content": "Comporta generalmente il pagamento di un canone commisurato all'estensione e al valore economico dell'utilizzo."
+                },
+                {
+                  "content": "Esempi: concessione di suolo pubblico per plateatici, concessioni balneari, autorizzazioni per passi carrabili."
+                }
+              ]
+            },
+            {
+              "id": "10.5.4",
+              "type": "keypoint",
+              "title": "Uso accresciuto",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'uso accresciuto si ha quando l'utilizzo del bene da parte di un soggetto è più intenso rispetto a quello comune ma non esclude l'uso altrui."
+                },
+                {
+                  "content": "Esempio: l'attività di un fotografo in una piazza pubblica che utilizza lo spazio in modo più intenso del semplice passaggio."
+                },
+                {
+                  "content": "Può richiedere autorizzazione quando l'uso più intenso rischia di interferire con l'uso generale del bene da parte della collettività."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.6",
+          "type": "section",
+          "title": "10.6 Concessioni demaniali: procedure e canoni",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.6.1",
+              "type": "definition",
+              "content": "La concessione demaniale è il provvedimento con cui l'amministrazione attribuisce a un privato il diritto di uso esclusivo di una porzione di bene demaniale per un tempo determinato e per finalità specifiche, dietro pagamento di un canone."
+            },
+            {
+              "id": "10.6.2",
+              "type": "procedure",
+              "title": "Procedura di rilascio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le concessioni sono generalmente rilasciate a seguito di procedure competitive ad evidenza pubblica, per garantire trasparenza e parità di trattamento."
+                },
+                {
+                  "content": "L'amministrazione pubblica un bando che indica l'oggetto della concessione, la durata, i criteri di selezione, il canone minimo e gli obblighi del concessionario."
+                },
+                {
+                  "content": "Gli interessati presentano domanda e l'amministrazione valuta le offerte secondo criteri predeterminati, privilegiando generalmente l'offerta economicamente più vantaggiosa."
+                },
+                {
+                  "content": "In alcuni casi è previsto il rinnovo automatico per i concessionari uscenti, ma la normativa europea favorisce sempre più le procedure competitive."
+                }
+              ]
+            },
+            {
+              "id": "10.6.3",
+              "type": "keypoint",
+              "title": "Contenuto della concessione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La concessione indica l'estensione del bene concesso, la durata (generalmente da 6 a 20 anni secondo i settori), le finalità d'uso consentite."
+                },
+                {
+                  "content": "Stabilisce l'importo del canone annuale da corrispondere all'ente concedente, rivalutabile periodicamente."
+                },
+                {
+                  "content": "Specifica gli obblighi del concessionario: manutenzione, rispetto norme sicurezza e ambientali, assicurazione, eventuale obbligo di garantire servizi minimi."
+                },
+                {
+                  "content": "Prevede le cause di decadenza e revoca, nonché la disciplina della restituzione del bene alla scadenza."
+                }
+              ]
+            },
+            {
+              "id": "10.6.4",
+              "type": "keypoint",
+              "title": "Canoni concessori",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il canone è determinato in base al valore economico dell'utilizzo del bene, alla sua ubicazione, all'estensione e alla redditività dell'attività svolta."
+                },
+                {
+                  "content": "Deve essere aggiornato periodicamente per adeguarlo alle variazioni economiche e al valore di mercato del bene."
+                },
+                {
+                  "content": "Il mancato pagamento del canone è causa di decadenza dalla concessione e può comportare l'esecuzione forzata per il recupero del credito."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.7",
+          "type": "section",
+          "title": "10.7 Tutela possessoria dei beni pubblici",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.7.1",
+              "type": "definition",
+              "content": "I beni demaniali e del patrimonio indisponibile godono di una tutela rafforzata rispetto ai beni privati. L'amministrazione può difenderli con strumenti amministrativi più rapidi ed efficaci rispetto ai rimedi giurisdizionali ordinari."
+            },
+            {
+              "id": "10.7.2",
+              "type": "keypoint",
+              "title": "Autotutela amministrativa",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione può recuperare il possesso dei beni pubblici occupati abusivamente mediante ordinanza di rilascio, senza dover ricorrere al giudice."
+                },
+                {
+                  "content": "Può disporre la rimozione di opere o installazioni realizzate senza titolo sui beni demaniali, ordinando la restituzione nello stato originario."
+                },
+                {
+                  "content": "In caso di inottemperanza, può procedere all'esecuzione forzata in danno dell'occupante abusivo, addebitandogli le spese sostenute."
+                }
+              ]
+            },
+            {
+              "id": "10.7.3",
+              "type": "keypoint",
+              "title": "Inalienabilità e imprescrittibilità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "I beni demaniali sono inalienabili: non possono essere venduti né trasferiti a privati finché mantengono la natura demaniale."
+                },
+                {
+                  "content": "Sono imprescrittibili: nessuno può acquistarne la proprietà per usucapione, anche se li occupa da molto tempo senza titolo."
+                },
+                {
+                  "content": "Non possono essere oggetto di diritti a favore di terzi se non nei modi e nei limiti stabiliti dalle leggi che li riguardano."
+                }
+              ]
+            },
+            {
+              "id": "10.7.4",
+              "type": "keypoint",
+              "title": "Sanzioni per occupazione abusiva",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'occupazione abusiva di beni demaniali comporta sanzioni amministrative pecuniarie commisurate al valore dell'utilizzo non autorizzato."
+                },
+                {
+                  "content": "L'occupante abusivo è tenuto a corrispondere un'indennità per l'uso sine titulo del bene, calcolata sul canone che avrebbe dovuto pagare."
+                },
+                {
+                  "content": "Nei casi più gravi possono configurarsi anche reati penali, come l'invasione di terreni o edifici pubblici."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.8",
+          "type": "section",
+          "title": "10.8 Valorizzazione e dismissione del patrimonio",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.8.1",
+              "type": "definition",
+              "content": "La valorizzazione del patrimonio pubblico consiste nell'insieme di attività volte a migliorare la redditività e l'utilizzo efficiente dei beni pubblici. La dismissione è la vendita di beni non più utili per le finalità istituzionali, destinata a ridurre il debito pubblico."
+            },
+            {
+              "id": "10.8.2",
+              "type": "keypoint",
+              "title": "Strategie di valorizzazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Riqualificazione di immobili pubblici sottoutilizzati per destinarli a nuove funzioni più redditizie o socialmente utili."
+                },
+                {
+                  "content": "Concessione a lungo termine a privati che si impegnano a ristrutturare e gestire beni pubblici, come edifici storici trasformati in strutture ricettive."
+                },
+                {
+                  "content": "Creazione di fondi immobiliari pubblici che raggruppano beni dello Stato per una gestione professionale e trasparente."
+                },
+                {
+                  "content": "Stipula di contratti di partenariato pubblico-privato per valorizzare aree o complessi immobiliari di grandi dimensioni."
+                }
+              ]
+            },
+            {
+              "id": "10.8.3",
+              "type": "procedure",
+              "title": "Procedure di dismissione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Gli enti pubblici individuano i beni dismettibili attraverso piani di razionalizzazione del patrimonio che ne verificano l'utilità per le finalità istituzionali."
+                },
+                {
+                  "content": "I beni da alienare vengono inseriti in appositi elenchi pubblicati e resi disponibili per l'acquisizione da parte di enti pubblici o privati."
+                },
+                {
+                  "content": "La vendita avviene mediante procedure competitive trasparenti: aste pubbliche, trattative private previa pubblicazione di avvisi, gare."
+                },
+                {
+                  "content": "Per i beni di particolare valore storico-artistico è riconosciuto il diritto di prelazione allo Stato che può acquistarli al prezzo offerto dal miglior offerente."
+                }
+              ]
+            },
+            {
+              "id": "10.8.4",
+              "type": "keypoint",
+              "title": "Vincoli e limiti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "I beni culturali possono essere alienati solo a seguito di autorizzazione ministeriale e con imposizione di vincoli che ne preservino l'integrità."
+                },
+                {
+                  "content": "I proventi delle dismissioni devono essere destinati prioritariamente alla riduzione del debito pubblico o a investimenti in opere pubbliche."
+                },
+                {
+                  "content": "Le dismissioni non possono compromettere l'erogazione di servizi pubblici essenziali né sacrificare interessi ambientali o urbanistici rilevanti."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.9",
+          "type": "section",
+          "title": "10.9 Federalismo demaniale",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.9.1",
+              "type": "definition",
+              "content": "Il federalismo demaniale è il processo di trasferimento di beni immobili dello Stato agli enti territoriali (regioni, province, comuni) per avvicinarli ai livelli di governo che possono gestirli in modo più efficiente e rispondente alle esigenze locali."
+            },
+            {
+              "id": "10.9.2",
+              "type": "keypoint",
+              "title": "Finalità del federalismo demaniale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Avvicinare la gestione dei beni ai territori che possono valorizzarli meglio conoscendone le specificità e le potenzialità."
+                },
+                {
+                  "content": "Ridurre i costi di gestione accentrata di beni dispersi sul territorio nazionale e spesso sottoutilizzati."
+                },
+                {
+                  "content": "Dare agli enti locali nuove risorse patrimoniali da valorizzare per finanziare servizi e investimenti locali."
+                },
+                {
+                  "content": "Favorire il recupero e la riqualificazione di immobili pubblici abbandonati o in stato di degrado."
+                }
+              ]
+            },
+            {
+              "id": "10.9.3",
+              "type": "procedure",
+              "title": "Modalità di attuazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Lo Stato individua i beni trasferibili agli enti territoriali attraverso decreti ministeriali che ne specificano l'ubicazione e la destinazione."
+                },
+                {
+                  "content": "Gli enti interessati manifestano l'interesse ad acquisire i beni indicando il programma di valorizzazione che intendono realizzare."
+                },
+                {
+                  "content": "Il trasferimento avviene a titolo gratuito con atto formale che attribuisce all'ente locale la piena proprietà o il diritto di superficie."
+                },
+                {
+                  "content": "L'ente beneficiario assume l'obbligo di destinare i beni a finalità di interesse pubblico secondo il piano di valorizzazione approvato."
+                }
+              ]
+            },
+            {
+              "id": "10.9.4",
+              "type": "keypoint",
+              "title": "Vincoli e controlli",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "I beni trasferiti devono essere utilizzati per finalità pubbliche o di interesse generale, non possono essere liberamente alienati dall'ente ricevente."
+                },
+                {
+                  "content": "L'ente deve realizzare il programma di valorizzazione entro termini definiti, pena la retrocessione del bene allo Stato."
+                },
+                {
+                  "content": "È previsto un sistema di monitoraggio per verificare che i beni trasferiti siano effettivamente valorizzati e non lasciati in stato di abbandono."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "type": "section",
+      "title": "11. I contratti pubblici (D.Lgs. 36/2023 - Nuovo Codice)",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "11.0",
+          "type": "definition",
+          "content": "I contratti pubblici sono gli accordi stipulati dalle amministrazioni pubbliche per acquisire lavori, servizi e forniture necessari al funzionamento degli uffici e alla realizzazione di opere pubbliche. Il nuovo Codice dei contratti pubblici (D.Lgs. 36/2023) disciplina le procedure per garantire trasparenza, concorrenza ed efficienza nella spesa pubblica."
+        },
+        {
+          "id": "11.1",
+          "type": "section",
+          "title": "11.1 Principi generali: risultato, fiducia, accesso al mercato",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.1.1",
+              "type": "definition",
+              "content": "Il nuovo Codice dei contratti pubblici si fonda su principi innovativi che orientano l'intera disciplina degli appalti verso obiettivi di efficienza, semplificazione e valorizzazione del rapporto con gli operatori economici."
+            },
+            {
+              "id": "11.1.2",
+              "type": "keypoint",
+              "title": "Principio del risultato",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione deve concentrarsi sul raggiungimento del risultato atteso piuttosto che sull'adempimento formale delle procedure."
+                },
+                {
+                  "content": "Le stazioni appaltanti devono organizzarsi e agire per conseguire il miglior risultato possibile nell'interesse della collettività, con efficienza e tempestività."
+                },
+                {
+                  "content": "Il principio valorizza la responsabilità dei funzionari per i risultati conseguiti anziché per la mera conformità formale alle regole."
+                }
+              ]
+            },
+            {
+              "id": "11.1.3",
+              "type": "keypoint",
+              "title": "Principio di fiducia",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il rapporto tra amministrazione e operatori economici deve essere improntato alla reciproca collaborazione e buona fede."
+                },
+                {
+                  "content": "L'amministrazione deve presumere la buona fede degli operatori, richiedendo integrazioni anziché escludere per vizi formali sanabili."
+                },
+                {
+                  "content": "Il principio di fiducia si applica anche internamente, valorizzando la professionalità dei funzionari e riducendo controlli burocratici eccessivi."
+                }
+              ]
+            },
+            {
+              "id": "11.1.4",
+              "type": "keypoint",
+              "title": "Principio di accesso al mercato",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le procedure devono favorire la più ampia partecipazione di operatori qualificati, evitando requisiti sproporzionati o discriminatori."
+                },
+                {
+                  "content": "L'amministrazione deve rimuovere ostacoli non necessari che limitano la concorrenza e la partecipazione delle piccole e medie imprese."
+                },
+                {
+                  "content": "Le clausole dei bandi devono essere proporzionate all'oggetto dell'appalto, senza imporre oneri eccessivi che scoraggino la partecipazione."
+                }
+              ]
+            },
+            {
+              "id": "11.1.5",
+              "type": "keypoint",
+              "title": "Altri principi fondamentali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Principio di tassatività delle cause di esclusione: un operatore può essere escluso solo per le ragioni espressamente previste dal Codice."
+                },
+                {
+                  "content": "Principio di proporzionalità: requisiti, oneri e sanzioni devono essere adeguati e non eccedenti rispetto all'oggetto del contratto."
+                },
+                {
+                  "content": "Principio di non discriminazione e parità di trattamento: tutti gli operatori devono essere trattati allo stesso modo, senza favoritismi o preclusioni ingiustificate."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.2",
+          "type": "section",
+          "title": "11.2 Programmazione e progettazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.2.1",
+              "type": "definition",
+              "content": "La programmazione e la progettazione sono fasi preliminari essenziali che precedono l'affidamento dei contratti pubblici. Una corretta programmazione evita sprechi e garantisce che le risorse siano destinate a interventi realmente necessari e fattibili."
+            },
+            {
+              "id": "11.2.2",
+              "type": "keypoint",
+              "title": "Programmazione dei lavori pubblici",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Ogni amministrazione deve adottare un programma triennale dei lavori pubblici che individua gli interventi prioritari da realizzare."
+                },
+                {
+                  "content": "Il programma indica per ciascun intervento: la priorità, il quadro economico, i tempi previsti, le fonti di finanziamento."
+                },
+                {
+                  "content": "L'inserimento nel programma è condizione necessaria per procedere all'affidamento: non si possono bandire gare per lavori non programmati."
+                },
+                {
+                  "content": "Il programma viene aggiornato annualmente e pubblicato per consentire agli operatori di conoscere le opportunità future."
+                }
+              ]
+            },
+            {
+              "id": "11.2.3",
+              "type": "keypoint",
+              "title": "Livelli di progettazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Progetto di fattibilità tecnico-economica: primo livello che individua le caratteristiche dell'opera, stima i costi, valuta la sostenibilità economica e ambientale."
+                },
+                {
+                  "content": "Progetto esecutivo: livello definitivo che contiene tutti gli elementi necessari per la realizzazione dell'opera, compresi i particolari costruttivi e il computo metrico."
+                },
+                {
+                  "content": "Il nuovo Codice ha eliminato il progetto definitivo, prevedendo solo due livelli per semplificare e accelerare le procedure."
+                }
+              ]
+            },
+            {
+              "id": "11.2.4",
+              "type": "requirements",
+              "title": "Verifica e validazione dei progetti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "I progetti devono essere sottoposti a verifica per accertarne la completezza, la coerenza tecnica ed economica, il rispetto delle normative."
+                },
+                {
+                  "content": "La validazione è l'atto formale con cui il responsabile del procedimento attesta che il progetto è idoneo per essere posto a base di gara."
+                },
+                {
+                  "content": "Progetti carenti o mal definiti causano contenziosi, varianti in corso d'opera, ritardi e maggiori costi: per questo la progettazione accurata è fondamentale."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.2.5",
+          "type": "section",
+          "title": "11.3 Soglie comunitarie e nazionali",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.3.1",
+              "type": "definition",
+              "content": "Le procedure di affidamento variano a seconda del valore stimato del contratto. Le soglie di valore determinano se l'appalto è soggetto alla disciplina europea completa (sopra soglia) o può seguire procedure semplificate nazionali (sotto soglia)."
+            },
+            {
+              "id": "11.3.2",
+              "type": "keypoint",
+              "title": "Soglie comunitarie",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per i lavori pubblici: soglia di 5.538.000 euro. Sopra questa soglia si applicano tutte le disposizioni europee e l'obbligo di pubblicità comunitaria."
+                },
+                {
+                  "content": "Per servizi e forniture: soglia di 140.000 euro per amministrazioni centrali, 215.000 euro per altri enti pubblici."
+                },
+                {
+                  "content": "Le soglie sono stabilite dall'Unione Europea e vengono aggiornate periodicamente ogni due anni."
+                }
+              ]
+            },
+            {
+              "id": "11.3.3",
+              "type": "keypoint",
+              "title": "Contratti sotto soglia",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per i contratti sotto le soglie europee si applicano procedure semplificate che garantiscono comunque trasparenza e concorrenza."
+                },
+                {
+                  "content": "L'amministrazione ha maggiore flessibilità nella scelta delle procedure ma deve sempre rispettare i principi fondamentali."
+                },
+                {
+                  "content": "Anche sotto soglia è obbligatoria la pubblicazione degli avvisi per garantire parità di accesso agli operatori interessati."
+                }
+              ]
+            },
+            {
+              "id": "11.3.4",
+              "type": "keypoint",
+              "title": "Affidamenti diretti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per importi molto ridotti (sotto i 40.000 euro per lavori, 140.000 euro per servizi e forniture) è possibile l'affidamento diretto senza procedure competitive."
+                },
+                {
+                  "content": "Anche l'affidamento diretto richiede motivazione della scelta e rotazione degli operatori per evitare favoritismi."
+                },
+                {
+                  "content": "L'amministrazione deve comunque verificare che il prezzo sia congruo e che l'operatore possieda i requisiti minimi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.4",
+          "type": "section",
+          "title": "11.4 Procedure di affidamento: aperte, ristrette, negoziate",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.4.1",
+              "type": "definition",
+              "content": "Le procedure di affidamento sono i percorsi che l'amministrazione segue per selezionare il contraente. Variano per grado di apertura alla concorrenza e complessità, dovendo essere scelte in base alle caratteristiche del contratto."
+            },
+            {
+              "id": "11.4.2",
+              "type": "keypoint",
+              "title": "Procedura aperta",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nella procedura aperta qualsiasi operatore interessato può presentare un'offerta in risposta al bando pubblicato."
+                },
+                {
+                  "content": "Si svolge in un'unica fase: gli operatori presentano contemporaneamente i documenti di qualificazione e l'offerta economica e tecnica."
+                },
+                {
+                  "content": "È la procedura più trasparente e competitiva, garantisce la massima apertura al mercato ma può risultare più onerosa per gli operatori che devono predisporre offerte complete."
+                }
+              ]
+            },
+            {
+              "id": "11.4.3",
+              "type": "keypoint",
+              "title": "Procedura ristretta",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nella procedura ristretta l'amministrazione invita a presentare offerta solo gli operatori che hanno superato una fase preliminare di selezione."
+                },
+                {
+                  "content": "Si svolge in due fasi: prima gli operatori presentano domanda di partecipazione con i requisiti, poi solo i selezionati sono invitati a presentare offerta."
+                },
+                {
+                  "content": "È utile per appalti complessi dove si vuole limitare il numero di offerenti a quelli effettivamente qualificati, riducendo i costi di partecipazione."
+                }
+              ]
+            },
+            {
+              "id": "11.4.4",
+              "type": "keypoint",
+              "title": "Procedura negoziata",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nella procedura negoziata l'amministrazione consulta operatori economici selezionati e negozia con uno o più di essi le condizioni contrattuali."
+                },
+                {
+                  "content": "Può essere con o senza pubblicazione di bando, a seconda della presenza o meno di una fase preliminare di selezione pubblica."
+                },
+                {
+                  "content": "È ammessa solo in casi specifici: urgenza, infruttuosità di procedure precedenti, servizi molto specializzati, particolari esigenze tecniche."
+                },
+                {
+                  "content": "Garantisce flessibilità ma deve essere usata con cautela per evitare che limiti eccessivamente la concorrenza."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.5",
+          "type": "section",
+          "title": "11.5 Dialogo competitivo e partenariato per l'innovazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.5.1",
+              "type": "definition",
+              "content": "Il dialogo competitivo e il partenariato per l'innovazione sono procedure speciali utilizzate quando l'amministrazione non è in grado di definire autonomamente le specifiche tecniche del contratto o necessita di soluzioni innovative non disponibili sul mercato."
+            },
+            {
+              "id": "11.5.2",
+              "type": "keypoint",
+              "title": "Dialogo competitivo",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione avvia un dialogo con candidati ammessi per individuare e definire le soluzioni più idonee a soddisfare le proprie esigenze."
+                },
+                {
+                  "content": "Si usa per appalti particolarmente complessi quando l'amministrazione non è oggettivamente in grado di definire mezzi tecnici o specificazioni contrattuali."
+                },
+                {
+                  "content": "Il dialogo prosegue fino a individuare le soluzioni che rispondono alle esigenze, poi si invitano i partecipanti a presentare offerte finali sulla base delle soluzioni individuate."
+                },
+                {
+                  "content": "Garantisce che soluzioni innovative possano emergere dal confronto con gli operatori specializzati."
+                }
+              ]
+            },
+            {
+              "id": "11.5.3",
+              "type": "keypoint",
+              "title": "Partenariato per l'innovazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Si utilizza quando l'amministrazione necessita di un prodotto, servizio o lavoro innovativo non disponibile sul mercato che richiede attività di ricerca e sviluppo."
+                },
+                {
+                  "content": "L'amministrazione seleziona partner con cui sviluppare congiuntamente soluzioni innovative, finanziando le attività di ricerca necessarie."
+                },
+                {
+                  "content": "Il partenariato si articola in fasi successive: ricerca e sviluppo, produzione e fornitura dei prodotti o servizi risultanti."
+                },
+                {
+                  "content": "Permette alle amministrazioni di stimolare l'innovazione e di acquisire soluzioni all'avanguardia rispondenti a specifiche esigenze pubbliche."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.6",
+          "type": "section",
+          "title": "11.6 Qualificazione degli operatori economici",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.6.1",
+              "type": "definition",
+              "content": "La qualificazione è il sistema che attesta preventivamente il possesso da parte degli operatori economici dei requisiti di capacità tecnica, economica e organizzativa necessari per eseguire determinati tipi di contratti pubblici."
+            },
+            {
+              "id": "11.6.2",
+              "type": "keypoint",
+              "title": "Sistema di qualificazione SOA",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per i lavori pubblici sopra determinate soglie è obbligatoria l'attestazione SOA rilasciata da organismi accreditati."
+                },
+                {
+                  "content": "L'attestazione certifica il possesso di requisiti di idoneità economico-finanziaria e tecnico-organizzativa per determinate categorie di lavori."
+                },
+                {
+                  "content": "Le SOA verificano fatturato, organico, esecuzione di lavori analoghi, dotazioni tecniche, certificazioni di qualità."
+                },
+                {
+                  "content": "L'attestazione ha validità quinquennale ed è soggetta a verifiche periodiche di mantenimento dei requisiti."
+                }
+              ]
+            },
+            {
+              "id": "11.6.3",
+              "type": "keypoint",
+              "title": "Qualificazione per servizi e forniture",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per servizi e forniture non esiste un sistema unico di qualificazione preventiva come per i lavori."
+                },
+                {
+                  "content": "L'amministrazione verifica caso per caso il possesso dei requisiti richiesti nel bando, basandosi su autodichiarazioni e documentazione."
+                },
+                {
+                  "content": "Possono essere richieste: referenze di contratti analoghi, bilanci, certificazioni di qualità, polizze assicurative, organico specializzato."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.7",
+          "type": "section",
+          "title": "11.7 Requisiti di ordine generale e speciale",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.7.1",
+              "type": "definition",
+              "content": "Per partecipare alle gare d'appalto gli operatori economici devono possedere requisiti di ordine generale, che attengono alla moralità professionale, e requisiti di ordine speciale, che riguardano la capacità economico-finanziaria e tecnico-professionale."
+            },
+            {
+              "id": "11.7.2",
+              "type": "requirements",
+              "title": "Requisiti di ordine generale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Assenza di condanne penali per reati gravi (mafia, corruzione, frode, riciclaggio) che comportano l'esclusione automatica dalla gara."
+                },
+                {
+                  "content": "Regolarità contributiva e fiscale: l'operatore deve essere in regola con i versamenti previdenziali e con gli obblighi tributari."
+                },
+                {
+                  "content": "Assenza di gravi illeciti professionali accertati, come inadempimenti contrattuali rilevanti o false dichiarazioni in precedenti procedure."
+                },
+                {
+                  "content": "Insussistenza di cause di decadenza, sospensione o divieto previste dalla normativa antimafia."
+                }
+              ]
+            },
+            {
+              "id": "11.7.3",
+              "type": "requirements",
+              "title": "Requisiti di capacità economico-finanziaria",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Fatturato globale e specifico minimo negli ultimi esercizi, commisurato all'importo dell'appalto."
+                },
+                {
+                  "content": "Adeguata copertura assicurativa per responsabilità civile professionale e rischi di esecuzione."
+                },
+                {
+                  "content": "Solidità patrimoniale dimostrata attraverso bilanci, rating, referenze bancarie."
+                }
+              ]
+            },
+            {
+              "id": "11.7.4",
+              "type": "requirements",
+              "title": "Requisiti di capacità tecnico-professionale",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Esecuzione negli ultimi anni di contratti analoghi per oggetto e valore a quello in gara."
+                },
+                {
+                  "content": "Disponibilità di personale tecnico qualificato, attrezzature, mezzi d'opera adeguati all'esecuzione."
+                },
+                {
+                  "content": "Possesso di certificazioni di qualità, ambientali, di sicurezza quando richieste o valorizzate dal bando."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.8",
+          "type": "section",
+          "title": "11.8 Criteri di aggiudicazione: offerta economicamente vantaggiosa",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.8.1",
+              "type": "definition",
+              "content": "I criteri di aggiudicazione sono i parametri in base ai quali l'amministrazione individua l'offerta migliore tra quelle presentate. Il nuovo Codice privilegia l'offerta economicamente più vantaggiosa rispetto al solo prezzo più basso."
+            },
+            {
+              "id": "11.8.2",
+              "type": "keypoint",
+              "title": "Offerta economicamente più vantaggiosa",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Valuta il miglior rapporto qualità/prezzo considerando elementi tecnici e economici dell'offerta, non solo il minor prezzo."
+                },
+                {
+                  "content": "Gli elementi di valutazione sono predeterminati nel bando: caratteristiche tecniche, funzionali, ambientali, sociali, innovative, oltre al prezzo."
+                },
+                {
+                  "content": "A ciascun elemento è attribuito un punteggio massimo: l'offerta con il punteggio complessivo più alto viene aggiudicata."
+                },
+                {
+                  "content": "Favorisce la qualità e l'innovazione, evita gare al massimo ribasso che possono compromettere standard qualitativi e sicurezza."
+                }
+              ]
+            },
+            {
+              "id": "11.8.3",
+              "type": "keypoint",
+              "title": "Minor prezzo",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il criterio del minor prezzo può essere usato solo per appalti di lavori, servizi e forniture standardizzati di modesta complessità."
+                },
+                {
+                  "content": "Si aggiudica al concorrente che offre il prezzo più basso, verificando comunque la congruità per evitare ribassi insostenibili."
+                },
+                {
+                  "content": "È vietato per appalti di servizi tecnici, progetti innovativi, forniture complesse dove la qualità è determinante."
+                }
+              ]
+            },
+            {
+              "id": "11.8.4",
+              "type": "procedure",
+              "title": "Valutazione delle offerte",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le offerte tecniche sono valutate da una commissione giudicatrice composta da esperti nominati dalla stazione appaltante."
+                },
+                {
+                  "content": "La commissione attribuisce i punteggi secondo i criteri predefiniti, motivando le valutazioni soprattutto per elementi qualitativi discrezionali."
+                },
+                {
+                  "content": "Dopo la valutazione tecnica si procede all'apertura delle offerte economiche e al calcolo del punteggio complessivo."
+                },
+                {
+                  "content": "L'aggiudicazione provvisoria è soggetta a verifica dei requisiti dell'aggiudicatario prima di diventare definitiva."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.9",
+          "type": "section",
+          "title": "11.9 Esecuzione del contratto: varianti, subappalto, cessione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.9.1",
+              "type": "definition",
+              "content": "L'esecuzione del contratto è la fase in cui l'appaltatore realizza la prestazione oggetto del contratto sotto la vigilanza dell'amministrazione. Durante l'esecuzione possono rendersi necessarie modifiche contrattuali che devono rispettare limiti precisi per tutelare la concorrenza."
+            },
+            {
+              "id": "11.9.2",
+              "type": "keypoint",
+              "title": "Varianti in corso d'opera",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le varianti sono modifiche al progetto originario che possono essere necessarie per circostanze impreviste o sopravvenute."
+                },
+                {
+                  "content": "Sono ammesse solo se previste nel contratto originario come opzioni o se necessarie per cause imprevedibili, senza alterare la natura complessiva del contratto."
+                },
+                {
+                  "content": "Le varianti non possono comportare aumenti eccessivi del corrispettivo né modificare sostanzialmente l'oggetto del contratto, altrimenti violerebbero la concorrenza."
+                },
+                {
+                  "content": "Devono essere autorizzate dal responsabile unico del progetto dopo verifica della necessità e congruità economica."
+                }
+              ]
+            },
+            {
+              "id": "11.9.3",
+              "type": "keypoint",
+              "title": "Subappalto",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il subappalto è l'affidamento da parte dell'appaltatore di parte delle lavorazioni a imprese terze, mantenendo la responsabilità complessiva verso l'amministrazione."
+                },
+                {
+                  "content": "È consentito entro limiti percentuali definiti (generalmente fino al 40-50% dell'importo contrattuale) e richiede preventiva autorizzazione della stazione appaltante."
+                },
+                {
+                  "content": "I subappaltatori devono possedere i requisiti di qualificazione per le lavorazioni affidate e non trovarsi in situazioni di incompatibilità."
+                },
+                {
+                  "content": "L'amministrazione può pagare direttamente i subappaltatori per garantire che ricevano il corrispettivo dovuto ed evitare irregolarità contributive."
+                }
+              ]
+            },
+            {
+              "id": "11.9.4",
+              "type": "keypoint",
+              "title": "Cessione del contratto",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La cessione del contratto trasferisce interamente la posizione contrattuale dell'appaltatore a un altro soggetto."
+                },
+                {
+                  "content": "È vietata salvo casi eccezionali: fusione, incorporazione, cessione d'azienda, con autorizzazione della stazione appaltante."
+                },
+                {
+                  "content": "Il cessionario deve possedere tutti i requisiti che aveva l'appaltatore originario e offrire garanzie equivalenti."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.10",
+          "type": "section",
+          "title": "11.10 Controversie e strumenti di risoluzione alternativa (ADR)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "11.10.1",
+              "type": "definition",
+              "content": "Le controversie che sorgono durante l'esecuzione dei contratti pubblici possono essere risolte mediante strumenti alternativi al giudizio ordinario, più rapidi ed economici, che favoriscono la continuità dei lavori e il raggiungimento del risultato."
+            },
+            {
+              "id": "11.10.2",
+              "type": "keypoint",
+              "title": "Accordo bonario",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'accordo bonario è la composizione amichevole delle controversie attraverso la negoziazione diretta tra amministrazione e appaltatore."
+                },
+                {
+                  "content": "Il responsabile unico del progetto formula una proposta di accordo quando emergono contestazioni su riserve, varianti, maggiori costi."
+                },
+                {
+                  "content": "Se l'appaltatore accetta, si raggiunge una transazione che chiude definitivamente la controversia evitando il contenzioso."
+                }
+              ]
+            },
+            {
+              "id": "11.10.3",
+              "type": "keypoint",
+              "title": "Arbitrato",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'arbitrato affida la risoluzione della controversia a un collegio di arbitri scelti dalle parti, che decidono con un lodo vincolante."
+                },
+                {
+                  "content": "È previsto come strumento ordinario per controversie tecniche complesse dove serve competenza specialistica."
+                },
+                {
+                  "content": "Il lodo arbitrale ha gli stessi effetti di una sentenza ed è impugnabile solo per vizi formali gravi, non nel merito."
+                }
+              ]
+            },
+            {
+              "id": "11.10.4",
+              "type": "keypoint",
+              "title": "Mediazione e conciliazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La mediazione prevede l'intervento di un terzo neutrale che facilita il dialogo e aiuta le parti a trovare una soluzione condivisa."
+                },
+                {
+                  "content": "La conciliazione è simile ma prevede che il terzo proponga attivamente una soluzione che le parti possono accettare o rifiutare."
+                },
+                {
+                  "content": "Questi strumenti sono incoraggiati per la rapidità, la riservatezza e la minore conflittualità rispetto al contenzioso giudiziale."
+                }
+              ]
+            },
+            {
+              "id": "11.10.5",
+              "type": "keypoint",
+              "title": "Vantaggi degli strumenti ADR",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Rapidità: le procedure alternative si concludono in tempi molto più brevi rispetto ai giudizi ordinari che possono durare anni."
+                },
+                {
+                  "content": "Economicità: i costi sono inferiori e prevedibili rispetto alle spese legali e giudiziarie del contenzioso ordinario."
+                },
+                {
+                  "content": "Competenza: gli arbitri possono avere competenze tecniche specifiche sul tema controverso, garantendo decisioni più qualificate."
+                },
+                {
+                  "content": "Continuità: la risoluzione rapida evita blocchi dei lavori e permette di completare le opere nei tempi previsti."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "type": "section",
+      "title": "12. Trasparenza e anticorruzione nella PA",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "12.0",
+          "type": "definition",
+          "content": "La trasparenza e la prevenzione della corruzione sono principi fondamentali che garantiscono l'integrità della Pubblica Amministrazione. La normativa impone alle amministrazioni di rendere pubblici atti e informazioni e di adottare misure organizzative per prevenire fenomeni corruttivi."
+        },
+        {
+          "id": "12.1",
+          "type": "section",
+          "title": "12.1 D.Lgs. 33/2013: principio di trasparenza",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "12.1.1",
+              "type": "definition",
+              "content": "Il Decreto Legislativo 33/2013 disciplina gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni. La trasparenza è intesa come accessibilità totale delle informazioni sull'organizzazione e l'attività delle amministrazioni."
+            },
+            {
+              "id": "12.1.2",
+              "type": "keypoint",
+              "title": "Finalità della trasparenza",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Favorire il controllo democratico sull'operato delle pubbliche amministrazioni da parte dei cittadini."
+                },
+                {
+                  "content": "Prevenire fenomeni corruttivi e comportamenti illegali attraverso la pubblicità degli atti e delle decisioni."
+                },
+                {
+                  "content": "Promuovere l'integrità e la legalità dell'azione amministrativa, responsabilizzando dirigenti e funzionari."
+                },
+                {
+                  "content": "Garantire il diritto dei cittadini ad essere informati sull'uso delle risorse pubbliche e sui risultati dell'azione amministrativa."
+                }
+              ]
+            },
+            {
+              "id": "12.1.3",
+              "type": "keypoint",
+              "title": "Trasparenza come livello essenziale delle prestazioni",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La trasparenza è qualificata come livello essenziale delle prestazioni che deve essere garantito in modo uniforme su tutto il territorio nazionale."
+                },
+                {
+                  "content": "Tutte le amministrazioni, centrali e locali, sono obbligate a rispettare gli stessi standard minimi di pubblicazione."
+                },
+                {
+                  "content": "Le amministrazioni possono ampliare gli obblighi di trasparenza ma non possono ridurli al di sotto dei livelli stabiliti dalla legge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12.2",
+          "type": "section",
+          "title": "12.2 Obblighi di pubblicazione: sezione Amministrazione Trasparente",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "12.2.1",
+              "type": "definition",
+              "content": "Ogni amministrazione deve istituire nella propria pagina web istituzionale una sezione denominata Amministrazione Trasparente dove pubblicare in formato aperto e accessibile tutti i dati e le informazioni previste dalla legge."
+            },
+            {
+              "id": "12.2.2",
+              "type": "requirements",
+              "title": "Organizzazione della sezione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La sezione deve seguire uno schema organizzativo uniforme stabilito dall'ANAC per garantire che i cittadini trovino facilmente le informazioni."
+                },
+                {
+                  "content": "Le informazioni devono essere pubblicate in formato aperto che ne permetta il riutilizzo senza restrizioni."
+                },
+                {
+                  "content": "I dati devono essere aggiornati tempestivamente e devono rimanere pubblicati per i periodi stabiliti dalla legge, generalmente cinque anni."
+                }
+              ]
+            },
+            {
+              "id": "12.2.3",
+              "type": "keypoint",
+              "title": "Principali categorie di informazioni da pubblicare",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Disposizioni generali: statuti, atti amministrativi generali, codici di comportamento, organizzazione degli uffici."
+                },
+                {
+                  "content": "Organizzazione: organigramma, articolazione degli uffici, telefono e posta elettronica di ciascun ufficio e responsabile."
+                },
+                {
+                  "content": "Personale: tassi di assenza, incarichi conferiti, curricula dei dirigenti, retribuzioni e compensi."
+                },
+                {
+                  "content": "Bandi di concorso e selezione del personale, con esiti e graduatorie."
+                }
+              ]
+            },
+            {
+              "id": "12.2.4",
+              "type": "keypoint",
+              "title": "Altre informazioni soggette a pubblicazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Performance: piano e relazione sulla performance, ammontare premi distribuiti, dati sulla valutazione dei dirigenti."
+                },
+                {
+                  "content": "Enti controllati: elenco completo, bilanci, incarichi agli organi di indirizzo, compensi."
+                },
+                {
+                  "content": "Attività e procedimenti: tipologie di procedimento, modulistica, atti e documenti, scadenze."
+                },
+                {
+                  "content": "Provvedimenti: pubblicazione integrale di delibere, determinazioni, ordinanze, decreti con i relativi allegati."
+                },
+                {
+                  "content": "Bandi di gara e contratti: da indizione fino a esecuzione, con importi liquidati e risultati."
+                },
+                {
+                  "content": "Sovvenzioni, contributi, sussidi: beneficiari, importi, modalità di assegnazione."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12.2.5",
+          "type": "effects",
+          "title": "Conseguenze dell'inadempimento",
+          "collapsible": true,
+          "children": [
+            {
+              "content": "La mancata o incompleta pubblicazione costituisce illecito disciplinare per i responsabili e comporta responsabilità dirigenziale."
+            },
+            {
+              "content": "È causa di responsabilità per danno all'immagine dell'amministrazione e incide sulla valutazione del dirigente."
+            },
+            {
+              "content": "L'ANAC può irrogare sanzioni amministrative pecuniarie per gravi o reiterate violazioni degli obblighi di pubblicazione."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
