@@ -9,7 +9,7 @@
     {
       "id": "1",
       "type": "section",
-      "title": "Sistema delle fonti normative",
+      "title": "1. Sistema delle fonti normative",
       "collapsible": true,
       "children": [
         {
@@ -62,7 +62,7 @@
             { "content": "L. 165/1998: affidamento terapeutico per tossicodipendenti" },
             { "content": "L. 251/2005 (ex Cirielli): inasprimento disciplina recidiva e benefici" },
             { "content": "L. 199/2010: conversione in detenzione domiciliare pene brevi" },
-            { "content": "L. 47/2015: tutela relazioni familiari detenute madri" },
+            { "content": "L. 47/2015: tutela relazioni familiari detenute madres" },
             {
               "content": "D.L. 146/2013 (conv. L. 10/2014): rimedi contro sovraffollamento post-sentenza Torreggiani"
             }
@@ -73,7 +73,7 @@
     {
       "id": "2",
       "type": "section",
-      "title": "Principi costituzionali dell'esecuzione penale",
+      "title": "2. Principi costituzionali dell'esecuzione penale",
       "collapsible": true,
       "children": [
         {
@@ -172,7 +172,7 @@
               "content": "Determinatezza: norme devono essere chiare e prevedibili, divieto di interpretazioni estensive a danno del detenuto"
             },
             {
-              "content": "Irretroattività in malam partem: modifiche peggiorative regime detentivo non applicabili a fatti anteriori"
+              "content": "Irretroactività in malam partem: modifiche peggiorative regime detentivo non applicabili a fatti anteriori"
             },
             {
               "content": "Favor libertatis: in caso di dubbio interpretativo prevale soluzione più favorevole al detenuto"
@@ -190,7 +190,7 @@
     {
       "id": "3",
       "type": "section",
-      "title": "Struttura organizzativa penitenziaria",
+      "title": "3. Struttura organizzativa penitenziaria",
       "collapsible": true,
       "children": [
         {
@@ -384,7 +384,7 @@
     {
       "id": "4",
       "type": "section",
-      "title": "Personale dell'esecuzione penitenziaria",
+      "title": "4. Personale dell'esecuzione penitenziaria",
       "collapsible": true,
       "children": [
         {
@@ -546,7 +546,7 @@
     {
       "id": "5",
       "type": "section",
-      "title": "Trattamento penitenziario individualizzato",
+      "title": "5. Trattamento penitenziario individualizzato",
       "collapsible": true,
       "children": [
         {
@@ -800,7 +800,7 @@
     {
       "id": "6",
       "type": "section",
-      "title": "Diritti fondamentali del detenuto",
+      "title": "6. Diritti fondamentali del detenuto",
       "collapsible": true,
       "children": [
         {
@@ -1036,7 +1036,7 @@
     {
       "id": "7",
       "type": "section",
-      "title": "Sistema disciplinare penitenziario",
+      "title": "7. Sistema disciplinare penitenziario",
       "collapsible": true,
       "children": [
         {
@@ -1200,13 +1200,13 @@
     {
       "id": "8",
       "type": "section",
-      "title": "Sicurezza penitenziaria e gestione ordine",
+      "title": "8. Sicurezza penitenziaria e gestione ordine",
       "collapsible": true,
       "children": [
         {
           "id": "8.1",
           "type": "keypoint",
-          "title": "Misure sicurezza passive - Controllo accessi",
+          "title": "8.1 Misure sicurezza passive - Controllo accessi",
           "collapsible": true,
           "children": [
             {
@@ -1232,14 +1232,14 @@
         {
           "id": "8.2",
           "type": "keypoint",
-          "title": "Perquisizioni personali e ambientali ex artt. 28-30 reg. esec.",
+          "title": "8.2 Perquisizioni personali e ambientali ex artt. 28-30 reg. esec.",
           "collapsible": true,
           "children": [
             {
               "content": "Perquisizione personale ordinaria: controllo esterno corpo, palpazione vestiti, svuotamento tasche, ispezione scarpe, cintura, effetti personali"
             },
             {
-              "content": "Frequenza ordinaria: obbligatoria ogni ingresso/uscita istituto, dopo colloqui, rientri permessi, movimento tra sezioni, traduzioni"
+              "content": "Frequenza ordinaria: obbligatoria ogni ingresso/uscita istituto, dopo colloquis, rientri permessi, movimento tra sezioni, traduzioni"
             },
             {
               "content": "Perquisizione integrale: ispezione corporale completa con denudamento per grave sospetto occultamento oggetti pericolosi, autorizzata direttore"
@@ -1264,7 +1264,7 @@
         {
           "id": "8.3",
           "type": "keypoint",
-          "title": "Sistemi di vigilanza tecnologica",
+          "title": "8.3 Sistemi di vigilanza tecnologica",
           "collapsible": true,
           "children": [
             {
@@ -1290,7 +1290,7 @@
         {
           "id": "8.4",
           "type": "keypoint",
-          "title": "Uso legittimo della forza e mezzi di coercizione ex artt. 33-34 reg. esec.",
+          "title": "8.4 Uso legittimo della forza e mezzi di coercizione ex artt. 33-34 reg. esec.",
           "collapsible": true,
           "children": [
             {
@@ -1322,7 +1322,7 @@
         {
           "id": "8.5",
           "type": "keypoint",
-          "title": "Gestione eventi critici e emergenze collettive",
+          "title": "8.5 Gestione eventi critici e emergenze collettive",
           "collapsible": true,
           "children": [
             {
@@ -1348,7 +1348,7 @@
         {
           "id": "8.6",
           "type": "keypoint",
-          "title": "Prevenzione suicidi e autolesionismo",
+          "title": "8.6 Prevenzione suicidi e autolesionismo",
           "collapsible": true,
           "children": [
             {
@@ -1374,66 +1374,66 @@
       ]
     },
     {
-      "id": "5",
+      "id": "9",
       "type": "section",
-      "title": "5. MAGISTRATURA DI SORVEGLIANZA",
+      "title": "9. Magistratura di sorveglianza",
       "collapsible": true,
       "children": [
         {
-          "id": "5.0",
+          "id": "9.0",
           "type": "definition",
           "content": "La magistratura di sorveglianza è l'insieme degli organi giurisdizionali che controllano l'esecuzione delle pene e decidono sulle misure alternative alla detenzione. È stata istituita con la riforma del 1975 per garantire che anche l'esecuzione penale sia sottoposta a controllo giurisdizionale."
         },
         {
-          "id": "5.1",
+          "id": "9.1",
           "type": "section",
-          "title": "5.1 Istituzione e funzioni",
+          "title": "9.1 Istituzione e funzioni",
           "collapsible": true,
           "children": [
             {
-              "id": "5.1.1",
+              "id": "9.1.1",
               "type": "definition",
               "content": "Prima della riforma del 1975 l'esecuzione della pena era gestita solo dall'amministrazione penitenziaria, senza un vero controllo giurisdizionale. Con la legge 354/1975 è stata istituita la magistratura di sorveglianza come garanzia di legalità e tutela dei diritti del detenuto."
             },
             {
-              "id": "5.1.2",
+              "id": "9.1.2",
               "type": "keypoint",
               "content": "La magistratura di sorveglianza assicura che l'esecuzione della pena rispetti la Costituzione, verificando che il trattamento penitenziario sia conforme alla dignità umana e alla funzione rieducativa della pena."
             }
           ]
         },
         {
-          "id": "5.2",
+          "id": "9.2",
           "type": "section",
-          "title": "5.2 Magistrato di Sorveglianza",
+          "title": "9.2 Magistrato di Sorveglianza",
           "collapsible": true,
           "children": [
             {
-              "id": "5.2.0",
+              "id": "9.2.0",
               "type": "definition",
               "content": "Il Magistrato di Sorveglianza è un giudice che opera in modo monocratico, cioè da solo senza altri membri. Ha competenze sia decisorie che di vigilanza sugli istituti penitenziari."
             },
             {
-              "id": "5.2.1",
+              "id": "9.2.1",
               "type": "section",
-              "title": "5.2.1 Natura monocratica",
+              "title": "9.2.1 Natura monocratica",
               "collapsible": true,
               "children": [
                 {
-                  "id": "5.2.1.1",
+                  "id": "9.2.1.1",
                   "type": "definition",
                   "content": "A differenza del Tribunale di Sorveglianza che è un organo collegiale, il Magistrato di Sorveglianza decide da solo le questioni di sua competenza, garantendo decisioni più rapide per le materie meno complesse."
                 }
               ]
             },
             {
-              "id": "5.2.2",
+              "id": "9.2.2",
               "type": "section",
-              "title": "5.2.2 Competenze",
+              "title": "9.2.2 Competenze",
               "collapsible": true,
               "children": [
                 {
-                  "id": "5.2.2.1",
+                  "id": "9.2.2.1",
                   "type": "authority",
                   "title": "Cosa decide",
                   "collapsible": true,
@@ -1452,18 +1452,18 @@
               ]
             },
             {
-              "id": "5.2.3",
+              "id": "9.2.3",
               "type": "section",
-              "title": "5.2.3 Vigilanza sugli istituti",
+              "title": "9.2.3 Vigilanza sugli istituti",
               "collapsible": true,
               "children": [
                 {
-                  "id": "5.2.3.1",
+                  "id": "9.2.3.1",
                   "type": "definition",
                   "content": "Il Magistrato di Sorveglianza ha il compito di visitare periodicamente gli istituti penitenziari del suo distretto per verificare le condizioni di detenzione, ricevere le lamentele dei detenuti e controllare che vengano rispettate le norme."
                 },
                 {
-                  "id": "5.2.3.2",
+                  "id": "9.2.3.2",
                   "type": "keypoint",
                   "content": "Questa funzione di vigilanza è fondamentale per garantire che i diritti dei detenuti siano rispettati e che l'amministrazione penitenziaria operi in conformità alla legge."
                 }
@@ -1472,42 +1472,42 @@
           ]
         },
         {
-          "id": "5.3",
+          "id": "9.3",
           "type": "section",
-          "title": "5.3 Tribunale di Sorveglianza",
+          "title": "9.3 Tribunale di Sorveglianza",
           "collapsible": true,
           "children": [
             {
-              "id": "5.3.0",
+              "id": "9.3.0",
               "type": "definition",
               "content": "Il Tribunale di Sorveglianza è l'organo collegiale che decide sulle questioni più importanti relative all'esecuzione penale, come la concessione delle misure alternative alla detenzione."
             },
             {
-              "id": "5.3.1",
+              "id": "9.3.1",
               "type": "section",
-              "title": "5.3.1 Composizione",
+              "title": "9.3.1 Composizione",
               "collapsible": true,
               "children": [
                 {
-                  "id": "5.3.1.1",
+                  "id": "9.3.1.1",
                   "type": "definition",
                   "content": "Il Tribunale di Sorveglianza è composto da quattro membri: due magistrati togati (giudici professionali) e due esperti laici, cioè cittadini con competenze specifiche in psicologia, servizio sociale, pedagogia o altre discipline utili alla valutazione del percorso rieducativo."
                 },
                 {
-                  "id": "5.3.1.2",
+                  "id": "9.3.1.2",
                   "type": "keypoint",
                   "content": "La presenza degli esperti laici garantisce che le decisioni tengano conto non solo degli aspetti giuridici, ma anche di quelli psicologici e sociali, offrendo una valutazione più completa del percorso del condannato."
                 }
               ]
             },
             {
-              "id": "5.3.2",
+              "id": "9.3.2",
               "type": "section",
-              "title": "5.3.2 Competenze",
+              "title": "9.3.2 Competenze",
               "collapsible": true,
               "children": [
                 {
-                  "id": "5.3.2.1",
+                  "id": "9.3.2.1",
                   "type": "authority",
                   "title": "Cosa decide",
                   "collapsible": true,
@@ -1526,18 +1526,18 @@
               ]
             },
             {
-              "id": "5.3.3",
+              "id": "9.3.3",
               "type": "section",
-              "title": "5.3.3 Reclami",
+              "title": "9.3.3 Reclami",
               "collapsible": true,
               "children": [
                 {
-                  "id": "5.3.3.1",
+                  "id": "9.3.3.1",
                   "type": "definition",
                   "content": "Quando il Magistrato di Sorveglianza emette un provvedimento che il detenuto o il Pubblico Ministero ritengono illegittimo o ingiusto, possono presentare reclamo al Tribunale di Sorveglianza chiedendone la modifica o l'annullamento."
                 },
                 {
-                  "id": "5.3.3.2",
+                  "id": "9.3.3.2",
                   "type": "keypoint",
                   "content": "Questo meccanismo garantisce un doppio grado di giudizio anche nell'esecuzione penale, permettendo di correggere eventuali errori e assicurando una maggiore tutela dei diritti del condannato."
                 }
@@ -1546,26 +1546,26 @@
           ]
         },
         {
-          "id": "5.4",
+          "id": "9.4",
           "type": "section",
-          "title": "5.4 Corte d'Appello - sezione per i minorenni",
+          "title": "9.4 Corte d'Appello - sezione per i minorenni",
           "collapsible": true,
           "children": [
             {
-              "id": "5.4.1",
+              "id": "9.4.1",
               "type": "definition",
               "content": "Per i minori esiste una sezione speciale della Corte d'Appello che svolge funzioni simili a quelle del Tribunale di Sorveglianza per gli adulti, decidendo sulle misure alternative e sull'esecuzione delle pene per i minorenni."
             }
           ]
         },
         {
-          "id": "5.5",
+          "id": "9.5",
           "type": "section",
-          "title": "5.5 Procura Generale presso la Corte d'Appello",
+          "title": "9.5 Procura Generale presso la Corte d'Appello",
           "collapsible": true,
           "children": [
             {
-              "id": "5.5.1",
+              "id": "9.5.1",
               "type": "definition",
               "content": "Il Pubblico Ministero presso il Tribunale di Sorveglianza è rappresentato dalla Procura Generale presso la Corte d'Appello. Il PM partecipa ai procedimenti di sorveglianza esprimendo il proprio parere e può presentare reclami contro le decisioni che ritiene illegittime."
             }
@@ -1574,105 +1574,105 @@
       ]
     },
     {
-      "id": "6",
+      "id": "10",
       "type": "section",
-      "title": "6. REGIME DETENTIVO SPECIALE EX ART. 41-BIS",
+      "title": "10. Regime detentivo speciale ex art. 41-bis",
       "collapsible": true,
       "children": [
         {
-          "id": "6.0",
+          "id": "10.0",
           "type": "definition",
           "content": "L'articolo 41-bis della legge penitenziaria disciplina un regime detentivo speciale molto restrittivo, comunemente chiamato 'carcere duro', applicabile ai detenuti ritenuti particolarmente pericolosi per la sicurezza e l'ordine pubblico, soprattutto se legati a organizzazioni criminali o terroristiche."
         },
         {
-          "id": "6.1",
+          "id": "10.1",
           "type": "section",
-          "title": "6.1 Storia e normativa",
+          "title": "10.1 Storia e normativa",
           "collapsible": true,
           "children": [
             {
-              "id": "6.1.1",
+              "id": "10.1.1",
               "type": "section",
-              "title": "6.1.1 Introduzione (Legge Gozzini 1986)",
+              "title": "10.1.1 Introduzione (Legge Gozzini 1986)",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.1.1.1",
+                  "id": "10.1.1.1",
                   "type": "definition",
                   "content": "L'articolo 41-bis è stato introdotto con la Legge 663 del 1986, detta Legge Gozzini, in un periodo di emergenza legato al terrorismo e alla criminalità organizzata, per impedire ai detenuti più pericolosi di continuare a gestire le organizzazioni criminali dall'interno del carcere."
                 },
                 {
-                  "id": "6.1.1.2",
+                  "id": "10.1.1.2",
                   "type": "keypoint",
                   "content": "Inizialmente pensato come misura temporanea ed eccezionale, il 41-bis è diventato nel tempo uno strumento strutturale nella lotta contro le mafie."
                 }
               ]
             },
             {
-              "id": "6.1.2",
+              "id": "10.1.2",
               "type": "section",
-              "title": "6.1.2 Permanentizzazione (L. 279/2002)",
+              "title": "10.1.2 Permanentizzazione (L. 279/2002)",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.1.2.1",
+                  "id": "10.1.2.1",
                   "type": "definition",
-                  "content": "Con la Legge 279 del 2002 il regime del 41-bis è stato reso permanente, non più legato a situazioni di emergenza, e ne sono state rafforzate le garanzie procedurali per evitare che potesse essere considerato contrario ai diritti umani."
+                  "content": "Con la Legge 279 del 2002 il regime del 41-bis è stato reso permanente, non più legato a situazioni di emergenza, và ne sono state rafforzate le garanzie procedurali per evitare che potesse essere considerato contrario ai diritti umani."
                 }
               ]
             }
           ]
         },
         {
-          "id": "6.2",
+          "id": "10.2",
           "type": "section",
-          "title": "6.2 Presupposti di applicazione",
+          "title": "10.2 Presupposti di applicazione",
           "collapsible": true,
           "children": [
             {
-              "id": "6.2.0",
+              "id": "10.2.0",
               "type": "definition",
               "content": "Il regime del 41-bis può essere applicato solo in presenza di gravi motivi di ordine e sicurezza pubblica e quando ci sia il fondato pericolo che il detenuto possa mantenere collegamenti con l'organizzazione criminale di appartenenza."
             },
             {
-              "id": "6.2.1",
+              "id": "10.2.1",
               "type": "section",
-              "title": "6.2.1 Delitti di terrorismo",
+              "title": "10.2.1 Delitti di terrorismo",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.2.1.1",
+                  "id": "10.2.1.1",
                   "type": "definition",
                   "content": "Il 41-bis può essere applicato ai detenuti per reati di terrorismo, sia nazionale che internazionale, quando si ritiene che possano continuare a dirigere o favorire l'organizzazione terroristica anche dal carcere."
                 }
               ]
             },
             {
-              "id": "6.2.2",
+              "id": "10.2.2",
               "type": "section",
-              "title": "6.2.2 Associazione mafiosa",
+              "title": "10.2.2 Associazione mafiosa",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.2.2.1",
+                  "id": "10.2.2.1",
                   "type": "definition",
                   "content": "Il 41-bis si applica principalmente ai membri di associazioni di tipo mafioso secondo l'articolo 416-bis del codice penale, come Cosa Nostra, 'Ndrangheta, Camorra, Sacra Corona Unita e altre organizzazioni mafiose."
                 },
                 {
-                  "id": "6.2.2.2",
+                  "id": "10.2.2.2",
                   "type": "keypoint",
                   "content": "L'obiettivo è interrompere i contatti tra i capi mafiosi detenuti e i membri dell'organizzazione ancora liberi, impedendo che il boss continui a impartire ordini e a gestire gli affari criminali dal carcere."
                 }
               ]
             },
             {
-              "id": "6.2.3",
+              "id": "10.2.3",
               "type": "section",
-              "title": "6.2.3 Reati per agevolare organizzazioni criminali",
+              "title": "10.2.3 Reati per agevolare organizzazioni criminali",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.2.3.1",
+                  "id": "10.2.3.1",
                   "type": "definition",
                   "content": "Il regime può essere applicato anche a chi ha commesso reati comuni (omicidi, estorsioni, traffico di droga) per agevolare un'organizzazione criminale, quando si tema che possa continuare a collaborare con l'organizzazione dall'interno del carcere."
                 }
@@ -1681,112 +1681,112 @@
           ]
         },
         {
-          "id": "6.3",
+          "id": "10.3",
           "type": "section",
-          "title": "6.3 Restrizioni previste",
+          "title": "10.3 Restrizioni previste",
           "collapsible": true,
           "children": [
             {
-              "id": "6.3.0",
+              "id": "10.3.0",
               "type": "definition",
               "content": "Il regime del 41-bis comporta numerose e severe limitazioni ai diritti dei detenuti, finalizzate a impedire ogni forma di comunicazione con l'esterno che possa essere utilizzata per mantenere attivi i collegamenti con l'organizzazione criminale."
             },
             {
-              "id": "6.3.1",
+              "id": "10.3.1",
               "type": "section",
-              "title": "6.3.1 Isolamento in cella singola",
+              "title": "10.3.1 Isolamento in cella singola",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.1.1",
+                  "id": "10.3.1.1",
                   "type": "definition",
                   "content": "I detenuti sottoposti al 41-bis sono collocati in celle singole e non possono socializzare liberamente con altri detenuti, per evitare che possano scambiarsi messaggi o coordinarsi con altri membri delle organizzazioni criminali."
                 }
               ]
             },
             {
-              "id": "6.3.2",
+              "id": "10.3.2",
               "type": "section",
-              "title": "6.3.2 Limitazione colloqui",
+              "title": "10.3.2 Limitazione colloqui",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.2.1",
+                  "id": "10.3.2.1",
                   "type": "definition",
                   "content": "I colloqui con i familiari sono ridotti a uno al mese, della durata di un'ora, e devono svolgersi attraverso un vetro divisorio con videosorveglianza per impedire il passaggio di messaggi nascosti."
                 },
                 {
-                  "id": "6.3.2.2",
+                  "id": "10.3.2.2",
                   "type": "keypoint",
                   "content": "Anche le persone che possono andare a colloquio sono limitate ai familiari più stretti, escludendo altri parenti o conoscenti che potrebbero essere utilizzati come tramite con l'organizzazione criminale."
                 }
               ]
             },
             {
-              "id": "6.3.3",
+              "id": "10.3.3",
               "type": "section",
-              "title": "6.3.3 Visto di controllo sulla corrispondenza",
+              "title": "10.3.3 Visto di controllo sulla corrispondenza",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.3.1",
+                  "id": "10.3.3.1",
                   "type": "definition",
                   "content": "L'articolo 18-ter prevede che tutta la corrispondenza in entrata e in uscita dei detenuti in 41-bis sia sottoposta a controllo e visto preventivo da parte della direzione, per intercettare eventuali messaggi cifrati o tentativi di comunicazione con l'esterno."
                 },
                 {
-                  "id": "6.3.3.2",
+                  "id": "10.3.3.2",
                   "type": "keypoint",
                   "content": "Rimane comunque garantita la libertà di corrispondenza con il proprio avvocato difensore, che non può essere sottoposta a censura o controllo."
                 }
               ]
             },
             {
-              "id": "6.3.4",
+              "id": "10.3.4",
               "type": "section",
-              "title": "6.3.4 Limitazione somme e oggetti",
+              "title": "10.3.4 Limitazione somme e oggetti",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.4.1",
+                  "id": "10.3.4.1",
                   "type": "definition",
                   "content": "I detenuti in 41-bis possono detenere in cella solo oggetti e somme di denaro molto limitate, per evitare che possano usare il denaro per corrompere il personale o scambiare favori con altri detenuti."
                 }
               ]
             },
             {
-              "id": "6.3.5",
+              "id": "10.3.5",
               "type": "section",
-              "title": "6.3.5 Due ore d'aria al giorno",
+              "title": "10.3.5 Due ore d'aria al giorno",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.5.1",
+                  "id": "10.3.5.1",
                   "type": "definition",
                   "content": "Il tempo che i detenuti in 41-bis possono trascorrere all'aria aperta è limitato a due ore al giorno, spesso in piccoli cortili isolati, sempre sotto stretto controllo."
                 }
               ]
             },
             {
-              "id": "6.3.6",
+              "id": "10.3.6",
               "type": "section",
-              "title": "6.3.6 Collocamento in sezioni speciali",
+              "title": "10.3.6 Collocamento in sezioni speciali",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.6.1",
+                  "id": "10.3.6.1",
                   "type": "definition",
                   "content": "I detenuti in regime di 41-bis sono collocati in sezioni speciali appositamente attrezzate, separate dal resto della popolazione carceraria, con sistemi di sicurezza e controllo molto avanzati."
                 }
               ]
             },
             {
-              "id": "6.3.7",
+              "id": "10.3.7",
               "type": "section",
-              "title": "6.3.7 Limitazione accesso ai benefici",
+              "title": "10.3.7 Limitazione accesso ai benefici",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.3.7.1",
+                  "id": "10.3.7.1",
                   "type": "definition",
                   "content": "Durante il periodo di sottoposizione al 41-bis, i detenuti non possono accedere a permessi premio, lavoro esterno e altre misure premiali. Anche l'accesso alle misure alternative è fortemente limitato e subordinato alla revoca del regime."
                 }
@@ -1795,24 +1795,24 @@
           ]
         },
         {
-          "id": "6.4",
+          "id": "10.4",
           "type": "section",
-          "title": "6.4 Procedura di applicazione",
+          "title": "10.4 Procedura di applicazione",
           "collapsible": true,
           "children": [
             {
-              "id": "6.4.1",
+              "id": "10.4.1",
               "type": "section",
-              "title": "6.4.1 Decreto del Ministro della Giustizia",
+              "title": "10.4.1 Decreto del Ministro della Giustizia",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.4.1.1",
+                  "id": "10.4.1.1",
                   "type": "definition",
                   "content": "Il regime del 41-bis è disposto con decreto motivato del Ministro della Giustizia, su proposta del Dipartimento dell'Amministrazione Penitenziaria o del Procuratore nazionale antimafia."
                 },
                 {
-                  "id": "6.4.1.2",
+                  "id": "10.4.1.2",
                   "type": "authority",
                   "title": "Chi decide",
                   "collapsible": true,
@@ -1825,31 +1825,31 @@
               ]
             },
             {
-              "id": "6.4.2",
+              "id": "10.4.2",
               "type": "section",
-              "title": "6.4.2 Durata",
+              "title": "10.4.2 Durata",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.4.2.1",
+                  "id": "10.4.2.1",
                   "type": "definition",
                   "content": "Il decreto ministeriale che dispone il 41-bis ha una durata iniziale di quattro anni, durante i quali il detenuto rimane sottoposto al regime restrittivo salvo revoca anticipata."
                 }
               ]
             },
             {
-              "id": "6.4.3",
+              "id": "10.4.3",
               "type": "section",
-              "title": "6.4.3 Proroga",
+              "title": "10.4.3 Proroga",
               "collapsible": true,
               "children": [
                 {
-                  "id": "6.4.3.1",
+                  "id": "10.4.3.1",
                   "type": "definition",
                   "content": "Alla scadenza dei quattro anni, il regime può essere prorogato con nuovo decreto ministeriale per ulteriori periodi di due anni ciascuno, se permangono i motivi di ordine e sicurezza pubblica."
                 },
                 {
-                  "id": "6.4.3.2",
+                  "id": "10.4.3.2",
                   "type": "keypoint",
                   "content": "In teoria il 41-bis può durare per tutta la durata della pena, se il Ministro ritiene che il detenuto continui a rappresentare un pericolo per l'ordine pubblico e a mantenere collegamenti con l'organizzazione criminale."
                 }
@@ -1858,36 +1858,36 @@
           ]
         },
         {
-          "id": "6.5",
+          "id": "10.5",
           "type": "section",
-          "title": "6.5 Tutele giurisdizionali e reclami",
+          "title": "10.5 Tutele giurisdizionali e reclami",
           "collapsible": true,
           "children": [
             {
-              "id": "6.5.1",
+              "id": "10.5.1",
               "type": "definition",
               "content": "Contro il decreto ministeriale che dispone o proroga il 41-bis, il detenuto può presentare reclamo al Tribunale di Sorveglianza competente, che valuta la legittimità del provvedimento."
             },
             {
-              "id": "6.5.2",
+              "id": "10.5.2",
               "type": "keypoint",
               "content": "Il Tribunale di Sorveglianza può annullare il decreto se ritiene che non sussistano i presupposti di legge o se le restrizioni applicate siano sproporzionate o in violazione dei diritti fondamentali del detenuto."
             }
           ]
         },
         {
-          "id": "6.6",
+          "id": "10.6",
           "type": "section",
-          "title": "6.6 Giurisprudenza CEDU e costituzionale",
+          "title": "10.6 Giurisprudenza CEDU e costituzionale",
           "collapsible": true,
           "children": [
             {
-              "id": "6.6.1",
+              "id": "10.6.1",
               "type": "definition",
               "content": "Il regime del 41-bis è stato più volte esaminato dalla Corte Europea dei Diritti dell'Uomo e dalla Corte Costituzionale italiana, che ne hanno confermato la legittimità a condizione che sia applicato nel rispetto della dignità umana e senza trasformarsi in un trattamento inumano o degradante."
             },
             {
-              "id": "6.6.2",
+              "id": "10.6.2",
               "type": "keypoint",
               "content": "Le Corti hanno stabilito che il 41-bis non viola i diritti umani se è limitato nel tempo, motivato da reali esigenze di sicurezza, sottoposto a controllo giurisdizionale e se garantisce comunque un nucleo minimo di diritti fondamentali come il diritto alla salute e alla difesa."
             }
@@ -1896,73 +1896,73 @@
       ]
     },
     {
-      "id": "7",
+      "id": "11",
       "type": "section",
-      "title": "7. REGIME DI SORVEGLIANZA PARTICOLARE (ART. 14-BIS)",
+      "title": "11. Regime di sorveglianza particolare (art. 14-bis)",
       "collapsible": true,
       "children": [
         {
-          "id": "7.0",
+          "id": "11.0",
           "type": "definition",
           "content": "L'articolo 14-bis della legge penitenziaria disciplina un regime di sorveglianza particolare, meno rigido del 41-bis ma comunque restrittivo, che può essere applicato quando ci sono esigenze di sicurezza interna dell'istituto o quando il detenuto ha tenuto comportamenti violenti o pericolosi."
         },
         {
-          "id": "7.1",
+          "id": "11.1",
           "type": "section",
-          "title": "7.1 Presupposti di applicazione",
+          "title": "11.1 Presupposti di applicazione",
           "collapsible": true,
           "children": [
             {
-              "id": "7.1.1",
+              "id": "11.1.1",
               "type": "definition",
               "content": "Il regime di sorveglianza particolare può essere applicato ai detenuti che hanno commesso gravi infrazioni disciplinari, che hanno mostrato comportamenti violenti o che rappresentano un pericolo per la sicurezza dell'istituto."
             },
             {
-              "id": "7.1.2",
+              "id": "11.1.2",
               "type": "keypoint",
               "content": "A differenza del 41-bis, che richiede un decreto ministeriale e riguarda la sicurezza pubblica esterna, il 14-bis è deciso dalla direzione dell'istituto e riguarda la sicurezza interna del carcere."
             }
           ]
         },
         {
-          "id": "7.2",
+          "id": "11.2",
           "type": "section",
-          "title": "7.2 Restrizioni previste",
+          "title": "11.2 Restrizioni previste",
           "collapsible": true,
           "children": [
             {
-              "id": "7.2.1",
+              "id": "11.2.1",
               "type": "definition",
               "content": "Il regime del 14-bis comporta restrizioni come l'isolamento in cella singola, la limitazione dei contatti con altri detenuti, controlli più frequenti e rigidi, limitazione nell'accesso ad alcune attività collettive."
             },
             {
-              "id": "7.2.2",
+              "id": "11.2.2",
               "type": "keypoint",
               "content": "Le restrizioni del 14-bis sono meno severe rispetto a quelle del 41-bis: per esempio, i colloqui con i familiari non sono limitati nello stesso modo e non c'è necessariamente il vetro divisorio."
             }
           ]
         },
         {
-          "id": "7.3",
+          "id": "11.3",
           "type": "section",
-          "title": "7.3 Durata e proroga",
+          "title": "11.3 Durata e proroga",
           "collapsible": true,
           "children": [
             {
-              "id": "7.3.1",
+              "id": "11.3.1",
               "type": "definition",
               "content": "Il regime di sorveglianza particolare ha durata limitata e deve essere periodicamente rivisto. Può essere prorogato se permangono le ragioni di sicurezza che ne hanno giustificato l'applicazione."
             }
           ]
         },
         {
-          "id": "7.4",
+          "id": "11.4",
           "type": "section",
-          "title": "7.4 Differenze con il 41-bis",
+          "title": "11.4 Differenze con il 41-bis",
           "collapsible": true,
           "children": [
             {
-              "id": "7.4.1",
+              "id": "11.4.1",
               "type": "definition",
               "content": "Il 14-bis si differenzia dal 41-bis per diversi aspetti fondamentali: è deciso dall'amministrazione penitenziaria e non dal Ministro, riguarda la sicurezza interna del carcere e non quella pubblica esterna, comporta restrizioni meno severe e ha una durata generalmente più breve."
             }
@@ -1971,190 +1971,190 @@
       ]
     },
     {
-      "id": "8",
+      "id": "12",
       "type": "section",
-      "title": "8. DIRITTI DEI DETENUTI E TUTELE GIURISDIZIONALI",
+      "title": "12. Diritti dei detenuti e tutele giurisdizionali",
       "collapsible": true,
       "children": [
         {
-          "id": "8.0",
+          "id": "12.0",
           "type": "definition",
           "content": "I detenuti mantengono tutti i diritti fondamentali riconosciuti dalla Costituzione e dalle convenzioni internazionali, salvo le limitazioni strettamente necessarie derivanti dalla privazione della libertà. L'ordinamento prevede numerosi strumenti di tutela per garantire il rispetto di questi diritti."
         },
         {
-          "id": "8.1",
+          "id": "12.1",
           "type": "section",
-          "title": "8.1 Diritti costituzionalmente garantiti",
+          "title": "12.1 Diritti costituzionalmente garantiti",
           "collapsible": true,
           "children": [
             {
-              "id": "8.1.1",
+              "id": "12.1.1",
               "type": "definition",
               "content": "La Costituzione garantisce ai detenuti il diritto alla dignità umana, il diritto alla salute, il diritto alla difesa, il diritto di comunicare con i familiari, il diritto all'istruzione, il diritto al lavoro e tutti gli altri diritti fondamentali compatibili con lo stato di detenzione."
             }
           ]
         },
         {
-          "id": "8.2",
+          "id": "12.2",
           "type": "section",
-          "title": "8.2 Diritto di reclamo",
+          "title": "12.2 Diritto di reclamo",
           "collapsible": true,
           "children": [
             {
-              "id": "8.2.1",
+              "id": "12.2.1",
               "type": "definition",
               "content": "Il detenuto può presentare reclamo al magistrato di sorveglianza contro le decisioni dell'amministrazione penitenziaria che ritiene illegittime o lesive dei propri diritti, come le sanzioni disciplinari, il diniego di permessi, le condizioni di detenzione inadeguate."
             }
           ]
         },
         {
-          "id": "8.3",
+          "id": "12.3",
           "type": "section",
-          "title": "8.3 Istanze e petizioni",
+          "title": "12.3 Istanze e petizioni",
           "collapsible": true,
           "children": [
             {
-              "id": "8.3.1",
+              "id": "12.3.1",
               "type": "definition",
               "content": "Il detenuto può presentare istanze alla direzione dell'istituto per chiedere trasferimenti, autorizzazioni, modifiche al proprio trattamento, accesso a particolari attività. Può anche presentare petizioni alle autorità superiori, al Garante dei diritti, al Parlamento."
             }
           ]
         },
         {
-          "id": "8.4",
+          "id": "12.4",
           "type": "section",
-          "title": "8.4 Ricorsi contro provvedimenti amministrativi",
+          "title": "12.4 Ricorsi contro provvedimenti amministrativi",
           "collapsible": true,
           "children": [
             {
-              "id": "8.4.1",
+              "id": "12.4.1",
               "type": "definition",
               "content": "Oltre ai reclami al magistrato di sorveglianza, il detenuto può impugnare i provvedimenti amministrativi davanti al giudice amministrativo (TAR) quando si tratta di questioni che riguardano l'organizzazione interna del carcere o la gestione delle attività."
             }
           ]
         },
         {
-          "id": "8.5",
+          "id": "12.5",
           "type": "section",
-          "title": "8.5 Diritto alla salute",
+          "title": "12.5 Diritto alla salute",
           "collapsible": true,
           "children": [
             {
-              "id": "8.5.1",
+              "id": "12.5.1",
               "type": "definition",
               "content": "Il diritto alla salute è costituzionalmente garantito anche in carcere. I detenuti hanno diritto a cure mediche gratuite, equivalenti a quelle offerte ai cittadini liberi, comprese le cure specialistiche e ospedaliere quando necessario."
             },
             {
-              "id": "8.5.2",
+              "id": "12.5.2",
               "type": "keypoint",
               "content": "Se le condizioni di salute del detenuto sono incompatibili con lo stato di detenzione, può essere richiesto il rinvio dell'esecuzione della pena o una misura alternativa per motivi di salute."
             }
           ]
         },
         {
-          "id": "8.6",
+          "id": "12.6",
           "type": "section",
-          "title": "8.6 Diritto all'assistenza legale",
+          "title": "12.6 Diritto all'assistenza legale",
           "collapsible": true,
           "children": [
             {
-              "id": "8.6.1",
+              "id": "12.6.1",
               "type": "definition",
               "content": "Il detenuto ha diritto di farsi assistere da un avvocato in tutti i procedimenti che lo riguardano, compresi quelli di sorveglianza. Se è indigente, ha diritto al patrocinio a spese dello Stato."
             }
           ]
         },
         {
-          "id": "8.7",
+          "id": "12.7",
           "type": "section",
-          "title": "8.7 Tutela della corrispondenza con il difensore",
+          "title": "12.7 Tutela della corrispondenza con il difensore",
           "collapsible": true,
           "children": [
             {
-              "id": "8.7.1",
+              "id": "12.7.1",
               "type": "definition",
               "content": "La corrispondenza tra il detenuto e il suo avvocato difensore è sempre libera, riservata e non può essere sottoposta a controllo o censura da parte dell'amministrazione penitenziaria. Questo diritto è garantito per assicurare il pieno esercizio del diritto di difesa."
             }
           ]
         },
         {
-          "id": "8.8",
+          "id": "12.8",
           "type": "section",
-          "title": "8.8 Diritto ai rapporti con famiglia e figli",
+          "title": "12.8 Diritto ai rapporti con famiglia e figli",
           "collapsible": true,
           "children": [
             {
-              "id": "8.8.1",
+              "id": "12.8.1",
               "type": "definition",
               "content": "Il detenuto ha diritto di mantenere i rapporti con la famiglia e con i figli minori. L'ordinamento prevede particolari tutele per garantire che i figli non subiscano traumi dalla separazione e possano mantenere un rapporto affettivo con il genitore detenuto."
             }
           ]
         },
         {
-          "id": "8.9",
+          "id": "12.9",
           "type": "section",
-          "title": "8.9 Diritto all'istruzione e formazione",
+          "title": "12.9 Diritto all'istruzione e formazione",
           "collapsible": true,
           "children": [
             {
-              "id": "8.9.1",
+              "id": "12.9.1",
               "type": "definition",
               "content": "Il detenuto ha diritto di accedere a percorsi di istruzione scolastica e formazione professionale. L'istruzione è obbligatoria per chi non ha completato la scuola dell'obbligo ed è un elemento fondamentale del trattamento rieducativo."
             }
           ]
         },
         {
-          "id": "8.10",
+          "id": "12.10",
           "type": "section",
-          "title": "8.10 Libertà religiosa",
+          "title": "12.10 Libertà religiosa",
           "collapsible": true,
           "children": [
             {
-              "id": "8.10.1",
+              "id": "12.10.1",
               "type": "definition",
               "content": "Il detenuto ha diritto di professare liberamente la propria fede religiosa, di partecipare a funzioni religiose, di incontrare ministri di culto e di seguire le prescrizioni della propria religione, anche in materia alimentare."
             }
           ]
         },
         {
-          "id": "8.11",
+          "id": "12.11",
           "type": "section",
-          "title": "8.11 Diritto al lavoro retribuito",
+          "title": "12.11 Diritto al lavoro retribuito",
           "collapsible": true,
           "children": [
             {
-              "id": "8.11.1",
+              "id": "12.11.1",
               "type": "definition",
               "content": "Il detenuto ha diritto di accedere a opportunità lavorative in carcere e di ricevere una retribuzione per il lavoro svolto. Il lavoro è considerato un diritto e un elemento fondamentale del percorso rieducativo."
             }
           ]
         },
         {
-          "id": "8.12",
+          "id": "12.12",
           "type": "section",
-          "title": "8.12 Rimedi risarcitori (Sentenza Torreggiani)",
+          "title": "12.12 Rimedi risarcitori (Sentenza Torreggiani)",
           "collapsible": true,
           "children": [
             {
-              "id": "8.12.1",
+              "id": "12.12.1",
               "type": "definition",
               "content": "La sentenza Torreggiani della Corte Europea dei Diritti dell'Uomo dell'8 gennaio 2013 ha condannato l'Italia per le condizioni di sovraffollamento carcerario e ha imposto l'introduzione di rimedi effettivi per i detenuti che subiscono condizioni di detenzione inumane o degradanti."
             },
             {
-              "id": "8.12.2",
+              "id": "12.12.2",
               "type": "keypoint",
               "content": "In seguito a questa sentenza, l'Italia ha introdotto la possibilità per il detenuto di ottenere una riduzione della pena se ha subito condizioni detentive lesive della dignità umana, come il sovraffollamento grave o condizioni igienico-sanitarie inadeguate."
             }
           ]
         },
         {
-          "id": "8.13",
+          "id": "12.13",
           "type": "section",
-          "title": "8.13 Tutela contro il sovraffollamento",
+          "title": "12.13 Tutela contro il sovraffollamento",
           "collapsible": true,
           "children": [
             {
-              "id": "8.13.1",
+              "id": "12.13.1",
               "type": "definition",
               "content": "Il detenuto che si trova in condizioni di sovraffollamento può presentare reclamo al magistrato di sorveglianza chiedendo un rimedio, come il trasferimento in altro istituto, misure alternative o la riduzione di pena per le giornate trascorse in condizioni inadeguate."
             }
@@ -2163,135 +2163,135 @@
       ]
     },
     {
-      "id": "9",
+      "id": "13",
       "type": "section",
-      "title": "9. PROCEDIMENTO DI SORVEGLIANZA",
+      "title": "13. Procedimento di sorveglianza",
       "collapsible": true,
       "children": [
         {
-          "id": "9.0",
+          "id": "13.0",
           "type": "definition",
           "content": "Il procedimento di sorveglianza è il procedimento giurisdizionale attraverso cui la magistratura di sorveglianza decide sulle misure alternative, sui benefici penitenziari e su tutte le questioni relative all'esecuzione della pena."
         },
         {
-          "id": "9.1",
+          "id": "13.1",
           "type": "section",
-          "title": "9.1 Normativa di riferimento",
+          "title": "13.1 Normativa di riferimento",
           "collapsible": true,
           "children": [
             {
-              "id": "9.1.1",
+              "id": "13.1.1",
               "type": "definition",
               "content": "Il procedimento di sorveglianza è disciplinato dagli articoli 666 e seguenti e dagli articoli 677-678 del codice di procedura penale, oltre che dalle disposizioni della legge 354/1975."
             }
           ]
         },
         {
-          "id": "9.2",
+          "id": "13.2",
           "type": "section",
-          "title": "9.2 Legittimazione a richiedere le misure",
+          "title": "13.2 Legittimazione a richiedere le misure",
           "collapsible": true,
           "children": [
             {
-              "id": "9.2.0",
+              "id": "13.2.0",
               "type": "definition",
               "content": "Diversi soggetti sono legittimati a presentare richieste alla magistratura di sorveglianza, ciascuno con un proprio interesse specifico."
             },
             {
-              "id": "9.2.1",
+              "id": "13.2.1",
               "type": "keypoint",
               "content": "Il detenuto può chiedere misure alternative, benefici, modifiche al trattamento."
             },
             {
-              "id": "9.2.2",
+              "id": "13.2.2",
               "type": "keypoint",
               "content": "Il difensore può presentare istanze nell'interesse del proprio assistito."
             },
             {
-              "id": "9.2.3",
+              "id": "13.2.3",
               "type": "keypoint",
               "content": "Il Pubblico Ministero può proporre misure o opporsi alle richieste del detenuto."
             },
             {
-              "id": "9.2.4",
+              "id": "13.2.4",
               "type": "keypoint",
               "content": "Il magistrato o tribunale di sorveglianza possono procedere d'ufficio anche senza richiesta delle parti."
             },
             {
-              "id": "9.2.5",
+              "id": "13.2.5",
               "type": "keypoint",
               "content": "La direzione dell'istituto può proporre misure alternative o benefici per i detenuti che ritiene meritevoli."
             },
             {
-              "id": "9.2.6",
+              "id": "13.2.6",
               "type": "keypoint",
               "content": "I prossimi congiunti possono chiedere interventi in favore del detenuto in particolari situazioni."
             }
           ]
         },
         {
-          "id": "9.3",
+          "id": "13.3",
           "type": "section",
-          "title": "9.3 Procedura camerale",
+          "title": "13.3 Procedura camerale",
           "collapsible": true,
           "children": [
             {
-              "id": "9.3.1",
+              "id": "13.3.1",
               "type": "definition",
               "content": "Il procedimento di sorveglianza si svolge in camera di consiglio, cioè con rito camerale non pubblico. L'udienza non è aperta al pubblico ma si svolge alla presenza del detenuto, del suo difensore, del Pubblico Ministero e del collegio giudicante."
             },
             {
-              "id": "9.3.2",
+              "id": "13.3.2",
               "type": "keypoint",
               "content": "La riservatezza della camera di consiglio serve a tutelare la dignità del detenuto e a permettere una discussione approfondita del suo percorso personale senza esporlo a una pubblicità che potrebbe essere dannosa."
             }
           ]
         },
         {
-          "id": "9.4",
+          "id": "13.4",
           "type": "section",
-          "title": "9.4 Istruttoria e acquisizione elementi",
+          "title": "13.4 Istruttoria e acquisizione elementi",
           "collapsible": true,
           "children": [
             {
-              "id": "9.4.0",
+              "id": "13.4.0",
               "type": "definition",
               "content": "Prima di decidere, il tribunale di sorveglianza acquisisce tutte le informazioni necessarie per valutare il percorso del detenuto e le sue possibilità di reinserimento."
             },
             {
-              "id": "9.4.1",
+              "id": "13.4.1",
               "type": "section",
-              "title": "9.4.1 Relazione di sintesi",
+              "title": "13.4.1 Relazione di sintesi",
               "collapsible": true,
               "children": [
                 {
-                  "id": "9.4.1.1",
+                  "id": "13.4.1.1",
                   "type": "definition",
                   "content": "La direzione dell'istituto penitenziario redige una relazione di sintesi che illustra il comportamento del detenuto, il suo percorso trattamentale, le attività svolte, le sanzioni disciplinari eventualmente subite e una valutazione complessiva del suo percorso rieducativo."
                 }
               ]
             },
             {
-              "id": "9.4.2",
+              "id": "13.4.2",
               "type": "section",
-              "title": "9.4.2 Informazioni UEPE",
+              "title": "13.4.2 Informazioni UEPE",
               "collapsible": true,
               "children": [
                 {
-                  "id": "9.4.2.1",
+                  "id": "13.4.2.1",
                   "type": "definition",
                   "content": "L'Ufficio di Esecuzione Penale Esterna fornisce informazioni sulla situazione familiare, lavorativa e abitativa del detenuto, verificando se esistono le condizioni concrete per l'esecuzione di una misura alternativa all'esterno del carcere."
                 }
               ]
             },
             {
-              "id": "9.4.3",
+              "id": "13.4.3",
               "type": "section",
-              "title": "9.4.3 Informazioni delle forze dell'ordine",
+              "title": "13.4.3 Informazioni delle forze dell'ordine",
               "collapsible": true,
               "children": [
                 {
-                  "id": "9.4.3.1",
+                  "id": "13.4.3.1",
                   "type": "definition",
                   "content": "Il Comitato per l'Ordine e la Sicurezza Pubblica, composto da rappresentanti delle forze dell'ordine, fornisce informazioni sulla pericolosità sociale del detenuto e su eventuali collegamenti con ambienti criminali ancora attivi."
                 }
@@ -2300,55 +2300,55 @@
           ]
         },
         {
-          "id": "9.5",
+          "id": "13.5",
           "type": "section",
-          "title": "9.5 Termini di decisione",
+          "title": "13.5 Termini di decisione",
           "collapsible": true,
           "children": [
             {
-              "id": "9.5.1",
+              "id": "13.5.1",
               "type": "definition",
               "content": "Il tribunale di sorveglianza deve decidere entro 45 giorni dalla presentazione della richiesta. Questo termine serve a garantire una risposta rapida alle istanze del detenuto, evitando attese eccessivamente lunghe."
             },
             {
-              "id": "9.5.2",
+              "id": "13.5.2",
               "type": "keypoint",
               "content": "Se il termine non viene rispettato, il detenuto può sollecitare la decisione ma non ci sono conseguenze automatiche come la concessione della misura per silenzio-assenso. Il tribunale mantiene il potere di decidere nel merito."
             }
           ]
         },
         {
-          "id": "9.6",
+          "id": "13.6",
           "type": "section",
-          "title": "9.6 Modalità di impugnazione",
+          "title": "13.6 Modalità di impugnazione",
           "collapsible": true,
           "children": [
             {
-              "id": "9.6.0",
+              "id": "13.6.0",
               "type": "definition",
               "content": "Le decisioni della magistratura di sorveglianza possono essere impugnate attraverso diversi strumenti."
             },
             {
-              "id": "9.6.1",
+              "id": "13.6.1",
               "type": "section",
-              "title": "9.6.1 Reclamo al Tribunale",
+              "title": "13.6.1 Reclamo al Tribunale",
               "collapsible": true,
               "children": [
                 {
-                  "id": "9.6.1.1",
+                  "id": "13.6.1.1",
                   "type": "definition",
                   "content": "Contro i provvedimenti del magistrato di sorveglianza è possibile presentare reclamo al tribunale di sorveglianza entro dieci giorni dalla notifica del provvedimento."
                 }
               ]
             },
             {
-              "id": "9.6.2",
+              "id": "13.6.2",
               "type": "section",
-              "title": "9.6.2 Ricorso per Cassazione",
+              "title": "13.6.2 Ricorso per Cassazione",
               "collapsible": true,
               "children": [
                 {
-                  "id": "9.6.2.1",
+                  "id": "13.6.2.1",
                   "type": "definition",
                   "content": "Contro le decisioni del tribunale di sorveglianza è ammesso ricorso per Cassazione per motivi di legittimità, cioè per violazione di legge, quando si ritiene che il tribunale abbia applicato male le norme o abbia violato principi fondamentali."
                 }
@@ -2357,26 +2357,26 @@
           ]
         },
         {
-          "id": "9.7",
+          "id": "13.7",
           "type": "section",
-          "title": "9.7 Effetti delle decisioni",
+          "title": "13.7 Effetti delle decisioni",
           "collapsible": true,
           "children": [
             {
-              "id": "9.7.1",
+              "id": "13.7.1",
               "type": "definition",
               "content": "Le decisioni della magistratura di sorveglianza sono immediatamente esecutive, salvo che sia disposta la sospensione in caso di impugnazione. Se la misura alternativa viene concessa, il detenuto può uscire dal carcere non appena riceve la notifica del provvedimento."
             }
           ]
         },
         {
-          "id": "9.8",
+          "id": "13.8",
           "type": "section",
-          "title": "9.8 Principio del contraddittorio",
+          "title": "13.8 Principio del contraddittorio",
           "collapsible": true,
           "children": [
             {
-              "id": "9.8.1",
+              "id": "13.8.1",
               "type": "definition",
               "content": "Il procedimento di sorveglianza si svolge nel rispetto del principio del contraddittorio: tutte le parti (detenuto, difensore, Pubblico Ministero) hanno diritto di essere ascoltate, di prendere visione degli atti, di presentare memorie e documenti, di discutere le ragioni della propria posizione."
             }
@@ -2385,322 +2385,463 @@
       ]
     },
     {
-      "id": "10",
+      "id": "14",
       "type": "section",
-      "title": "10. ESECUZIONE PENALE ESTERNA",
+      "title": "14. Esecuzione penale esterna",
       "collapsible": true,
       "children": [
         {
-          "id": "10.0",
+          "id": "14.0",
           "type": "definition",
           "content": "L'esecuzione penale esterna riguarda tutte le attività e i servizi destinati a seguire i condannati che scontano la pena fuori dal carcere, in misure alternative o in percorsi di reinserimento sociale. Si occupa del passaggio dal carcere alla libertà e del sostegno al reinserimento."
         },
         {
-          "id": "10.1",
+          "id": "14.1",
           "type": "section",
-          "title": "10.1 Uffici di Esecuzione Penale Esterna (UEPE)",
+          "title": "14.1 Uffici di Esecuzione Penale Esterna (UEPE) - Struttura e Quadro Normativo",
           "collapsible": true,
           "children": [
             {
-              "id": "10.1.1",
+              "id": "14.1.1",
               "type": "definition",
               "content": "Gli Uffici di Esecuzione Penale Esterna sono strutture territoriali del Dipartimento della Giustizia Minorile e di Comunità che si occupano di seguire chi sconta pene alternative al carcere e di supportare il reinserimento sociale dei condannati."
+            },
+            {
+              "id": "14.1.2",
+              "type": "keypoint",
+              "content": "**Aggiornamento normativo:** Con il D.P.R. 122/2018, il Dipartimento dell'Amministrazione Penitenziaria è stato riorganizzato e rinominato in 'Dipartimento per la Giustizia Minorile e di Comunità'. Questa modifica sottolinea il passaggio da una logica custodiale a una di giustizia di comunità, integrata nel territorio."
+            },
+            {
+              "id": "14.1.3",
+              "type": "definition",
+              "content": "**Funzione duale degli UEPE:** Gli Uffici svolgono una duplice funzione inscindibile: di **controllo** (verifica del rispetto delle prescrizioni) e di **trattamento/sostegno** (progettazione e attuazione di percorsi individualizzati di reinserimento)."
             }
           ]
         },
         {
-          "id": "10.2",
+          "id": "14.2",
           "type": "section",
-          "title": "10.2 Funzioni degli UEPE",
+          "title": "14.2 Funzioni degli UEPE (Approfondimento Operativo)",
           "collapsible": true,
           "children": [
             {
-              "id": "10.2.0",
+              "id": "14.2.0",
               "type": "definition",
               "content": "Gli UEPE svolgono funzioni diverse a seconda della fase del percorso del condannato: prima, durante e dopo la concessione delle misure alternative."
             },
             {
-              "id": "10.2.1",
+              "id": "14.2.1",
               "type": "section",
-              "title": "10.2.1 Consulenza ai magistrati",
+              "title": "14.2.1 Consulenza tecnica al Magistrato di Sorveglianza",
               "collapsible": true,
               "children": [
                 {
-                  "id": "10.2.1.1",
+                  "id": "14.2.1.1",
                   "type": "definition",
-                  "content": "Quando un detenuto chiede una misura alternativa, l'UEPE deve fornire al tribunale di sorveglianza informazioni sulla situazione familiare, lavorativa e abitativa del richiedente, verificando se esistono le condizioni concrete per eseguire la misura."
+                  "content": "Su richiesta del Tribunale di Sorveglianza, l'UEPE svolge accertamenti sulla personalità e sul contesto socio-familiare, lavorativo e abitativo del richiedente una misura alternativa. La relazione tecnica (ex art. 14 L. 354/1975) valuta la concretezza e l'adeguatezza del progetto di reinserimento."
                 },
                 {
-                  "id": "10.2.1.2",
+                  "id": "14.2.1.2",
                   "type": "keypoint",
-                  "content": "Questa relazione è fondamentale per la decisione del tribunale, perché permette di capire se il condannato ha un contesto esterno stabile che può sostenerlo nel percorso di reinserimento."
+                  "content": "**Dato aggiornato:** La Legge 103/2017 ('Legge Pinto') ha rafforzato il ruolo di questa relazione, richiedendo una valutazione più puntuale del **rischio di recidiva** e della **capacità di aderire al programma di trattamento**."
                 }
               ]
             },
             {
-              "id": "10.2.2",
+              "id": "14.2.2",
               "type": "section",
-              "title": "10.2.2 Presa in carico dei soggetti",
+              "title": "14.2.2 Presa in carico e gestione del caso",
               "collapsible": true,
               "children": [
                 {
-                  "id": "10.2.2.1",
+                  "id": "14.2.2.1",
                   "type": "definition",
-                  "content": "Una volta concessa la misura alternativa, l'UEPE prende in carico il soggetto e diventa il suo punto di riferimento per tutto il periodo di esecuzione della misura."
+                  "content": "Dopo la concessione della misura, l'assistente sociale o l'educatore dell'UEPE diventa il referente unico. Si stipula un 'patto di corresponsabilità' che definisce obiettivi, prescrizioni specifiche e incontri periodici."
                 },
                 {
-                  "id": "10.2.2.2",
+                  "id": "14.2.2.2",
                   "type": "keypoint",
-                  "content": "L'assistente sociale dell'UEPE incontra regolarmente la persona, verifica che rispetti le prescrizioni, lo aiuta a risolvere eventuali problemi pratici e relaziona periodicamente al tribunale sull'andamento del percorso."
+                  "content": "La presa in carico è **personalizzata** e si basa su un **Progetto Esecutivo di Trattamento (PET)** che può prevedere: trattamento per dipendenze, formazione professionale, mediazione familiare, sostegno psicologico."
                 }
               ]
             },
             {
-              "id": "10.2.3",
+              "id": "14.2.3",
               "type": "section",
-              "title": "10.2.3 Vigilanza e controllo",
+              "title": "14.2.3 Vigilanza dinamica e controllo",
               "collapsible": true,
               "children": [
                 {
-                  "id": "10.2.3.1",
+                  "id": "14.2.3.1",
                   "type": "definition",
-                  "content": "L'UEPE controlla che il soggetto in misura alternativa rispetti tutte le prescrizioni imposte dal tribunale: residenza in un determinato luogo, svolgimento di un'attività lavorativa, divieto di frequentare certi ambienti, obbligo di presentarsi periodicamente."
+                  "content": "Il controllo non è solo formale (presentazioni periodiche) ma si avvale anche di mezzi tecnologici (braccialetto elettronico, art. 47-sexies O.P.) e di verifiche sul campo, in sinergia con le Forze di Polizia."
                 },
                 {
-                  "id": "10.2.3.2",
+                  "id": "14.2.3.2",
                   "type": "keypoint",
-                  "content": "Se rileva violazioni delle prescrizioni o comportamenti incompatibili con la misura, l'UEPE deve immediatamente informare il tribunale, che può decidere di revocare la misura."
+                  "content": "**Novità:** Il controllo può essere modulato in base al rischio. Per soggetti a basso rischio si privilegiano incontri di sostegno; per quelli ad alto rischio, controlli più serrati e frequenti."
                 }
               ]
             },
             {
-              "id": "10.2.4",
+              "id": "14.2.4",
               "type": "section",
-              "title": "10.2.4 Programmi di reinserimento",
+              "title": "14.2.4 Programmazione e attivazione delle risorse territoriali",
               "collapsible": true,
               "children": [
                 {
-                  "id": "10.2.4.1",
+                  "id": "14.2.4.1",
                   "type": "definition",
-                  "content": "L'UEPE non si limita a controllare, ma sostiene attivamente il reinserimento sociale attraverso programmi personalizzati che includono ricerca di lavoro, formazione professionale, sostegno psicologico, recupero dei rapporti familiari."
+                  "content": "L'UEPE agisce come 'regista' del reinserimento, attivando convenzioni con: Centri per l'Impiego, Servizi Sociali Comunali, ASL (per i Ser.D.), Cooperative Sociali (B-type), associazioni di volontariato accreditate."
                 },
                 {
-                  "id": "10.2.4.2",
+                  "id": "14.2.4.2",
                   "type": "keypoint",
-                  "content": "L'obiettivo non è solo far rispettare le regole, ma accompagnare la persona in un percorso di cambiamento che riduca il rischio di recidiva e favorisca una piena integrazione sociale."
-                }
-              ]
-            },
-            {
-              "id": "10.2.5",
-              "type": "section",
-              "title": "10.2.5 Collaborazione con enti territoriali",
-              "collapsible": true,
-              "children": [
-                {
-                  "id": "10.2.5.1",
-                  "type": "definition",
-                  "content": "Gli UEPE collaborano con i servizi sociali comunali, i centri per l'impiego, le ASL, le cooperative sociali e tutti gli enti del territorio che possono offrire opportunità di lavoro, formazione, alloggio o sostegno alle persone in misura alternativa."
-                },
-                {
-                  "id": "10.2.5.2",
-                  "type": "keypoint",
-                  "content": "Questa rete territoriale è fondamentale per creare reali opportunità di reinserimento e per evitare che la persona, una volta uscita dal carcere, si ritrovi sola e senza sostegni."
+                  "content": "**Aggiornamento:** La Riforma del Terzo Settore (D.Lgs. 117/2017) ha riorganizzato gli enti con cui collaborare, richiedendo specifici requisiti di trasparenza e accountability per gli enti che accolgono persone in misura alternativa."
                 }
               ]
             }
           ]
         },
         {
-          "id": "10.3",
+          "id": "14.3",
           "type": "section",
-          "title": "10.3 Messa alla prova per adulti",
+          "title": "14.3 Misure Alternative alla Detenzione: Dettaglio, Requisiti e Procedure",
           "collapsible": true,
           "children": [
             {
-              "id": "10.3.1",
+              "id": "14.3.0",
               "type": "definition",
-              "content": "La messa alla prova per adulti, prevista dall'articolo 168-bis del codice penale, permette all'imputato di chiedere di essere ammesso a svolgere un percorso di reinserimento sotto la supervisione dell'UEPE, al termine del quale il reato viene dichiarato estinto se il percorso è completato positivamente."
+              "content": "Le misure alternative, disciplinate dalla Legge 354/1975 e successive modifiche, permettono di eseguire la pena in regime di semilibertà o di affidamento in prova al servizio sociale, previo accertamento di specifici requisiti soggettivi e oggettivi."
             },
             {
-              "id": "10.3.2",
+              "id": "14.3.1",
+              "type": "section",
+              "title": "14.3.1 Affidamento in prova al servizio sociale",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.3.1.1",
+                  "type": "requirements",
+                  "title": "Requisiti di Legge (art. 47 L. 354/1975)",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "**Requisito detentivo:** Aver scontato almeno 30 mesi (o metà della pena se condannati a vita dopo 26 anni) o, per pene fino a 4 anni, aver scontato almeno 1 anno."
+                    },
+                    {
+                      "content": "**Requisito prognostico:** Essere ritenuti capaci di astenersi dal commettere ulteriori reati. La valutazione si basa sulla partecipazione al trattamento intramurario."
+                    },
+                    {
+                      "content": "**Requisito progettuale:** Esistenza di un concreto e verificabile progetto di reinserimento sociale (lavoro, formazione, cure, famiglia)."
+                    },
+                    {
+                      "content": "**Condizioni operative:** La misura è concessa dal Tribunale di Sorveglianza su proposta dell'Amministrazione penitenziaria o su richiesta dell'interessato, sentito il parere dell'UEPE."
+                    }
+                  ]
+                },
+                {
+                  "id": "14.3.1.2",
+                  "type": "keypoint",
+                  "content": "**Effetto giuridico:** La pena non si interrompe, ma si estingue regolarmente attraverso l'esecuzione in stato di libertà sotto controllo. Il periodo positivo di affidamento è computato integralmente nella pena."
+                }
+              ]
+            },
+            {
+              "id": "14.3.2",
+              "type": "section",
+              "title": "14.3.2 Semilibertà",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.3.2.1",
+                  "type": "requirements",
+                  "title": "Requisiti di Legge (art. 48 L. 354/1975)",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "**Requisito detentivo:** Aver scontato almeno la metà della pena (o 20 anni per gli ergastolani). Per i recidivi, i tempi sono più lunghi."
+                    },
+                    {
+                      "content": "**Requisito sostanziale:** Essere ritenuti idonei a beneficiare di una modalità di esecuzione a ridotta custodia per comprovate esigenze di lavoro, studio, terapia o famiglia."
+                    },
+                    {
+                      "content": "**Struttura:** Il soggetto trascorre il giorno in libertà per svolgere l'attività autorizzata e rientra in istituto o in una struttura apposita per la notte e i giorni festivi."
+                    }
+                  ]
+                },
+                {
+                  "id": "14.3.2.2",
+                  "type": "keypoint",
+                  "content": "**Differenza con l'affidamento:** La semilibertà mantiene un vincolo strutturale con l'istituzione (il carcere o una casa di semilibertà) ed è più focalizzata su una specifica attività esterna (lavoro/studio) che funge da motore del reinserimento."
+                }
+              ]
+            },
+            {
+              "id": "14.3.3",
+              "type": "section",
+              "title": "14.3.3 Detenzione domiciliare",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.3.3.1",
+                  "type": "requirements",
+                  "title": "Tipologie e Requisiti (art. 47-ter e quater O.P.)",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "**Domiciliare ordinaria:** Per condannati a pene non superiori a 4 anni o ai restanti anni di pena non superiori a 4 anni. Richiede un'abitazione idonea."
+                    },
+                    {
+                      "content": "**Domiciliare speciale:** Per detenuti ultrasettantenni, gravemente infermi, madri con figli minori di 10 anni (ex art. 47-quater O.P.). Non ha limiti di pena residua e rappresenta un'ipotesi di misura 'necessaria'."
+                    },
+                    {
+                      "content": "**Controllo:** È effettuato dagli UEPE anche attraverso mezzi elettronici (braccialetto). Sono possibili permessi di uscita per esigenze lavorative, di cura o familiari."
+                    }
+                  ]
+                },
+                {
+                  "id": "14.3.3.2",
+                  "type": "keypoint",
+                  "content": "**Attenzione:** La domiciliare è una misura **detentiva** eseguita in un luogo diverso dal carcere. Non è un'autorizzazione a vivere liberamente, ma a scontare la pena in una privata dimora sotto stretta sorveglianza."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14.4",
+          "type": "section",
+          "title": "14.4 Istituti a Contenuto Premiale e Sostitutivo (Aggiornati)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "14.4.1",
+              "type": "section",
+              "title": "14.4.1 Messa alla prova per adulti (art. 168-bis c.p.)",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.4.1.1",
+                  "type": "definition",
+                  "content": "Istituto deflattivo e premiale che, prima della condanna, sospende il processo e affida l'imputato al servizio sociale per un periodo di prova. Superato positivamente, il reato si estingue."
+                },
+                {
+                  "id": "14.4.1.2",
+                  "type": "requirements",
+                  "title": "Requisiti Soggettivi e Oggettivi",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "**Reato:** Per reati puniti con pena detentiva non superiore a 4 anni (soli o congiunti a pena pecuniaria) o con la sola pena pecuniaria."
+                    },
+                    {
+                      "content": "**Valutazione del giudice:** Il giudice valuta la personalità dell'imputato, i motivi a delinquere, la gravità del fatto, le circostanze e il comportamento post-delittuoso, **nonché le esigenze di tutela della persona offesa** (novità introdotta dalla L. 103/2017)."
+                    },
+                    {
+                      "content": "**Percorso:** Il Giudice, sentito l'UEPE, stabilisce prescrizioni (lavoro di pubblica utilità, risarcimento, terapie). L'UEPE monitora e riferisce."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "14.4.2",
+              "type": "section",
+              "title": "14.4.2 Lavoro di Pubblica Utilità (LPU - art. 54 O.P.)",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.4.2.1",
+                  "type": "definition",
+                  "content": "Prestazione non retribuita a favore della collettività. Può costituire: a) contenuto della messa alla prova; b) pena sostitutiva delle pene detentive brevi (art. 53 O.P.); c) modalità di esecuzione della semilibertà/affidamento."
+                },
+                {
+                  "id": "14.4.2.2",
+                  "type": "keypoint",
+                  "content": "**Aggiornamento sulla disciplina degli enti ospitanti:** A seguito del D.Lgs. 117/2017, gli enti del Terzo Settore che accolgono persone per LPU devono possedere specifici requisiti organizzativi, assicurativi e di trasparenza. L'UEPE verifica tali requisiti prima dell'attivazione del percorso."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14.5",
+          "type": "section",
+          "title": "14.5 Rapporti con i Servizi Territoriali e Volontariato",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "14.5.1",
+              "type": "section",
+              "title": "14.5.1 Protocolli di rete e integrazione socio-sanitaria",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.5.1.1",
+                  "type": "definition",
+                  "content": "L'efficacia del reinserimento dipende dalla capacità dell'UEPE di costruire reti formali (protocolli d'intesa) e informali con i servizi del territorio."
+                },
+                {
+                  "id": "14.5.1.2",
+                  "type": "keypoint",
+                  "content": "**Focus sulla salute mentale e le dipendenze:** È fondamentale la collaborazione con i Servizi per le Dipendenze (Ser.D.) e i Dipartimenti di Salute Mentale per garantire la continuità delle cure, essenziale per ridurre la recidiva."
+                }
+              ]
+            },
+            {
+              "id": "14.5.2",
+              "type": "section",
+              "title": "14.5.2 Volontariato penitenziario e comunità di accoglienza",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "14.5.2.1",
+                  "type": "definition",
+                  "content": "Il volontariato, regolato dagli artt. 17 e 78 O.P., fornisce supporto relazionale, tutoring, orientamento. Le comunità socio-riabilitative (ex art. 14 L. 231/1999) offrono un contesto residenziale protetto e terapeutico."
+                },
+                {
+                  "id": "14.5.2.2",
+                  "type": "keypoint",
+                  "content": "**Selezione e formazione:** I volontari che operano con l'UEPE devono essere selezionati e formati dall'Amministrazione, con particolare attenzione alla deontologia, ai limiti del proprio ruolo e alla gestione della relazione di aiuto."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14.6",
+          "type": "section",
+          "title": "14.6 Quadro Statistico e Tendenze Evolutive (Dati Sintetici)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "14.6.1",
               "type": "keypoint",
-              "content": "La messa alla prova è diversa dalle misure alternative perché interviene prima della condanna: se l'imputato completa il programma, non viene nemmeno condannato e il reato non compare più nel suo casellario giudiziale."
+              "content": "**Dati recenti (fonte: DAP, rapporto annuale):** La popolazione in misura alternativa rappresenta circa il **20-25%** della popolazione detenuta totale. L'affidamento in prova è la misura più applicata, seguita dalla detenzione domiciliare. Il tasso di successo (mancata revoca) si attesta intorno all'80%."
             },
             {
-              "id": "10.3.3",
-              "type": "requirements",
-              "title": "Quando si applica",
-              "collapsible": true,
-              "children": [
-                {
-                  "content": "La messa alla prova può essere richiesta per reati puniti con pena detentiva non superiore a quattro anni, soli o congiunti a pena pecuniaria, oppure per reati puniti con la sola pena pecuniaria."
-                },
-                {
-                  "content": "Il giudice valuta la personalità dell'imputato, la gravità del fatto e le esigenze di tutela della persona offesa prima di concedere la messa alla prova."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "10.4",
-          "type": "section",
-          "title": "10.4 Lavoro di pubblica utilità",
-          "collapsible": true,
-          "children": [
-            {
-              "id": "10.4.1",
-              "type": "definition",
-              "content": "Il lavoro di pubblica utilità consiste nello svolgimento di un'attività non retribuita a favore della collettività presso enti pubblici, associazioni di volontariato o organizzazioni non profit. Può essere previsto come contenuto della messa alla prova o come pena sostitutiva."
-            },
-            {
-              "id": "10.4.2",
+              "id": "14.6.2",
               "type": "keypoint",
-              "content": "Il lavoro di pubblica utilità ha una funzione sia riparativa (restituire qualcosa alla società) sia rieducativa (sviluppare senso civico e responsabilità)."
-            }
-          ]
-        },
-        {
-          "id": "10.5",
-          "type": "section",
-          "title": "10.5 Rapporti con servizi sociali territoriali",
-          "collapsible": true,
-          "children": [
-            {
-              "id": "10.5.1",
-              "type": "definition",
-              "content": "Gli UEPE lavorano in stretto contatto con i servizi sociali dei Comuni, che offrono sostegno abitativo, economico, lavorativo e possono inserire le persone in percorsi di integrazione sociale già attivi sul territorio."
-            }
-          ]
-        },
-        {
-          "id": "10.6",
-          "type": "section",
-          "title": "10.6 Volontariato penitenziario",
-          "collapsible": true,
-          "children": [
-            {
-              "id": "10.6.1",
-              "type": "definition",
-              "content": "Il volontariato penitenziario è costituito da associazioni e singoli cittadini che svolgono attività di supporto ai detenuti e alle persone in misura alternativa, offrendo accompagnamento, sostegno morale, aiuto pratico nella ricerca di lavoro o alloggio."
+              "content": "**Tendenze:** Si registra un aumento dell'utilizzo della **messa alla prova** (favorendo la deflazione del processo) e una maggiore attenzione ai **percorsi di giustizia riparativa** (incontri vittima-reo) come parte integrante delle misure, in attuazione della Direttiva UE 2012/29."
             },
             {
-              "id": "10.6.2",
+              "id": "14.6.3",
               "type": "keypoint",
-              "content": "I volontari rappresentano un ponte tra il carcere e la società, aiutando chi ha vissuto la detenzione a ritrovare fiducia nelle relazioni umane e a sentirsi accolto dalla comunità."
+              "content": "**Sfide attuali:** 1) Uniformare l'applicazione delle misure su tutto il territorio nazionale. 2) Potenziare le risorse degli UEPE (organico e formazione). 3) Sviluppare una valutazione del rischio e dei bisogni più scientifica (strumenti actuariali)."
             }
           ]
         }
       ]
     },
+
     {
-      "id": "11",
+      "id": "15",
       "type": "section",
-      "title": "11. NORMATIVA SPECIALE E COMPLEMENTARE",
+      "title": "15. Normativa speciale e complementare",
       "collapsible": true,
       "children": [
         {
-          "id": "11.0",
+          "id": "15.0",
           "type": "definition",
           "content": "Oltre all'ordinamento penitenziario generale, esistono normative speciali che disciplinano situazioni particolari o categorie specifiche di condannati, offrendo strumenti e soluzioni adatte a esigenze diverse."
         },
         {
-          "id": "11.1",
+          "id": "15.1",
           "type": "section",
-          "title": "11.1 Sanzioni sostitutive (L. 689/1981)",
+          "title": "15.1 Sanzioni sostitutive (L. 689/1981)",
           "collapsible": true,
           "children": [
             {
-              "id": "11.1.1",
+              "id": "15.1.1",
               "type": "definition",
               "content": "Le sanzioni sostitutive previste dalla Legge 689 del 1981 permettono di sostituire le pene detentive brevi (fino a sei mesi) con sanzioni meno afflittive: semidetenzione, libertà controllata o pena pecuniaria."
             },
             {
-              "id": "11.1.2",
+              "id": "15.1.2",
               "type": "keypoint",
               "content": "L'obiettivo è evitare gli effetti negativi di pene detentive molto brevi, che spesso risultano più dannose che utili perché non permettono un vero percorso rieducativo ma possono causare la perdita del lavoro e dei legami sociali."
             }
           ]
         },
         {
-          "id": "11.2",
+          "id": "15.2",
           "type": "section",
-          "title": "11.2 Pene sostitutive (D.Lgs. 150/2022 e 31/2024)",
+          "title": "15.2 Pene sostitutive (D.Lgs. 150/2022 e 31/2024)",
           "collapsible": true,
           "children": [
             {
-              "id": "11.2.0",
+              "id": "15.2.0",
               "type": "definition",
               "content": "I decreti legislativi 150 del 2022 e 31 del 2024 hanno riformato il sistema delle pene sostitutive, ampliando le possibilità di sostituire le pene detentive brevi con misure che non prevedono l'ingresso in carcere."
             },
             {
-              "id": "11.2.1",
+              "id": "15.2.1",
               "type": "keypoint",
               "content": "La semidetenzione obbliga il condannato a trascorrere almeno dieci ore al giorno in un luogo di privazione della libertà, potendo uscire per lavoro, studio o cure."
             },
             {
-              "id": "11.2.2",
+              "id": "15.2.2",
               "type": "keypoint",
               "content": "La libertà controllata impone al condannato di rispettare prescrizioni come il divieto di allontanarsi dal Comune di residenza, l'obbligo di presentarsi periodicamente alla polizia, il divieto di frequentare certi luoghi."
             },
             {
-              "id": "11.2.3",
+              "id": "15.2.3",
               "type": "keypoint",
               "content": "La detenzione domiciliare come pena sostitutiva permette di scontare la pena breve nella propria abitazione anziché in carcere."
             },
             {
-              "id": "11.2.4",
+              "id": "15.2.4",
               "type": "keypoint",
               "content": "Il lavoro di pubblica utilità consiste nello svolgere gratuitamente attività in favore della collettività per un numero di ore proporzionale alla pena sostituita."
             }
           ]
         },
         {
-          "id": "11.3",
+          "id": "15.3",
           "type": "section",
-          "title": "11.3 Tossicodipendenti e alcoldipendenti",
+          "title": "15.3 Tossicodipendenti e alcoldipendenti",
           "collapsible": true,
           "children": [
             {
-              "id": "11.3.0",
+              "id": "15.3.0",
               "type": "definition",
               "content": "Per i condannati tossicodipendenti o alcoldipendenti esistono percorsi specifici che privilegiano il trattamento terapeutico rispetto alla semplice detenzione."
             },
             {
-              "id": "11.3.1",
+              "id": "15.3.1",
               "type": "section",
-              "title": "11.3.1 Testo Unico Stupefacenti (D.P.R. 309/90)",
+              "title": "15.3.1 Testo Unico Stupefacenti (D.P.R. 309/90)",
               "collapsible": true,
               "children": [
                 {
-                  "id": "11.3.1.1",
+                  "id": "15.3.1.1",
                   "type": "definition",
                   "content": "Il Testo Unico sugli Stupefacenti prevede norme speciali per i tossicodipendenti, riconoscendo che la dipendenza è una malattia che richiede cure specifiche e che la detenzione da sola non risolve il problema."
                 }
               ]
             },
             {
-              "id": "11.3.2",
+              "id": "15.3.2",
               "type": "section",
-              "title": "11.3.2 Affidamento terapeutico",
+              "title": "15.3.2 Affidamento terapeutico",
               "collapsible": true,
               "children": [
                 {
-                  "id": "11.3.2.1",
+                  "id": "15.3.2.1",
                   "type": "definition",
                   "content": "L'affidamento terapeutico previsto dall'articolo 94 del D.P.R. 309/90 permette al tossicodipendente di scontare la pena seguendo un programma di recupero presso una comunità terapeutica o presso i servizi pubblici per le dipendenze."
                 }
               ]
             },
             {
-              "id": "11.3.3",
+              "id": "15.3.3",
               "type": "section",
-              "title": "11.3.3 Sospensione esecuzione pena",
+              "title": "15.3.3 Sospensione esecuzione pena",
               "collapsible": true,
               "children": [
                 {
-                  "id": "11.3.3.1",
+                  "id": "15.3.3.1",
                   "type": "definition",
                   "content": "Il giudice può sospendere l'esecuzione della pena per permettere al tossicodipendente di iniziare un programma terapeutico, evitando che entri in carcere se dimostra un serio impegno nel percorso di recupero."
                 }
@@ -2709,99 +2850,99 @@
           ]
         },
         {
-          "id": "11.4",
+          "id": "15.4",
           "type": "section",
-          "title": "11.4 Espulsione dello straniero",
+          "title": "15.4 Espulsione dello straniero",
           "collapsible": true,
           "children": [
             {
-              "id": "11.4.1",
+              "id": "15.4.1",
               "type": "definition",
               "content": "Il Testo Unico sull'Immigrazione (D.Lgs. 286/1998) prevede che lo straniero condannato possa essere espulso dal territorio nazionale come alternativa alla detenzione, quando la pena residua non supera determinati limiti."
             },
             {
-              "id": "11.4.2",
+              "id": "15.4.2",
               "type": "keypoint",
               "content": "L'espulsione come misura alternativa permette allo straniero di evitare il carcere a condizione che lasci l'Italia. Se rientra illegalmente, deve scontare la pena sospesa."
             }
           ]
         },
         {
-          "id": "11.5",
+          "id": "15.5",
           "type": "section",
-          "title": "11.5 Giustizia riparativa e mediazione penale",
+          "title": "15.5 Giustizia riparativa e mediazione penale",
           "collapsible": true,
           "children": [
             {
-              "id": "11.5.1",
+              "id": "15.5.1",
               "type": "definition",
               "content": "La giustizia riparativa è un approccio che cerca di riparare il danno causato dal reato attraverso l'incontro tra autore e vittima, favorendo la riconciliazione e il risarcimento del danno in modo più significativo rispetto alla sola pena."
             },
             {
-              "id": "11.5.2",
+              "id": "15.5.2",
               "type": "keypoint",
               "content": "La mediazione penale permette all'autore del reato di comprendere il danno causato, di chiedere scusa e di impegnarsi in azioni riparative, mentre la vittima può esprimere il proprio dolore e ottenere un risarcimento non solo economico ma anche morale."
             }
           ]
         },
         {
-          "id": "11.6",
+          "id": "15.6",
           "type": "section",
-          "title": "11.6 Responsabilità dell'amministrazione penitenziaria",
+          "title": "15.6 Responsabilità dell'amministrazione penitenziaria",
           "collapsible": true,
           "children": [
             {
-              "id": "11.6.1",
+              "id": "15.6.1",
               "type": "definition",
               "content": "L'amministrazione penitenziaria può essere chiamata a rispondere civilmente dei danni causati ai detenuti per violazione dei loro diritti, per condizioni detentive inadeguate o per comportamenti illegittimi del personale."
             }
           ]
         },
         {
-          "id": "11.7",
+          "id": "15.7",
           "type": "section",
-          "title": "11.7 Tutela maternità e infanzia in carcere",
+          "title": "15.7 Tutela maternità e infanzia in carcere",
           "collapsible": true,
           "children": [
             {
-              "id": "11.7.0",
+              "id": "15.7.0",
               "type": "definition",
               "content": "L'ordinamento prevede tutele speciali per le madri detenute e i loro figli piccoli, per evitare che i bambini crescano in carcere e per proteggere il legame madre-figlio."
             },
             {
-              "id": "11.7.1",
+              "id": "15.7.1",
               "type": "section",
-              "title": "11.7.1 ICAM",
+              "title": "15.7.1 ICAM",
               "collapsible": true,
               "children": [
                 {
-                  "id": "11.7.1.1",
+                  "id": "15.7.1.1",
                   "type": "definition",
                   "content": "Gli Istituti a Custodia Attenuata per detenute Madri sono strutture speciali dove le madri possono tenere con sé i figli fino a tre anni in un ambiente più simile a una casa che a un carcere, con spazi adatti ai bambini e personale specializzato."
                 }
               ]
             },
             {
-              "id": "11.7.2",
+              "id": "15.7.2",
               "type": "section",
-              "title": "11.7.2 Case famiglia protette",
+              "title": "15.7.2 Case famiglia protette",
               "collapsible": true,
               "children": [
                 {
-                  "id": "11.7.2.1",
+                  "id": "15.7.2.1",
                   "type": "definition",
                   "content": "Le case famiglia protette sono abitazioni esterne al carcere dove le madri in detenzione domiciliare possono vivere con i figli in un contesto completamente de-istituzionalizzato, simile a una normale vita familiare ma con controllo educativo."
                 }
               ]
             },
             {
-              "id": "11.7.3",
+              "id": "15.7.3",
               "type": "section",
-              "title": "11.7.3 Rinvio esecuzione pena",
+              "title": "15.7.3 Rinvio esecuzione pena",
               "collapsible": true,
               "children": [
                 {
-                  "id": "11.7.3.1",
+                  "id": "15.7.3.1",
                   "type": "definition",
                   "content": "L'articolo 146 del codice penale prevede il rinvio obbligatorio dell'esecuzione della pena per le donne incinte e per le madri di figli di età inferiore a un anno. Il giudice può concedere il rinvio facoltativo fino ai tre anni del bambino."
                 }
@@ -2810,39 +2951,39 @@
           ]
         },
         {
-          "id": "11.8",
+          "id": "15.8",
           "type": "section",
-          "title": "11.8 Detenuti con disturbi psichici",
+          "title": "15.8 Detenuti con disturbi psichici",
           "collapsible": true,
           "children": [
             {
-              "id": "11.8.1",
+              "id": "15.8.1",
               "type": "definition",
               "content": "I detenuti con gravi disturbi psichiatrici necessitano di assistenza specializzata. In alcuni casi, quando la malattia è incompatibile con il regime carcerario, possono essere trasferiti in Residenze per l'Esecuzione delle Misure di Sicurezza (REMS) o può essere disposto il rinvio dell'esecuzione della pena."
             }
           ]
         },
         {
-          "id": "11.9",
+          "id": "15.9",
           "type": "section",
-          "title": "11.9 Detenuti stranieri e trasferimenti",
+          "title": "15.9 Detenuti stranieri e trasferimenti",
           "collapsible": true,
           "children": [
             {
-              "id": "11.9.1",
+              "id": "15.9.1",
               "type": "definition",
               "content": "I detenuti stranieri possono chiedere di scontare la pena nel proprio Paese d'origine attraverso accordi internazionali di trasferimento, che permettono di mantenere i legami familiari e di facilitare il reinserimento nel Paese di provenienza."
             }
           ]
         },
         {
-          "id": "11.10",
+          "id": "15.10",
           "type": "section",
-          "title": "11.10 Trattamento dei sex offenders",
+          "title": "15.10 Trattamento dei sex offenders",
           "collapsible": true,
           "children": [
             {
-              "id": "11.10.1",
+              "id": "15.10.1",
               "type": "definition",
               "content": "L'articolo 13-bis della legge 354/1975 prevede percorsi trattamentali specifici per i condannati per reati sessuali, con programmi psicologici finalizzati a comprendere e modificare i comportamenti devianti e a ridurre il rischio di recidiva."
             }
@@ -2851,102 +2992,102 @@
       ]
     },
     {
-      "id": "12",
+      "id": "16",
       "type": "section",
-      "title": "12. SOVRAFFOLLAMENTO CARCERARIO E EMERGENZE",
+      "title": "16. Sovraffollamento carcerario e emergenze",
       "collapsible": true,
       "children": [
         {
-          "id": "12.0",
+          "id": "16.0",
           "type": "definition",
           "content": "Il sovraffollamento carcerario è uno dei problemi più gravi del sistema penitenziario italiano. Si verifica quando il numero dei detenuti supera la capienza regolamentare degli istituti, causando condizioni di vita inadeguate e violazioni dei diritti umani fondamentali."
         },
         {
-          "id": "12.1",
+          "id": "16.1",
           "type": "section",
-          "title": "12.1 Situazione attuale (2025)",
+          "title": "16.1 Situazione attuale (2025)",
           "collapsible": true,
           "children": [
             {
-              "id": "12.1.1",
+              "id": "16.1.1",
               "type": "definition",
               "content": "Al 2025, le carceri italiane ospitano oltre 62.000 detenuti a fronte di una capienza regolamentare di circa 51.300 posti, con un tasso di sovraffollamento superiore al 120%."
             },
             {
-              "id": "12.1.2",
+              "id": "16.1.2",
               "type": "keypoint",
               "content": "Questo significa che in media ci sono più di 6 detenuti ogni 5 posti disponibili, con situazioni particolarmente critiche in alcuni istituti dove il sovraffollamento supera il 150-180%."
             }
           ]
         },
         {
-          "id": "12.2",
+          "id": "16.2",
           "type": "section",
-          "title": "12.2 Sentenza Torreggiani CEDU (2013)",
+          "title": "16.2 Sentenza Torreggiani CEDU (2013)",
           "collapsible": true,
           "children": [
             {
-              "id": "12.2.1",
+              "id": "16.2.1",
               "type": "definition",
               "content": "L'8 gennaio 2013 la Corte Europea dei Diritti dell'Uomo ha condannato l'Italia con la sentenza Torreggiani per le condizioni di sovraffollamento carcerario, ritenendo che costituissero un trattamento inumano e degradante vietato dall'articolo 3 della Convenzione Europea."
             },
             {
-              "id": "12.2.2",
+              "id": "16.2.2",
               "type": "keypoint",
               "content": "La Corte ha imposto all'Italia di introdurre rimedi preventivi e compensativi efficaci per garantire che i detenuti non subiscano condizioni contrarie alla dignità umana."
             }
           ]
         },
         {
-          "id": "12.3",
+          "id": "16.3",
           "type": "section",
-          "title": "12.3 Rimedi compensativi",
+          "title": "16.3 Rimedi compensativi",
           "collapsible": true,
           "children": [
             {
-              "id": "12.3.1",
+              "id": "16.3.1",
               "type": "definition",
               "content": "In seguito alla sentenza Torreggiani, l'Italia ha introdotto la possibilità per il detenuto che ha subito condizioni detentive inumane o degradanti di ottenere una riduzione della pena di un giorno ogni dieci giorni trascorsi in condizioni inadeguate."
             },
             {
-              "id": "12.3.2",
+              "id": "16.3.2",
               "type": "keypoint",
               "content": "Questo rimedio compensativo serve sia a riparare il danno subito dal detenuto sia a incentivare lo Stato a migliorare le condizioni carcerarie per evitare le riduzioni di pena."
             }
           ]
         },
         {
-          "id": "12.4",
+          "id": "16.4",
           "type": "section",
-          "title": "12.4 Piano di edilizia penitenziaria 2025-2027",
+          "title": "16.4 Piano di edilizia penitenziaria 2025-2027",
           "collapsible": true,
           "children": [
             {
-              "id": "12.4.0",
+              "id": "16.4.0",
               "type": "definition",
               "content": "Per affrontare il sovraffollamento, il Governo ha approvato un piano straordinario di edilizia penitenziaria per aumentare i posti disponibili negli istituti."
             },
             {
-              "id": "12.4.1",
+              "id": "16.4.1",
               "type": "section",
-              "title": "12.4.1 Commissario straordinario",
+              "title": "16.4.1 Commissario straordinario",
               "collapsible": true,
               "children": [
                 {
-                  "id": "12.4.1.1",
+                  "id": "16.4.1.1",
                   "type": "definition",
                   "content": "È stato nominato un Commissario straordinario per l'edilizia penitenziaria con il compito di coordinare e accelerare i lavori di costruzione e ristrutturazione degli istituti."
                 }
               ]
             },
             {
-              "id": "12.4.2",
+              "id": "16.4.2",
               "type": "section",
-              "title": "12.4.2 Obiettivo nuovi posti",
+              "title": "16.4.2 Obiettivo nuovi posti",
               "collapsible": true,
               "children": [
                 {
-                  "id": "12.4.2.1",
+                  "id": "16.4.2.1",
                   "type": "definition",
                   "content": "L'obiettivo del piano è creare 10.692 nuovi posti detentivi entro il 2027 attraverso la costruzione di nuovi padiglioni, la ristrutturazione di istituti esistenti e il recupero di spazi inutilizzati."
                 }
@@ -2955,78 +3096,78 @@
           ]
         },
         {
-          "id": "12.5",
+          "id": "16.5",
           "type": "section",
-          "title": "12.5 Decreto Carcere Sicuro (2024)",
+          "title": "16.5 Decreto Carcere Sicuro (2024)",
           "collapsible": true,
           "children": [
             {
-              "id": "12.5.1",
+              "id": "16.5.1",
               "type": "definition",
               "content": "Il Decreto Legge 92 del 2024, convertito nella Legge 112/2024 e chiamato Decreto Carcere Sicuro, ha introdotto misure urgenti per affrontare l'emergenza sovraffollamento e migliorare le condizioni di sicurezza negli istituti."
             }
           ]
         },
         {
-          "id": "12.6",
+          "id": "16.6",
           "type": "section",
-          "title": "12.6 Misure di decompressione",
+          "title": "16.6 Misure di decompressione",
           "collapsible": true,
           "children": [
             {
-              "id": "12.6.0",
+              "id": "16.6.0",
               "type": "definition",
               "content": "Per ridurre il numero dei detenuti sono state proposte diverse misure di decompressione, alcune già attuate e altre ancora in discussione."
             },
             {
-              "id": "12.6.1",
+              "id": "16.6.1",
               "type": "keypoint",
               "content": "La liberazione anticipata speciale prevede la possibilità di aumentare i giorni di riduzione della pena per buona condotta in situazioni di particolare sovraffollamento."
             },
             {
-              "id": "12.6.2",
+              "id": "16.6.2",
               "type": "keypoint",
               "content": "L'indulto condizionato è stato proposto come strumento per ridurre le pene di chi ha già scontato parte della condanna e ha tenuto buona condotta, ma richiede una legge del Parlamento."
             },
             {
-              "id": "12.6.3",
+              "id": "16.6.3",
               "type": "keypoint",
               "content": "Il numero chiuso nelle carceri è una proposta per impedire nuovi ingressi quando un istituto raggiunge la capienza massima, privilegiando misure alternative per chi deve iniziare a scontare pene brevi."
             }
           ]
         },
         {
-          "id": "12.7",
+          "id": "16.7",
           "type": "section",
-          "title": "12.7 Prevenzione suicidi e autolesionismo",
+          "title": "16.7 Prevenzione suicidi e autolesionismo",
           "collapsible": true,
           "children": [
             {
-              "id": "12.7.0",
+              "id": "16.7.0",
               "type": "definition",
               "content": "Il sovraffollamento e le condizioni di disagio in carcere contribuiscono a un alto numero di suicidi e atti di autolesionismo. Nel 2024 si sono registrati oltre 80 suicidi nelle carceri italiane."
             },
             {
-              "id": "12.7.1",
+              "id": "16.7.1",
               "type": "section",
-              "title": "12.7.1 Fondi per supporto psicologico",
+              "title": "16.7.1 Fondi per supporto psicologico",
               "collapsible": true,
               "children": [
                 {
-                  "id": "12.7.1.1",
+                  "id": "16.7.1.1",
                   "type": "definition",
                   "content": "Sono stati stanziati 3 milioni di euro annui a partire dal 2025 per potenziare il supporto psicologico ai detenuti, assumere nuovi psicologi e migliorare l'assistenza alle persone più fragili."
                 }
               ]
             },
             {
-              "id": "12.7.2",
+              "id": "16.7.2",
               "type": "section",
-              "title": "12.7.2 Protocolli di prevenzione",
+              "title": "16.7.2 Protocolli di prevenzione",
               "collapsible": true,
               "children": [
                 {
-                  "id": "12.7.2.1",
+                  "id": "16.7.2.1",
                   "type": "definition",
                   "content": "Sono stati introdotti protocolli specifici per individuare i detenuti a rischio suicidio, monitorarli costantemente e attivare interventi tempestivi di sostegno psicologico e psichiatrico."
                 }
@@ -3037,63 +3178,63 @@
       ]
     },
     {
-      "id": "13",
+      "id": "17",
       "type": "section",
-      "title": "13. COOPERAZIONE INTERNAZIONALE",
+      "title": "17. Cooperazione internazionale",
       "collapsible": true,
       "children": [
         {
-          "id": "13.0",
+          "id": "17.0",
           "type": "definition",
           "content": "La cooperazione internazionale in materia penitenziaria permette il trasferimento dei detenuti stranieri nei Paesi d'origine per scontare la pena, favorisce lo scambio di informazioni tra Stati e garantisce standard comuni di tutela dei diritti umani."
         },
         {
-          "id": "13.1",
+          "id": "17.1",
           "type": "section",
-          "title": "13.1 Trasferimento detenuti nell'UE",
+          "title": "17.1 Trasferimento detenuti nell'UE",
           "collapsible": true,
           "children": [
             {
-              "id": "13.1.1",
+              "id": "17.1.1",
               "type": "definition",
               "content": "All'interno dell'Unione Europea esistono procedure semplificate per trasferire i detenuti cittadini di altri Stati membri nei loro Paesi d'origine, dove possono scontare il resto della pena mantenendo i legami familiari e culturali."
             }
           ]
         },
         {
-          "id": "13.2",
+          "id": "17.2",
           "type": "section",
-          "title": "13.2 Accordi bilaterali",
+          "title": "17.2 Accordi bilaterali",
           "collapsible": true,
           "children": [
             {
-              "id": "13.2.1",
+              "id": "17.2.1",
               "type": "definition",
               "content": "L'Italia ha stipulato accordi bilaterali con diversi Paesi extraeuropei per permettere il trasferimento reciproco dei detenuti, favorendo il reinserimento sociale nel Paese di cittadinanza."
             }
           ]
         },
         {
-          "id": "13.3",
+          "id": "17.3",
           "type": "section",
-          "title": "13.3 Mandato di arresto europeo",
+          "title": "17.3 Mandato di arresto europeo",
           "collapsible": true,
           "children": [
             {
-              "id": "13.3.1",
+              "id": "17.3.1",
               "type": "definition",
               "content": "Il mandato di arresto europeo è uno strumento di cooperazione giudiziaria che permette a uno Stato membro di chiedere ad altri Stati l'arresto e la consegna di una persona ricercata per reati gravi, semplificando le procedure di estradizione."
             }
           ]
         },
         {
-          "id": "13.4",
+          "id": "17.4",
           "type": "section",
-          "title": "13.4 Standard CEDU e CPT",
+          "title": "17.4 Standard CEDU e CPT",
           "collapsible": true,
           "children": [
             {
-              "id": "13.4.1",
+              "id": "17.4.1",
               "type": "definition",
               "content": "La Convenzione Europea dei Diritti dell'Uomo (CEDU) stabilisce standard minimi che tutti gli Stati europei devono rispettare nelle carceri. Il Comitato Europeo per la Prevenzione della Tortura (CPT) visita regolarmente gli istituti per verificare il rispetto di questi standard."
             }
@@ -3102,89 +3243,89 @@
       ]
     },
     {
-      "id": "14",
+      "id": "18",
       "type": "section",
-      "title": "14. CONTROLLO E VIGILANZA",
+      "title": "18. Controllo e vigilanza",
       "collapsible": true,
       "children": [
         {
-          "id": "14.0",
+          "id": "18.0",
           "type": "definition",
           "content": "Il sistema penitenziario è sottoposto a diversi livelli di controllo e vigilanza per garantire il rispetto dei diritti dei detenuti e la legalità dell'azione amministrativa."
         },
         {
-          "id": "14.1",
+          "id": "18.1",
           "type": "section",
-          "title": "14.1 Controllo giurisdizionale",
+          "title": "18.1 Controllo giurisdizionale",
           "collapsible": true,
           "children": [
             {
-              "id": "14.1.1",
+              "id": "18.1.1",
               "type": "definition",
               "content": "Il controllo principale è svolto dalla magistratura di sorveglianza, che visita gli istituti, riceve reclami dai detenuti e decide su tutte le questioni relative all'esecuzione della pena."
             }
           ]
         },
         {
-          "id": "14.2",
+          "id": "18.2",
           "type": "section",
-          "title": "14.2 Garante nazionale",
+          "title": "18.2 Garante nazionale",
           "collapsible": true,
           "children": [
             {
-              "id": "14.2.1",
+              "id": "18.2.1",
               "type": "definition",
               "content": "Il Garante nazionale dei diritti delle persone private della libertà personale è un'autorità indipendente che vigila su tutte le forme di privazione della libertà, non solo il carcere ma anche i centri per migranti, le comunità per minori, i reparti psichiatrici."
             }
           ]
         },
         {
-          "id": "14.3",
+          "id": "18.3",
           "type": "section",
-          "title": "14.3 Garanti regionali",
+          "title": "18.3 Garanti regionali",
           "collapsible": true,
           "children": [
             {
-              "id": "14.3.1",
+              "id": "18.3.1",
               "type": "definition",
               "content": "Molte Regioni e Comuni hanno istituito figure di Garanti territoriali che operano a livello locale, visitando gli istituti del territorio, ricevendo segnalazioni e collaborando con il Garante nazionale."
             }
           ]
         },
         {
-          "id": "14.4",
+          "id": "18.4",
           "type": "section",
-          "title": "14.4 Comitato europeo CPT",
+          "title": "18.4 Comitato europeo CPT",
           "collapsible": true,
           "children": [
             {
-              "id": "14.4.1",
+              "id": "18.4.1",
               "type": "definition",
               "content": "Il Comitato Europeo per la Prevenzione della Tortura effettua visite periodiche e a sorpresa nelle carceri italiane per verificare le condizioni di detenzione e il rispetto degli standard europei, pubblicando poi rapporti pubblici con raccomandazioni allo Stato."
             }
           ]
         },
         {
-          "id": "14.5",
+          "id": "18.5",
           "type": "section",
-          "title": "14.5 Associazioni di tutela",
+          "title": "18.5 Associazioni di tutela",
           "collapsible": true,
           "children": [
             {
-              "id": "14.5.1",
+              "id": "18.5.1",
               "type": "definition",
               "content": "Associazioni come Antigone, l'Associazione Luca Coscioni e altre organizzazioni della società civile svolgono un'importante funzione di monitoraggio, visitando le carceri, pubblicando rapporti sulle condizioni detentive e denunciando violazioni dei diritti."
             }
           ]
         },
         {
-          "id": "14.6",
+          "id": "18.6",
           "type": "section",
-          "title": "14.6 Visite parlamentari",
+          "title": "18.6 Visite parlamentari",
           "collapsible": true,
           "children": [
             {
-              "id": "14.6.1",
+              "id": "18.6.1",
               "type": "definition",
               "content": "I parlamentari hanno il diritto di visitare gli istituti penitenziari in qualsiasi momento per verificare le condizioni di detenzione e riferire poi alle Camere. Esistono commissioni parlamentari specifiche che si occupano di diritti umani e condizioni carcerarie."
             }
@@ -3193,33 +3334,776 @@
       ]
     },
     {
-      "id": "15",
+      "id": "19",
       "type": "section",
-      "title": "15. CONCLUSIONI E PROSPETTIVE FUTURE",
+      "title": "19. Giurisprudenza costituzionale e CEDU in materia penitenziaria",
       "collapsible": true,
       "children": [
         {
-          "id": "15.0",
+          "id": "19.0",
+          "type": "definition",
+          "content": "La Corte costituzionale italiana e la Corte Europea dei Diritti dell'Uomo (CEDU) svolgono un ruolo fondamentale nel garantire il rispetto dei principi costituzionali e dei diritti umani nell'esecuzione penale, ponendo limiti all'operato del legislatore e dell'amministrazione penitenziaria."
+        },
+        {
+          "id": "19.1",
+          "type": "section",
+          "title": "19.1 Ruolo della Corte costituzionale nella materia penitenziaria",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.1.1",
+              "type": "definition",
+              "content": "La Corte costituzionale è il giudice delle leggi, con il compito di verificare la conformità delle norme alla Costituzione. In materia penitenziaria, la Corte esercita un controllo di legittimità sulle norme che disciplinano l'esecuzione della pena, garantendo il rispetto dei principi fondamentali dell'articolo 27 Cost."
+            },
+            {
+              "id": "19.1.2",
+              "type": "keypoint",
+              "title": "Funzioni principali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Controllo di legittimità costituzionale sulle leggi penitenziarie e sulle norme che regolano l'esecuzione della pena"
+                },
+                {
+                  "content": "Interpretazione conforme a Costituzione delle disposizioni penitenziarie"
+                },
+                {
+                  "content": "Definizione dei confini costituzionali entro i quali il legislatore può disciplinare il trattamento dei detenuti"
+                },
+                {
+                  "content": "Tutela dei diritti fondamentali dei detenuti attraverso il controllo sulla proporzionalità delle restrizioni"
+                },
+                {
+                  "content": "Mediazione tra esigenze di sicurezza e diritti fondamentali, in particolare il diritto alla dignità umana"
+                }
+              ]
+            },
+            {
+              "id": "19.1.3",
+              "type": "keypoint",
+              "title": "Principi costituzionali applicati",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Art. 27, comma 3: finalità rieducativa della pena e divieto di trattamenti contrari al senso di umanità"
+                },
+                {
+                  "content": "Art. 2: inviolabilità dei diritti fondamentali della persona"
+                },
+                {
+                  "content": "Art. 3: principio di uguaglianza e ragionevolezza"
+                },
+                {
+                  "content": "Art. 13: libertà personale e riserva di giurisdizione"
+                },
+                {
+                  "content": "Art. 32: diritto alla salute"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.2",
+          "type": "section",
+          "title": "19.2 Giurisprudenza costituzionale sul 41-bis",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.2.1",
+              "type": "definition",
+              "content": "La Corte costituzionale si è pronunciata più volte sul regime del 41-bis, riconoscendone la legittimità costituzionale ma fissando limiti precisi per garantire che non degeneri in trattamento inumano o degradante."
+            },
+            {
+              "id": "19.2.2",
+              "type": "keypoint",
+              "title": "Sentenza n. 149/2008",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte ha dichiarato legittimo il regime del 41-bis purché rispetti il nucleo minimo di diritti fondamentali del detenuto"
+                },
+                {
+                  "content": "Ha stabilito che le restrizioni devono essere proporzionate alle esigenze di sicurezza e non possono annullare completamente i diritti del detenuto"
+                },
+                {
+                  "content": "Ha ribadito che il 41-bis non può trasformarsi in una pena aggiuntiva o in un trattamento disumano"
+                },
+                {
+                  "content": "Ha riconosciuto la legittimità della proroga del regime ma con il vincolo della periodica rivalutazione della pericolosità"
+                }
+              ]
+            },
+            {
+              "id": "19.2.3",
+              "type": "keypoint",
+              "title": "Sentenza n. 253/2014",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte ha stabilito che anche i detenuti in 41-bis hanno diritto a colloqui con i familiari, seppur con limitazioni"
+                },
+                {
+                  "content": "Ha affermato che il diritto alle relazioni familiari fa parte del nucleo irriducibile di diritti che non può essere completamente sacrificato"
+                },
+                {
+                  "content": "Ha precisato che le limitazioni devono essere giustificate da concrete esigenze di sicurezza e non possono essere meramente preventive"
+                }
+              ]
+            },
+            {
+              "id": "19.2.4",
+              "type": "keypoint",
+              "title": "Principi fissati dalla Corte",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il 41-bis è legittimo solo se finalizzato a impedire collegamenti con l'organizzazione criminale, non come pena aggiuntiva"
+                },
+                {
+                  "content": "Deve essere garantito un nucleo minimo di diritti fondamentali (salute, difesa, vita familiare attenuata)"
+                },
+                {
+                  "content": "Le restrizioni devono essere proporzionate e periodicamente rivalutate"
+                },
+                {
+                  "content": "Il regime non può essere indeterminato: richiede periodiche verifiche della persistenza delle esigenze di sicurezza"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.3",
+          "type": "section",
+          "title": "19.3 Giurisprudenza costituzionale sull'affettività",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.3.1",
+              "type": "definition",
+              "content": "La Corte costituzionale ha riconosciuto il diritto alle relazioni affettive e familiari come diritto fondamentale che non può essere completamente sacrificato neppure in regime di detenzione."
+            },
+            {
+              "id": "19.3.2",
+              "type": "keypoint",
+              "title": "Sentenza n. 172/1994",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Prima importante sentenza che riconosce il diritto alla vita affettiva del detenuto"
+                },
+                {
+                  "content": "La Corte ha stabilito che il diritto alle relazioni familiari è parte del diritto alla personalità (art. 2 Cost.)"
+                },
+                {
+                  "content": "Ha affermato che le limitazioni devono essere giustificate da concrete esigenze di sicurezza e non possono essere arbitrarie"
+                }
+              ]
+            },
+            {
+              "id": "19.3.3",
+              "type": "keypoint",
+              "title": "Sentenza n. 54/2017",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte ha dichiarato illegittima la normativa che precludeva in modo assoluto i colloqui intimi"
+                },
+                {
+                  "content": "Ha riconosciuto il diritto alla sessualità come espressione della personalità umana"
+                },
+                {
+                  "content": "Ha stabilito che il legislatore deve prevedere modalità per consentire l'esercizio di questo diritto in condizioni di sicurezza"
+                },
+                {
+                  "content": "Ha invitato il Parlamento a legiferare per disciplinare i colloqui intimi in carcere"
+                }
+              ]
+            },
+            {
+              "id": "19.3.4",
+              "type": "keypoint",
+              "title": "Sentenza n. 215/2018",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte ha dichiarato illegittime le norme che escludevano i conviventi more uxorio dai benefici penitenziari"
+                },
+                {
+                  "content": "Ha affermato il principio di parità di trattamento tra convivenza more uxorio e matrimonio"
+                },
+                {
+                  "content": "Ha riconosciuto che le relazioni di fatto hanno pari dignità rispetto ai rapporti matrimoniali"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.4",
+          "type": "section",
+          "title": "19.4 Giurisprudenza costituzionale sull'ergastolo ostativo",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.4.1",
+              "type": "definition",
+              "content": "L'ergastolo ostativo è l'ergastolo per il quale sono previste particolari restrizioni all'accesso ai benefici penitenziari. La Corte costituzionale ha affrontato più volte la questione, bilanciando esigenze di giustizia e diritti del condannato."
+            },
+            {
+              "id": "19.4.2",
+              "type": "keypoint",
+              "title": "Sentenza n. 50/2015",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte ha dichiarato parzialmente illegittimo l'ergastolo ostativo"
+                },
+                {
+                  "content": "Ha stabilito che la possibilità di accedere alla liberazione condizionale non può essere preclusa in modo assoluto e permanente"
+                },
+                {
+                  "content": "Ha affermato che anche l'ergastolano ha diritto a una prospettiva di reinserimento sociale"
+                },
+                {
+                  "content": "Ha riconosciuto che il giudice deve poter valutare il percorso rieducativo del condannato"
+                }
+              ]
+            },
+            {
+              "id": "19.4.3",
+              "type": "keypoint",
+              "title": "Sentenza n. 253/2019",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte ha dichiarato illegittima la disciplina dell'ergastolo ostativo nella parte in cui prevedeva una disciplina eccessivamente rigida"
+                },
+                {
+                  "content": "Ha ribadito che la finalità rieducativa della pena vale anche per i condannati all'ergastolo"
+                },
+                {
+                  "content": "Ha stabilito che il giudice deve poter valutare il concreto percorso rieducativo del condannato"
+                },
+                {
+                  "content": "Ha introdotto maggiori garanzie procedurali per l'accesso ai benefici"
+                }
+              ]
+            },
+            {
+              "id": "19.4.4",
+              "type": "keypoint",
+              "title": "Principi costituzionali applicati",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Art. 27, comma 3: finalità rieducativa della pena applicabile anche all'ergastolo"
+                },
+                {
+                  "content": "Art. 3: principio di ragionevolezza e proporzionalità delle restrizioni"
+                },
+                {
+                  "content": "Art. 13: limiti alla privazione della libertà personale"
+                },
+                {
+                  "content": "Principio di umanità delle pene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.5",
+          "type": "section",
+          "title": "19.5 Giurisprudenza costituzionale sui diritti fondamentali del detenuto",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.5.1",
+              "type": "definition",
+              "content": "La Corte costituzionale ha elaborato una ricca giurisprudenza sui diritti fondamentali dei detenuti, riconoscendo che la privazione della libertà non implica la perdita di tutti i diritti costituzionali."
+            },
+            {
+              "id": "19.5.2",
+              "type": "keypoint",
+              "title": "Diritto alla salute",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sentenza n. 349/1993: il diritto alla salute è diritto fondamentale che deve essere garantito anche in carcere"
+                },
+                {
+                  "content": "Sentenza n. 185/2001: l'assistenza sanitaria in carcere deve essere equivalente a quella esterna"
+                },
+                {
+                  "content": "La Corte ha stabilito che condizioni detentive lesive della salute possono integrare violazione dell'art. 32 Cost."
+                }
+              ]
+            },
+            {
+              "id": "19.5.3",
+              "type": "keypoint",
+              "title": "Diritto al lavoro",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sentenza n. 176/1991: il lavoro penitenziario ha finalità rieducativa e non afflittiva"
+                },
+                {
+                  "content": "La Corte ha riconosciuto che il lavoro in carcere è un diritto del detenuto e non un privilegio"
+                },
+                {
+                  "content": "Ha stabilito che la retribuzione deve essere adeguata e proporzionata"
+                }
+              ]
+            },
+            {
+              "id": "19.5.4",
+              "type": "keypoint",
+              "title": "Diritto all'istruzione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sentenza n. 458/1999: il diritto all'istruzione deve essere garantito anche in carcere"
+                },
+                {
+                  "content": "La Corte ha affermato che l'istruzione è strumento fondamentale per la rieducazione"
+                },
+                {
+                  "content": "Ha riconosciuto l'obbligo dello Stato di fornire adeguate opportunità formative"
+                }
+              ]
+            },
+            {
+              "id": "19.5.5",
+              "type": "keypoint",
+              "title": "Diritto di difesa",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sentenza n. 78/2007: il diritto di difesa non può essere compresso dalle esigenze carcerarie"
+                },
+                {
+                  "content": "La Corte ha garantito riservatezza nei colloqui con il difensore"
+                },
+                {
+                  "content": "Ha stabilito che le limitazioni devono essere eccezionali e giustificate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.6",
+          "type": "section",
+          "title": "19.6 Ruolo della giurisprudenza CEDU",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.6.1",
+              "type": "definition",
+              "content": "La Corte Europea dei Diritti dell'Uomo (CEDU) esercita un controllo sul rispetto dei diritti umani da parte degli Stati membri del Consiglio d'Europa. Le sue sentenze hanno un impatto diretto sul sistema penitenziario italiano."
+            },
+            {
+              "id": "19.6.2",
+              "type": "keypoint",
+              "title": "Caratteristiche delle sentenze CEDU",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Natura vincolante per lo Stato condannato"
+                },
+                {
+                  "content": "Interpretazione dinamica e evolutiva della Convenzione"
+                },
+                {
+                  "content": "Riconoscimento di obblighi positivi per gli Stati"
+                },
+                {
+                  "content": "Possibilità di condanne per violazioni strutturali e sistemiche"
+                }
+              ]
+            },
+            {
+              "id": "19.6.3",
+              "type": "keypoint",
+              "title": "Articoli rilevanti della Convenzione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Art. 3: Divieto di tortura e trattamenti inumani o degradanti"
+                },
+                {
+                  "content": "Art. 5: Diritto alla libertà e sicurezza personale"
+                },
+                {
+                  "content": "Art. 6: Diritto a un processo equo"
+                },
+                {
+                  "content": "Art. 8: Diritto al rispetto della vita privata e familiare"
+                },
+                {
+                  "content": "Art. 13: Diritto a un ricorso effettivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.7",
+          "type": "section",
+          "title": "19.7 Sentenze CEDU rilevanti: Torreggiani e altre",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.7.1",
+              "type": "keypoint",
+              "title": "Sentenza Torreggiani c. Italia (2013)",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Condanna dell'Italia per sovraffollamento carcerario cronico e sistemico"
+                },
+                {
+                  "content": "La Corte ha stabilito che il sovraffollamento costituisce trattamento degradante (art. 3 CEDU)"
+                },
+                {
+                  "content": "Ha riconosciuto che la carenza di spazio personale (meno di 3 mq) integra violazione dell'art. 3"
+                },
+                {
+                  "content": "Ha imposto all'Italia di adottare rimedi preventivi e compensativi"
+                },
+                {
+                  "content": "Ha stabilito che i detenuti devono avere accesso a rimedi effettivi per le violazioni"
+                }
+              ]
+            },
+            {
+              "id": "19.7.2",
+              "type": "keypoint",
+              "title": "Sentenza Viola c. Italia (2021)",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Condanna per violazione dell'art. 3 CEDU per condizioni detentive inadeguate"
+                },
+                {
+                  "content": "La Corte ha stabilito che l'assenza di luce naturale e ventilazione adeguata integra trattamento degradante"
+                },
+                {
+                  "content": "Ha riconosciuto che le carenze strutturali degli istituti violano i diritti dei detenuti"
+                },
+                {
+                  "content": "Ha rafforzato gli standard minimi di condizioni detentive"
+                }
+              ]
+            },
+            {
+              "id": "19.7.3",
+              "type": "keypoint",
+              "title": "Sentenza Khlaifia c. Italia (2016)",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Condanna per condizioni di detenzione dei migranti nei centri di identificazione ed espulsione"
+                },
+                {
+                  "content": "La Corte ha stabilito che la detenzione amministrativa deve rispettare gli standard minimi di dignità"
+                },
+                {
+                  "content": "Ha riconosciuto che la privazione della libertà richiede adeguate garanzie procedurali"
+                }
+              ]
+            },
+            {
+              "id": "19.7.4",
+              "type": "keypoint",
+              "title": "Sentenza Cestaro c. Italia (2015)",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Condanna per violazione dell'art. 3 CEDU per maltrattamenti durante il G8 di Genova"
+                },
+                {
+                  "content": "La Corte ha stabilito che le violenze della polizia integrano trattamento inumano e degradante"
+                },
+                {
+                  "content": "Ha riconosciuto l'obbligo dello Stato di indagare efficacemente sulle violazioni"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.8",
+          "type": "section",
+          "title": "19.8 Obblighi di adeguamento dello Stato italiano",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.8.1",
+              "type": "definition",
+              "content": "Le sentenze della CEDU impongono allo Stato italiano obblighi di adeguamento normativo e strutturale per conformare il sistema penitenziario agli standard europei di protezione dei diritti umani."
+            },
+            {
+              "id": "19.8.2",
+              "type": "keypoint",
+              "title": "Obblighi individuali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Risarcimento del danno non patrimoniale al ricorrente"
+                },
+                {
+                  "content": "Cessazione della violazione per il singolo caso"
+                },
+                {
+                  "content": "Eventuale ripristino della situazione preesistente"
+                }
+              ]
+            },
+            {
+              "id": "19.8.3",
+              "type": "keypoint",
+              "title": "Obblighi generali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Adozione di misure legislative per prevenire violazioni simili"
+                },
+                {
+                  "content": "Modifica delle prassi amministrative inadeguate"
+                },
+                {
+                  "content": "Investimenti strutturali per migliorare le condizioni detentive"
+                },
+                {
+                  "content": "Creazione di rimedi effettivi per i detenuti"
+                }
+              ]
+            },
+            {
+              "id": "19.8.4",
+              "type": "keypoint",
+              "title": "Misure adottate dopo Torreggiani",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Decreto-legge 146/2013 (convertito in L. 10/2014): introduzione del rimedio compensativo per sovraffollamento"
+                },
+                {
+                  "content": "Possibilità di riduzione di pena per detenuti in condizioni degradanti"
+                },
+                {
+                  "content": "Potenziamento delle misure alternative per decongestionare le carceri"
+                },
+                {
+                  "content": "Avvio di piani di edilizia penitenziaria"
+                }
+              ]
+            },
+            {
+              "id": "19.8.5",
+              "type": "keypoint",
+              "title": "Meccanismi di monitoraggio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Comitato dei Ministri del Consiglio d'Europa: supervisione dell'esecuzione delle sentenze"
+                },
+                {
+                  "content": "Procedure di infrazione per inadempimento"
+                },
+                {
+                  "content": "Rapporti periodici dello Stato italiano sui progressi"
+                },
+                {
+                  "content": "Visite di follow-up del Comitato Europeo per la Prevenzione della Tortura (CPT)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.9",
+          "type": "section",
+          "title": "19.9 Interazione tra giurisprudenza costituzionale e CEDU",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.9.1",
+              "type": "definition",
+              "content": "La giurisprudenza della Corte costituzionale e della CEDU interagiscono in un dialogo fecondo che arricchisce la tutela dei diritti dei detenuti, pur nell'ambito di sistemi giuridici distinti."
+            },
+            {
+              "id": "19.9.2",
+              "type": "keypoint",
+              "title": "Influssi reciproci",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La Corte costituzionale tiene conto della giurisprudenza CEDU nell'interpretare i diritti costituzionali"
+                },
+                {
+                  "content": "La CEDU considera la giurisprudenza costituzionale nazionale nell'applicare il margine di apprezzamento"
+                },
+                {
+                  "content": "Principi comuni sviluppati da entrambe le Corti (dignità umana, proporzionalità, nucleo minimo di diritti)"
+                }
+              ]
+            },
+            {
+              "id": "19.9.3",
+              "type": "keypoint",
+              "title": "Divergenze e convergenze",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "In generale, convergenza sui principi fondamentali di tutela della dignità umana"
+                },
+                {
+                  "content": "La CEDU tende a standard più elevati per condizioni detentive"
+                },
+                {
+                  "content": "La Corte costituzionale bilancia più esplicitamente diritti e sicurezza pubblica"
+                },
+                {
+                  "content": "Entrambe riconoscono la legittimità di regimi speciali purché proporzionati e limitati"
+                }
+              ]
+            },
+            {
+              "id": "19.9.4",
+              "type": "keypoint",
+              "title": "Rapporto tra ordinamenti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La CEDU ha valore di legge ordinaria nell'ordinamento italiano"
+                },
+                {
+                  "content": "Le sentenze CEDU di condanna hanno effetto vincolante per lo Stato italiano"
+                },
+                {
+                  "content": "La Corte costituzionale riconosce il valore interpretativo della CEDU per i diritti costituzionali"
+                },
+                {
+                  "content": "Possibilità di conflitti risolti attraverso interpretazione conforme"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19.10",
+          "type": "section",
+          "title": "19.10 Prospettive evolutive",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "19.10.1",
+              "type": "definition",
+              "content": "La giurisprudenza costituzionale e CEDU continuano a evolversi, spingendo per standard sempre più elevati di tutela dei diritti dei detenuti e per un approccio più umano all'esecuzione penale."
+            },
+            {
+              "id": "19.10.2",
+              "type": "keypoint",
+              "title": "Tendenze emergenti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Rafforzamento della tutela della salute mentale in carcere"
+                },
+                {
+                  "content": "Maggiore attenzione alle condizioni di detenzione dei soggetti vulnerabili (minori, donne, malati)"
+                },
+                {
+                  "content": "Sviluppo del diritto a un'esistenza dignitosa durante la detenzione"
+                },
+                {
+                  "content": "Limitazione dei regimi di isolamento prolungato"
+                },
+                {
+                  "content": "Riconoscimento di diritti procedurali rafforzati per i detenuti"
+                }
+              ]
+            },
+            {
+              "id": "19.10.3",
+              "type": "keypoint",
+              "title": "Sfide future",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Adeguamento strutturale del patrimonio penitenziario agli standard CEDU"
+                },
+                {
+                  "content": "Bilanciamento tra sicurezza e diritti in epoca di terrorismo internazionale"
+                },
+                {
+                  "content": "Gestione delle nuove forme di criminalità organizzata transnazionale"
+                },
+                {
+                  "content": "Integrazione delle misure alternative nel sistema penitenziario"
+                },
+                {
+                  "content": "Sviluppo della giustizia riparativa e della mediazione penale"
+                }
+              ]
+            },
+            {
+              "id": "19.10.4",
+              "type": "notes",
+              "title": "Implicazioni per lo studio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "È fondamentale seguire l'evoluzione giurisprudenziale di entrambe le Corti per comprendere la disciplina penitenziaria"
+                },
+                {
+                  "content": "Le sentenze CEDU hanno spesso effetti dirompenti sul sistema nazionale, imponendo riforme strutturali"
+                },
+                {
+                  "content": "La giurisprudenza costituzionale definisce i confini entro i quali il legislatore può operare"
+                },
+                {
+                  "content": "L'interazione tra le due Corti rappresenta un laboratorio avanzato di tutela multilivello dei diritti"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "type": "section",
+      "title": "20. Conclusioni e prospettive future",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "20.0",
           "type": "definition",
           "content": "Il diritto penitenziario italiano è in continua evoluzione, alla ricerca di un equilibrio tra esigenze di sicurezza, funzione rieducativa della pena e tutela dei diritti fondamentali delle persone detenute."
         },
         {
-          "id": "15.1",
+          "id": "20.1",
           "type": "keypoint",
-          "content": "Le sfide principali riguardano il superamento del sovraffollamento carcerario, il potenziamento delle misure alternative, il miglioramento delle condizioni di vita negli istituti e lo sviluppo di percorsi di reinserimento sociale efficaci."
+          "content": "Le sfide principali riguardano il superamento del sovraffollamento carcerario, il potenziamento delle misure alternative, il miglioramento delle condizioni di vita negli istituti e lo sviluppo di percorsi di reinserimento sociali efficaci."
         },
         {
-          "id": "15.2",
+          "id": "20.2",
           "type": "keypoint",
           "content": "L'approccio moderno privilegia sempre più la prevenzione della recidiva attraverso il trattamento, l'istruzione, il lavoro e il sostegno psicologico, riconoscendo che una pena puramente afflittiva non produce benefici né per il condannato né per la società."
         },
         {
-          "id": "15.3",
+          "id": "20.3",
           "type": "keypoint",
           "content": "La giurisprudenza europea continua a spingere l'Italia verso standard sempre più elevati di tutela della dignità umana, stimolando riforme e miglioramenti nel sistema penitenziario."
         },
         {
-          "id": "15.4",
+          "id": "20.4",
           "type": "notes",
           "title": "Nota finale per lo studente",
           "collapsible": true,
