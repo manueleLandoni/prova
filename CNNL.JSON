@@ -1,0 +1,1836 @@
+{
+  "meta": {
+    "title": "CCNL Funzioni Centrali 2022-2024 - Parte 1: Disposizioni Generali e Rapporto di Lavoro",
+    "materia": "Diritto Amministrativo - Lavoro Pubblico",
+    "livello": "Base – comprensione iniziale",
+    "version": 1
+  },
+  "nodes": [
+    {
+      "id": "1",
+      "type": "section",
+      "title": "Parte Generale e Disposizioni Comuni",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "1.1",
+          "type": "definition",
+          "content": "Il CCNL Funzioni Centrali 2022-2024 è il contratto collettivo nazionale di lavoro che regola il rapporto di lavoro dei dipendenti delle amministrazioni centrali dello Stato. È stato sottoscritto il 26 novembre 2022 e ha validità fino al 31 dicembre 2024. Questo contratto stabilisce diritti, doveri, retribuzioni e condizioni di lavoro per migliaia di pubblici dipendenti."
+        },
+        {
+          "id": "1.2",
+          "type": "section",
+          "title": "Ambito di applicazione: chi riguarda",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "1.2.1",
+              "type": "keypoint",
+              "content": "Il CCNL si applica ai dipendenti delle amministrazioni centrali dello Stato, cioè i Ministeri e le loro articolazioni centrali e periferiche. Include anche gli enti pubblici non economici che dipendono dalle amministrazioni centrali."
+            },
+            {
+              "id": "1.2.2",
+              "type": "keypoint",
+              "content": "Sono esclusi dall'applicazione del CCNL alcuni soggetti specifici: i magistrati, i professori e ricercatori universitari, il personale militare e delle forze di polizia, i dirigenti (che hanno un contratto separato) e il personale con contratti di diritto privato."
+            }
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "section",
+          "title": "Durata ed efficacia del contratto",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "1.3.1",
+              "type": "definition",
+              "content": "Il contratto ha efficacia dal 26 novembre 2022 e scade il 31 dicembre 2024. Durante questo periodo le sue disposizioni vincolano sia le amministrazioni che i lavoratori. Alla scadenza, se non viene rinnovato, molte clausole restano comunque valide fino al nuovo accordo."
+            },
+            {
+              "id": "1.3.2",
+              "type": "keypoint",
+              "content": "Il CCNL opera sempre nel rispetto delle norme di legge imperative, in particolare del D.Lgs. 165/2001 che è il Testo Unico sul Pubblico Impiego. Quando c'è contrasto tra il contratto e la legge, prevale sempre la legge."
+            }
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "section",
+          "title": "Relazioni sindacali",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "1.4.1",
+              "type": "definition",
+              "content": "Le relazioni sindacali sono i rapporti tra l'amministrazione e le organizzazioni sindacali che rappresentano i lavoratori. Il CCNL garantisce diritti sindacali come la costituzione delle RSU (Rappresentanze Sindacali Unitarie), i permessi sindacali per i rappresentanti e il diritto di indire assemblee durante l'orario di lavoro."
+            },
+            {
+              "id": "1.4.2",
+              "type": "authority",
+              "title": "Obblighi informativi dell'amministrazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione ha l'obbligo di informare preventivamente le organizzazioni sindacali su determinate materie, come l'organizzazione degli uffici, i criteri per la distribuzione delle risorse economiche accessorie e le politiche del personale. Questo serve a garantire la partecipazione dei rappresentanti dei lavoratori alle scelte che li riguardano."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "type": "section",
+      "title": "Il Rapporto di Lavoro",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "2.1",
+          "type": "definition",
+          "content": "Il rapporto di lavoro nel pubblico impiego è regolato principalmente da norme di diritto privato, come per i lavoratori del settore privato, ma con alcune peculiarità previste dal D.Lgs. 165/2001. Il rapporto inizia con l'assunzione dopo concorso pubblico e si sviluppa attraverso una carriera strutturata."
+        },
+        {
+          "id": "2.2",
+          "type": "section",
+          "title": "Classificazione del personale: le Aree",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.2.1",
+              "type": "definition",
+              "content": "Il personale è classificato in Aree professionali che corrispondono a diversi livelli di responsabilità e competenza. Ogni Area raggruppa dipendenti con mansioni simili e con lo stesso inquadramento contrattuale."
+            },
+            {
+              "id": "2.2.2",
+              "type": "keypoint",
+              "content": "L'Area A comprende il personale che svolge attività ausiliarie e di supporto, con compiti operativi semplici e ripetitivi, come commessi, uscieri e operatori di base."
+            },
+            {
+              "id": "2.2.3",
+              "type": "keypoint",
+              "content": "L'Area B include gli assistenti amministrativi, che svolgono attività esecutive che richiedono conoscenze tecniche specifiche e autonomia operativa, come la gestione di pratiche amministrative di routine."
+            },
+            {
+              "id": "2.2.4",
+              "type": "keypoint",
+              "content": "L'Area C è quella dei funzionari, che hanno responsabilità gestionali, coordinano gruppi di lavoro e svolgono attività complesse che richiedono elevata competenza professionale e capacità decisionali in autonomia."
+            },
+            {
+              "id": "2.2.5",
+              "type": "keypoint",
+              "content": "Le Aree D, E e F (introdotte progressivamente) riguardano posizioni di elevata qualificazione professionale e specialistica, con funzioni di coordinamento, progettazione e consulenza ad alto livello tecnico."
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "section",
+          "title": "Passaggi di Area: come si cambia inquadramento",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.3.1",
+              "type": "definition",
+              "content": "Il passaggio di Area è il meccanismo che permette a un dipendente di essere inquadrato in un'Area superiore, acquisendo maggiori responsabilità e una retribuzione più alta. Non avviene automaticamente ma richiede procedure selettive."
+            },
+            {
+              "id": "2.3.2",
+              "type": "requirements",
+              "title": "Requisiti per il passaggio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per accedere al passaggio di Area occorre possedere il titolo di studio richiesto per l'Area superiore (ad esempio, per passare all'Area C serve la laurea) e aver maturato una certa anzianità di servizio nell'Area di provenienza."
+                },
+                {
+                  "content": "L'amministrazione deve bandire procedure selettive interne, generalmente attraverso concorsi riservati ai dipendenti, con prove che verificano le competenze necessarie per le mansioni dell'Area superiore."
+                }
+              ]
+            },
+            {
+              "id": "2.3.3",
+              "type": "procedure",
+              "title": "Come avviene il passaggio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione pubblica un bando interno con i posti disponibili, i requisiti richiesti e le modalità di selezione. I dipendenti interessati presentano domanda di partecipazione entro i termini stabiliti."
+                },
+                {
+                  "content": "Si svolge una procedura selettiva che può consistere in prove scritte, orali o valutazione dei titoli e dell'esperienza professionale. I vincitori vengono inquadrati nell'Area superiore con decorrenza stabilita dall'amministrazione."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "section",
+          "title": "Posizioni organizzative e funzionali",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.4.1",
+              "type": "definition",
+              "content": "All'interno di ciascuna Area, oltre all'inquadramento di base, esistono meccanismi per riconoscere e retribuire responsabilità aggiuntive o competenze particolari. Questi meccanismi si chiamano posizione economica e posizione funzionale."
+            },
+            {
+              "id": "2.4.2",
+              "type": "section",
+              "title": "Posizione economica",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "2.4.2.1",
+                  "type": "definition",
+                  "content": "La posizione economica è una progressione di stipendio all'interno della stessa Area che riconosce l'anzianità di servizio e la crescita professionale del dipendente. Non comporta cambio di mansioni ma solo un incremento retributivo."
+                },
+                {
+                  "id": "2.4.2.2",
+                  "type": "keypoint",
+                  "content": "Le progressioni economiche orizzontali sono aumenti retributivi che si ottengono attraverso procedure selettive basate sulla valutazione del merito, delle competenze acquisite e dei risultati ottenuti nel tempo."
+                }
+              ]
+            },
+            {
+              "id": "2.4.3",
+              "type": "section",
+              "title": "Posizione funzionale: incarichi di responsabilità",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "2.4.3.1",
+                  "type": "definition",
+                  "content": "La posizione funzionale riguarda invece l'attribuzione di incarichi che comportano responsabilità particolari, come il coordinamento di un ufficio, la gestione di progetti complessi o funzioni di alta specializzazione tecnica."
+                },
+                {
+                  "id": "2.4.3.2",
+                  "type": "keypoint",
+                  "content": "Questi incarichi vengono conferiti dall'amministrazione con atto formale, hanno durata temporanea (rinnovabile) e danno diritto a una retribuzione aggiuntiva chiamata indennità di posizione, che si aggiunge allo stipendio base."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "section",
+          "title": "Obblighi di servizio e orario di lavoro",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.5.1",
+              "type": "definition",
+              "content": "L'orario di lavoro ordinario è di 36 ore settimanali, distribuite normalmente su cinque o sei giorni lavorativi. L'amministrazione può articolare l'orario in modo flessibile, prevedendo fasce di presenza obbligatoria e fasce di flessibilità in entrata e uscita."
+            },
+            {
+              "id": "2.5.2",
+              "type": "keypoint",
+              "content": "Il dipendente è tenuto a rispettare l'orario di lavoro stabilito e a prestare servizio con diligenza, correttezza e secondo le direttive ricevute dai superiori gerarchici. L'inosservanza dell'orario può costituire illecito disciplinare."
+            },
+            {
+              "id": "2.5.3",
+              "type": "notes",
+              "title": "Lavoro straordinario",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il lavoro straordinario è il lavoro prestato oltre l'orario normale ed è ammesso solo per esigenze eccezionali e temporanee. Deve essere autorizzato preventivamente e dà diritto a un compenso aggiuntivo oppure, se il dipendente lo preferisce, a riposi compensativi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "section",
+          "title": "Mobilità: trasferimenti, comandi e distacchi",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.6.1",
+              "type": "definition",
+              "content": "La mobilità è il complesso di istituti che consentono lo spostamento del dipendente da una sede all'altra o da un'amministrazione all'altra, in modo temporaneo o definitivo. Serve a soddisfare esigenze organizzative o personali del lavoratore."
+            },
+            {
+              "id": "2.6.2",
+              "type": "section",
+              "title": "Trasferimento",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "2.6.2.1",
+                  "type": "definition",
+                  "content": "Il trasferimento è lo spostamento definitivo del dipendente da una sede di servizio a un'altra all'interno della stessa amministrazione. Può essere disposto per esigenze di servizio o richiesto dal dipendente per motivi personali o familiari."
+                },
+                {
+                  "id": "2.6.2.2",
+                  "type": "authority",
+                  "title": "Chi decide",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il trasferimento per esigenze di servizio è disposto dall'amministrazione con provvedimento motivato. Il dipendente ha diritto di essere sentito prima del trasferimento e può presentare osservazioni. In caso di trasferimento d'ufficio, l'amministrazione deve valutare le esigenze familiari del lavoratore."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2.6.3",
+              "type": "section",
+              "title": "Comando",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "2.6.3.1",
+                  "type": "definition",
+                  "content": "Il comando è l'assegnazione temporanea del dipendente presso un'altra amministrazione, mantenendo però il rapporto di lavoro con l'amministrazione di appartenenza. Durante il comando, il dipendente presta servizio presso l'amministrazione richiedente ma resta dipendente dell'amministrazione di provenienza."
+                },
+                {
+                  "id": "2.6.3.2",
+                  "type": "effects",
+                  "title": "Conseguenze del comando",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Durante il comando, lo stipendio continua a essere pagato dall'amministrazione di appartenenza, che poi richiede il rimborso all'amministrazione presso cui il dipendente presta servizio. Il comando ha durata prestabilita e può essere revocato o prorogato."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2.6.4",
+              "type": "section",
+              "title": "Distacco",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "2.6.4.1",
+                  "type": "definition",
+                  "content": "Il distacco è simile al comando ma di solito ha carattere più strutturale e duraturo. Il dipendente viene assegnato a svolgere la propria attività presso altra amministrazione o ente, ma il rapporto di lavoro resta con l'amministrazione originaria."
+                },
+                {
+                  "id": "2.6.4.2",
+                  "type": "keypoint",
+                  "content": "Il distacco si distingue dal comando perché risponde a esigenze di carattere organizzativo più stabili. Spesso avviene quando un'amministrazione necessita di specifiche competenze professionali presenti in un dipendente di altra amministrazione."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "section",
+          "title": "Sospensione dal servizio",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "2.7.1",
+              "type": "definition",
+              "content": "La sospensione dal servizio è l'interruzione temporanea della prestazione lavorativa che può avvenire per diversi motivi: come sanzione disciplinare, in caso di procedimento penale a carico del dipendente, o per altri motivi previsti dalla legge."
+            },
+            {
+              "id": "2.7.2",
+              "type": "keypoint",
+              "content": "Quando il dipendente è sospeso come misura cautelare in attesa di un procedimento disciplinare o penale, ha diritto a percepire un'indennità pari al 50% dello stipendio. Se poi viene assolto o prosciiolto, gli vengono restituiti gli emolumenti non corrisposti."
+            },
+            {
+              "id": "2.7.3",
+              "type": "keypoint",
+              "content": "La sospensione come sanzione disciplinare, invece, comporta la perdita totale della retribuzione per il periodo stabilito, che può andare da un minimo di alcuni giorni fino a un massimo previsto dal CCNL in base alla gravità dell'infrazione."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "section",
+      "title": "Lo Svolgimento della Carriera",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "3.1",
+          "type": "definition",
+          "content": "La carriera nel pubblico impiego si sviluppa attraverso meccanismi che premiano l'anzianità di servizio, il merito e lo sviluppo delle competenze professionali. Il CCNL prevede diversi strumenti per la progressione economica del dipendente nel corso del rapporto di lavoro."
+        },
+        {
+          "id": "3.2",
+          "type": "section",
+          "title": "Progressioni economiche orizzontali",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.2.1",
+              "type": "definition",
+              "content": "Le progressioni economiche orizzontali sono incrementi retributivi che il dipendente può ottenere rimanendo nella stessa Area di inquadramento, senza cioè cambiare le proprie mansioni. Rappresentano un riconoscimento della crescita professionale e dell'esperienza acquisita."
+            },
+            {
+              "id": "3.2.2",
+              "type": "requirements",
+              "title": "Quando si può accedere",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Per accedere alle progressioni economiche occorre aver maturato un periodo minimo di permanenza nella posizione economica di partenza, normalmente almeno tre anni di servizio effettivo nella stessa fascia retributiva."
+                },
+                {
+                  "content": "È necessario che l'amministrazione bandisca le procedure selettive, stanziando le risorse economiche necessarie. Non tutti i dipendenti possono quindi progredire contemporaneamente, ma solo coloro che risultano vincitori della selezione nei limiti dei posti disponibili."
+                }
+              ]
+            },
+            {
+              "id": "3.2.3",
+              "type": "procedure",
+              "title": "Come funziona la selezione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione pubblica un avviso interno indicando il numero di progressioni disponibili per ciascuna Area, i requisiti di partecipazione e i criteri di valutazione che verranno utilizzati."
+                },
+                {
+                  "content": "La selezione si basa sulla valutazione di più elementi: l'esperienza professionale maturata, i risultati conseguiti nelle attività svolte, la qualità delle prestazioni lavorative, eventuali titoli di studio o professionali aggiuntivi, e la partecipazione ad attività formative."
+                },
+                {
+                  "content": "Viene predisposta una graduatoria di merito e i dipendenti che si collocano nelle prime posizioni, fino a concorrenza dei posti disponibili, ottengono la progressione economica con decorrenza stabilita dall'amministrazione."
+                }
+              ]
+            },
+            {
+              "id": "3.2.4",
+              "type": "effects",
+              "title": "Cosa comporta la progressione",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La progressione economica orizzontale determina un incremento permanente della retribuzione mensile del dipendente. L'importo dell'aumento varia in base all'Area di appartenenza ed è stabilito dalle tabelle retributive del CCNL."
+                },
+                {
+                  "content": "La nuova posizione economica acquisita è stabile e irreversibile: il dipendente mantiene il livello retributivo raggiunto anche in caso di successivi trasferimenti o cambiamenti di mansioni, purché rimanga nella stessa Area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "section",
+          "title": "Sviluppo della professionalità",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.3.1",
+              "type": "definition",
+              "content": "Lo sviluppo della professionalità è un principio fondamentale che impone all'amministrazione di favorire la crescita delle competenze dei dipendenti attraverso formazione continua, aggiornamento professionale e opportunità di acquisire nuove conoscenze."
+            },
+            {
+              "id": "3.3.2",
+              "type": "keypoint",
+              "content": "L'amministrazione deve predisporre piani formativi annuali o pluriennali, individuando i fabbisogni formativi e organizzando corsi, seminari e altre iniziative di aggiornamento. La partecipazione alla formazione è un diritto del dipendente ma anche un dovere quando è obbligatoria."
+            },
+            {
+              "id": "3.3.3",
+              "type": "notes",
+              "title": "Formazione e carriera",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La partecipazione alle attività formative costituisce elemento di valutazione nelle procedure di progressione economica e nei passaggi di Area. Il dipendente che si aggiorna costantemente ha maggiori possibilità di avanzamento professionale."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "section",
+          "title": "Contrattazione integrativa e valorizzazione del merito",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "3.4.1",
+              "type": "definition",
+              "content": "La contrattazione integrativa è il processo negoziale che si svolge a livello di ciascuna amministrazione tra i dirigenti e i rappresentanti sindacali per regolare aspetti specifici del rapporto di lavoro non definiti compiutamente dal CCNL nazionale."
+            },
+            {
+              "id": "3.4.2",
+              "type": "section",
+              "title": "Fondo per la retribuzione di risultato",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "3.4.2.1",
+                  "type": "definition",
+                  "content": "Il fondo per la retribuzione di risultato è una somma di denaro che ogni amministrazione ha a disposizione per premiare i dipendenti che raggiungono gli obiettivi assegnati e si distinguono per qualità della prestazione lavorativa. È alimentato da risorse stabili e da eventuali risorse aggiuntive."
+                },
+                {
+                  "id": "3.4.2.2",
+                  "type": "authority",
+                  "title": "Chi decide la distribuzione",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "La distribuzione del fondo viene stabilita attraverso la contrattazione integrativa tra l'amministrazione e le organizzazioni sindacali. Vengono definiti i criteri generali di ripartizione tra le diverse componenti del personale e le modalità di valutazione individuale."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3.4.3",
+              "type": "section",
+              "title": "Criteri di valutazione e parametri",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "3.4.3.1",
+                  "type": "definition",
+                  "content": "I criteri di valutazione sono gli standard utilizzati per misurare la performance individuale del dipendente e determinare l'importo della retribuzione accessoria spettante. Devono essere oggettivi, trasparenti e comunicati preventivamente ai lavoratori."
+                },
+                {
+                  "id": "3.4.3.2",
+                  "type": "keypoint",
+                  "content": "I parametri principali di valutazione riguardano il raggiungimento degli obiettivi assegnati, la qualità del lavoro svolto, il rispetto dei tempi, le competenze dimostrate, il contributo al risultato complessivo dell'ufficio o dell'amministrazione."
+                },
+                {
+                  "id": "3.4.3.3",
+                  "type": "procedure",
+                  "title": "Come avviene la valutazione",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "All'inizio dell'anno o del periodo di riferimento, al dipendente vengono assegnati obiettivi specifici e misurabili. Durante l'anno, il responsabile monitora l'andamento del lavoro e può fornire indicazioni correttive."
+                    },
+                    {
+                      "content": "Al termine del periodo, il responsabile gerarchico valuta il raggiungimento degli obiettivi e compila una scheda di valutazione. Il dipendente ha diritto di conoscere la valutazione e può presentare osservazioni o ricorso se ritiene di essere stato valutato ingiustamente."
+                    },
+                    {
+                      "content": "In base alle valutazioni, il fondo viene distribuito assegnando importi maggiori ai dipendenti con valutazioni più alte e importi ridotti o nulli a chi non ha raggiunto i risultati attesi. La differenziazione è obbligatoria per legge."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "type": "section",
+      "title": "Retribuzione e Struttura Salariale",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "4.1",
+          "type": "definition",
+          "content": "La retribuzione è il compenso che il dipendente pubblico riceve in cambio della propria prestazione lavorativa. Non è costituita da un'unica voce ma è composta da più elementi, alcuni fissi e stabili, altri variabili e legati alla prestazione o a particolari condizioni di lavoro."
+        },
+        {
+          "id": "4.2",
+          "type": "section",
+          "title": "Composizione della retribuzione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.2.1",
+              "type": "keypoint",
+              "content": "La retribuzione si compone di una parte fondamentale chiamata stipendio tabellare, che è l'importo base stabilito dal CCNL per ciascuna Area e posizione economica. Questo importo è fisso e viene corrisposto mensilmente a tutti i dipendenti della stessa categoria."
+            },
+            {
+              "id": "4.2.2",
+              "type": "keypoint",
+              "content": "Alla retribuzione base si aggiunge l'indennità di vacanza contrattuale, che è un importo riconosciuto nei periodi in cui il contratto è scaduto e non ancora rinnovato, per compensare parzialmente la perdita di potere d'acquisto dovuta all'inflazione."
+            },
+            {
+              "id": "4.2.3",
+              "type": "keypoint",
+              "content": "La tredicesima mensilità è una mensilità aggiuntiva che viene corrisposta nel mese di dicembre, calcolata sull'importo dello stipendio base. Rappresenta un elemento fisso della retribuzione annua."
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "section",
+          "title": "Retribuzione di posizione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.3.1",
+              "type": "definition",
+              "content": "La retribuzione di posizione è un compenso aggiuntivo che viene riconosciuto ai dipendenti che ricoprono incarichi di particolare responsabilità o complessità. Serve a remunerare le funzioni di coordinamento, direzione o alta specializzazione."
+            },
+            {
+              "id": "4.3.2",
+              "type": "keypoint",
+              "content": "L'importo della retribuzione di posizione varia in base al livello di responsabilità dell'incarico conferito. Gli incarichi vengono classificati in diverse fasce, ciascuna con un range retributivo stabilito dalla contrattazione integrativa."
+            },
+            {
+              "id": "4.3.3",
+              "type": "effects",
+              "title": "Durata e revoca",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La retribuzione di posizione viene corrisposta per tutta la durata dell'incarico. Se l'incarico viene revocato o non rinnovato alla scadenza, il dipendente perde il diritto a percepire questa componente retributiva e torna a ricevere solo lo stipendio base."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "section",
+          "title": "Retribuzione di risultato",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.4.1",
+              "type": "definition",
+              "content": "La retribuzione di risultato è la parte variabile dello stipendio che viene riconosciuta in base al raggiungimento degli obiettivi assegnati e alla qualità della prestazione individuale. È strettamente legata alla valutazione della performance."
+            },
+            {
+              "id": "4.4.2",
+              "type": "keypoint",
+              "content": "Questa componente non è uguale per tutti ma viene differenziata in base ai risultati conseguiti da ciascun dipendente. Chi ottiene valutazioni migliori riceve importi più elevati, mentre chi non raggiunge gli obiettivi può ricevere importi ridotti o nulli."
+            },
+            {
+              "id": "4.4.3",
+              "type": "notes",
+              "title": "Periodicità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La retribuzione di risultato viene normalmente erogata con cadenza annuale, dopo che si è concluso il processo di valutazione della performance. In alcune amministrazioni può essere prevista anche un'erogazione parziale infrannuale come anticipo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "section",
+          "title": "Trattamento accessorio e indennità specifiche",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "4.5.1",
+              "type": "definition",
+              "content": "Il trattamento accessorio comprende tutte le voci retributive che si aggiungono allo stipendio base e che hanno carattere particolare, legate cioè a specifiche condizioni di lavoro, situazioni personali o modalità di svolgimento della prestazione."
+            },
+            {
+              "id": "4.5.2",
+              "type": "section",
+              "title": "Indennità per lavoro a turni",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "4.5.2.1",
+                  "type": "definition",
+                  "content": "L'indennità di turno è un compenso aggiuntivo riconosciuto ai dipendenti che prestano servizio con orari articolati su turni, compresi quelli notturni, festivi o nei giorni di riposo settimanale. Compensa il disagio derivante da orari non standard."
+                },
+                {
+                  "id": "4.5.2.2",
+                  "type": "keypoint",
+                  "content": "L'importo dell'indennità varia in base al tipo di turno: è più elevata per i turni notturni e festivi rispetto ai turni diurni. Viene calcolata per ogni giorno o frazione di giorno in cui si presta effettivamente servizio secondo tali modalità."
+                }
+              ]
+            },
+            {
+              "id": "4.5.3",
+              "type": "section",
+              "title": "Indennità di reperibilità",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "4.5.3.1",
+                  "type": "definition",
+                  "content": "L'indennità di reperibilità spetta al dipendente che, fuori dall'orario di lavoro, deve rimanere disponibile per essere immediatamente contattato dall'amministrazione e raggiungere il posto di lavoro in tempi rapidi in caso di necessità."
+                },
+                {
+                  "id": "4.5.3.2",
+                  "type": "requirements",
+                  "title": "Quando si applica",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "La reperibilità deve essere disposta con atto formale dell'amministrazione che individua i dipendenti interessati e i periodi in cui devono essere reperibili. Non è una scelta volontaria del lavoratore ma un obbligo di servizio."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4.5.4",
+              "type": "section",
+              "title": "Rimborsi e indennità di missione",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "4.5.4.1",
+                  "type": "definition",
+                  "content": "L'indennità di missione è il rimborso spese che spetta al dipendente inviato in trasferta per motivi di servizio fuori dalla sede abituale di lavoro. Copre le spese di viaggio, vitto e alloggio sostenute durante la missione."
+                },
+                {
+                  "id": "4.5.4.2",
+                  "type": "procedure",
+                  "title": "Come funziona il rimborso",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Prima della partenza, il dipendente deve ottenere l'autorizzazione formale alla missione. Durante la trasferta, conserva i documenti giustificativi delle spese (biglietti, ricevute di hotel e ristoranti)."
+                    },
+                    {
+                      "content": "Al rientro, presenta una richiesta di rimborso allegando tutta la documentazione delle spese sostenute. L'amministrazione verifica la regolarità e liquida il rimborso entro i termini stabiliti, secondo le tariffe e i massimali previsti dal CCNL."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "section",
+      "title": "Congedi, Permessi e Ferie",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "5.1",
+          "type": "definition",
+          "content": "I congedi e i permessi sono periodi di assenza dal servizio durante i quali il dipendente ha diritto di non prestare attività lavorativa, mantenendo in alcuni casi la retribuzione e in altri sospendendola. Rappresentano un diritto fondamentale del lavoratore e rispondono a diverse esigenze personali, familiari o di salute."
+        },
+        {
+          "id": "5.2",
+          "type": "section",
+          "title": "Ferie: il congedo ordinario",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.2.1",
+              "type": "definition",
+              "content": "Le ferie sono il periodo di riposo annuale retribuito al quale ogni dipendente ha diritto per legge. Servono a recuperare le energie psicofisiche e a tutelare il benessere del lavoratore. Non possono essere monetizzate se non in caso di cessazione del rapporto di lavoro."
+            },
+            {
+              "id": "5.2.2",
+              "type": "keypoint",
+              "content": "Il dipendente ha diritto a 32 giorni lavorativi di ferie all'anno (circa quattro settimane e mezza), che maturano proporzionalmente nel corso dell'anno di servizio. Le ferie non godute entro un certo termine possono essere perse, salvo motivate esigenze di servizio."
+            },
+            {
+              "id": "5.2.3",
+              "type": "procedure",
+              "title": "Come si richiedono",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il dipendente presenta richiesta scritta di ferie al proprio responsabile, indicando i giorni in cui intende assentarsi. La richiesta dovrebbe essere presentata con congruo anticipo per permettere all'amministrazione di organizzare il servizio."
+                },
+                {
+                  "content": "Il responsabile valuta la richiesta tenendo conto delle esigenze organizzative dell'ufficio. Può autorizzare le ferie nel periodo richiesto oppure proporre un periodo diverso se ci sono incompatibilità con le esigenze di servizio o con altre assenze già programmate."
+                },
+                {
+                  "content": "L'amministrazione deve comunque garantire che ogni dipendente possa fruire di almeno due settimane continuative di ferie nel corso dell'anno, preferibilmente nel periodo estivo, per assicurare un effettivo periodo di riposo."
+                }
+              ]
+            },
+            {
+              "id": "5.2.4",
+              "type": "exceptions",
+              "title": "Interruzione delle ferie",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le ferie possono essere interrotte solo per eccezionali e comprovate esigenze di servizio. In tal caso, il dipendente deve rientrare in servizio e i giorni di ferie non goduti vengono riaccreditati per essere fruiti successivamente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "section",
+          "title": "Congedo per malattia",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.3.1",
+              "type": "definition",
+              "content": "Il congedo per malattia è l'assenza dal servizio dovuta a uno stato di malattia che impedisce temporaneamente al dipendente di svolgere la propria attività lavorativa. Durante la malattia, il lavoratore ha diritto alla conservazione del posto e al trattamento economico."
+            },
+            {
+              "id": "5.3.2",
+              "type": "requirements",
+              "title": "Obblighi del dipendente malato",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il dipendente deve comunicare tempestivamente l'assenza all'amministrazione, di norma entro l'inizio dell'orario di lavoro del giorno in cui si assenta. La comunicazione deve avvenire anche telefonicamente, ma deve essere seguita dall'invio del certificato medico."
+                },
+                {
+                  "content": "Il certificato medico deve essere rilasciato da un medico del Servizio Sanitario Nazionale e trasmesso per via telematica all'INPS, che lo rende disponibile all'amministrazione. Il dipendente deve comunque comunicare all'ufficio il numero di protocollo del certificato."
+                },
+                {
+                  "content": "Durante la malattia, il dipendente deve rimanere reperibile presso l'indirizzo comunicato nelle fasce orarie stabilite per legge (generalmente dalle 10 alle 12 e dalle 17 alle 19), per eventuali controlli medici da parte dell'amministrazione."
+                }
+              ]
+            },
+            {
+              "id": "5.3.3",
+              "type": "effects",
+              "title": "Trattamento economico durante la malattia",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nei primi nove mesi di malattia nell'arco di un anno solare, il dipendente ha diritto all'intera retribuzione, comprese tutte le voci fisse dello stipendio. Questo periodo è chiamato periodo di comporto."
+                },
+                {
+                  "content": "Nei successivi tre mesi di malattia, il dipendente riceve il 90% della retribuzione. Dopo il dodicesimo mese, se la malattia persiste, il dipendente riceve solo il 50% della retribuzione fino a un massimo di ulteriori sei mesi."
+                },
+                {
+                  "content": "Superato il periodo massimo di conservazione del posto (diciotto mesi complessivi), l'amministrazione può risolvere il rapporto di lavoro, salvo che si tratti di malattia dovuta a causa di servizio o di patologie gravi che richiedono terapie salvavita."
+                }
+              ]
+            },
+            {
+              "id": "5.3.4",
+              "type": "authority",
+              "title": "Controlli medici",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione può disporre visite mediche di controllo, anche fiscali, per verificare l'effettivo stato di malattia del dipendente. Se il dipendente risulta assente ingiustificato alla visita o se la visita accerta l'assenza di malattia, può scattare un procedimento disciplinare."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "section",
+          "title": "Congedo per infortunio sul lavoro",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.4.1",
+              "type": "definition",
+              "content": "L'infortunio sul lavoro è un evento traumatico occorso al dipendente durante lo svolgimento delle mansioni lavorative o nel tragitto casa-lavoro (infortunio in itinere). Dà diritto a un trattamento più favorevole rispetto alla malattia comune."
+            },
+            {
+              "id": "5.4.2",
+              "type": "keypoint",
+              "content": "Durante l'assenza per infortunio sul lavoro, il dipendente ha diritto all'intera retribuzione senza limiti temporali fino alla guarigione clinica o alla stabilizzazione delle condizioni. L'infortunio non viene conteggiato nel periodo di comporto per malattia."
+            },
+            {
+              "id": "5.4.3",
+              "type": "procedure",
+              "title": "Denuncia dell'infortunio",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il dipendente deve denunciare immediatamente l'infortunio all'amministrazione e recarsi al pronto soccorso o dal medico per ottenere il certificato medico che attesti l'evento e la prognosi."
+                },
+                {
+                  "content": "L'amministrazione, ricevuta la denuncia, ha l'obbligo di trasmetterla entro 48 ore all'INAIL (Istituto Nazionale Assicurazione Infortuni sul Lavoro), che gestisce l'indennizzo economico per gli eventi più gravi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "section",
+          "title": "Congedo di maternità e paternità",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.5.1",
+              "type": "definition",
+              "content": "Il congedo di maternità è il periodo di astensione obbligatoria dal lavoro riconosciuto alla lavoratrice in gravidanza per tutelare la salute della madre e del bambino. È vietato lavorare nei due mesi precedenti la data presunta del parto e nei tre mesi successivi al parto."
+            },
+            {
+              "id": "5.5.2",
+              "type": "keypoint",
+              "content": "Durante il congedo di maternità, la lavoratrice ha diritto all'intera retribuzione. Il periodo di assenza è coperto da contribuzione figurativa ai fini pensionistici ed è considerato come servizio effettivamente prestato."
+            },
+            {
+              "id": "5.5.3",
+              "type": "keypoint",
+              "content": "Il congedo di paternità obbligatorio spetta al padre lavoratore per dieci giorni, da fruire entro i cinque mesi dalla nascita del figlio. Anche in questo caso viene corrisposta l'intera retribuzione."
+            },
+            {
+              "id": "5.5.4",
+              "type": "notes",
+              "title": "Flessibilità del congedo",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "In presenza di determinate condizioni di salute certificate dal medico, la lavoratrice può optare per la flessibilità del congedo, astenendosi dal lavoro un mese prima del parto e quattro mesi dopo, anziché due prima e tre dopo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "section",
+          "title": "Congedo parentale",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.6.1",
+              "type": "definition",
+              "content": "Il congedo parentale è un periodo di astensione facoltativa dal lavoro che entrambi i genitori possono richiedere per prendersi cura del bambino nei primi anni di vita. È un diritto individuale di ciascun genitore, utilizzabile in modo frazionato."
+            },
+            {
+              "id": "5.6.2",
+              "type": "requirements",
+              "title": "Durata e limiti",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Ciascun genitore può usufruire di un congedo parentale fino a un massimo di sei mesi entro i primi dodici anni di vita del bambino. Il limite complessivo per entrambi i genitori è di dieci mesi, che diventano undici se il padre utilizza almeno tre mesi."
+                },
+                {
+                  "content": "Il congedo può essere richiesto in modo continuativo o frazionato, anche per singoli giorni o ore. È necessario preavvertire l'amministrazione con almeno cinque giorni di anticipo, tranne in casi di particolare urgenza."
+                }
+              ]
+            },
+            {
+              "id": "5.6.3",
+              "type": "effects",
+              "title": "Trattamento economico",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Nei primi nove mesi complessivi di congedo parentale, utilizzati entro i sei anni di vita del bambino, viene corrisposta un'indennità pari al 30% della retribuzione. Oltre questi limiti, il congedo è non retribuito salvo casi di particolare disagio economico del nucleo familiare."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "section",
+          "title": "Permessi retribuiti",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.7.1",
+              "type": "definition",
+              "content": "I permessi retribuiti sono brevi assenze dal servizio, generalmente di durata limitata a poche ore o giorni, durante le quali il dipendente mantiene il diritto alla retribuzione. Sono previsti per diverse finalità personali, familiari o sociali."
+            },
+            {
+              "id": "5.7.2",
+              "type": "section",
+              "title": "Permessi per motivi personali o familiari",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.7.2.1",
+                  "type": "keypoint",
+                  "content": "Il dipendente ha diritto a tre giorni di permesso retribuito all'anno per motivi personali o familiari documentati, come matrimonio proprio, nascita di figli, gravi motivi familiari o partecipazione a cerimonie pubbliche."
+                },
+                {
+                  "id": "5.7.2.2",
+                  "type": "keypoint",
+                  "content": "In caso di decesso o grave infermità del coniuge, di un parente entro il secondo grado o di un convivente, il dipendente ha diritto a tre giorni di permesso retribuito, che possono essere utilizzati anche in modo frazionato."
+                }
+              ]
+            },
+            {
+              "id": "5.7.3",
+              "type": "section",
+              "title": "Permessi per assistenza a familiari disabili (Legge 104/1992)",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.7.3.1",
+                  "type": "definition",
+                  "content": "La Legge 104/1992 riconosce al dipendente che assiste un familiare con disabilità grave il diritto a tre giorni di permesso mensile retribuito. Questi permessi servono per garantire l'assistenza e la cura necessarie alla persona disabile."
+                },
+                {
+                  "id": "5.7.3.2",
+                  "type": "requirements",
+                  "title": "Requisiti per accedere",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Per ottenere i permessi, il familiare disabile deve essere in possesso della certificazione di handicap grave rilasciata dalla commissione medica ASL. Il dipendente deve essere referente unico per l'assistenza o, se vi sono più referenti, deve esserci una turnazione documentata."
+                    }
+                  ]
+                },
+                {
+                  "id": "5.7.3.3",
+                  "type": "procedure",
+                  "title": "Come si richiedono",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il dipendente presenta domanda all'amministrazione allegando la certificazione sanitaria e dichiarando il rapporto di parentela con la persona disabile. I permessi possono essere fruiti anche in modo frazionato, a ore, secondo le esigenze di assistenza."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5.7.4",
+              "type": "section",
+              "title": "Permessi per diritto allo studio",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.7.4.1",
+                  "type": "definition",
+                  "content": "I permessi per diritto allo studio sono assenze retribuite che il dipendente può richiedere per frequentare corsi di studio, corsi di formazione o per sostenere esami, al fine di conseguire titoli di studio o qualifiche professionali."
+                },
+                {
+                  "id": "5.7.4.2",
+                  "type": "keypoint",
+                  "content": "Il dipendente ha diritto fino a 150 ore annue di permesso retribuito per la frequenza di corsi finalizzati al conseguimento di titoli di studio o per partecipare ad attività formative. Le ore possono essere utilizzate anche in modo frazionato."
+                },
+                {
+                  "id": "5.7.4.3",
+                  "type": "requirements",
+                  "title": "Condizioni di concessione",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "L'amministrazione valuta le richieste tenendo conto delle esigenze di servizio e può autorizzare i permessi solo per un numero limitato di dipendenti contemporaneamente. È necessario presentare la documentazione dell'istituzione formativa che attesti l'iscrizione e la frequenza."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5.7.5",
+              "type": "section",
+              "title": "Permessi per donazione sangue",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "5.7.5.1",
+                  "type": "keypoint",
+                  "content": "Il dipendente che effettua una donazione di sangue ha diritto a una giornata di riposo retribuito, da fruire il giorno della donazione. Deve presentare all'amministrazione il certificato rilasciato dal centro trasfusionale."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.8",
+          "type": "section",
+          "title": "Permessi non retribuiti",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "5.8.1",
+              "type": "definition",
+              "content": "I permessi non retribuiti sono assenze dal servizio durante le quali il dipendente non ha diritto allo stipendio. Possono essere concessi dall'amministrazione per gravi e documentati motivi personali o familiari, compatibilmente con le esigenze organizzative."
+            },
+            {
+              "id": "5.8.2",
+              "type": "keypoint",
+              "content": "Durante i permessi non retribuiti, il rapporto di lavoro rimane sospeso ma non si interrompe: il dipendente conserva il posto ma non matura anzianità di servizio ai fini giuridici ed economici, né ha diritto alla retribuzione e ai contributi pensionistici."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "type": "section",
+      "title": "Diritti, Doveri e Regime Disciplinare",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "6.1",
+          "type": "definition",
+          "content": "Il rapporto di lavoro pubblico comporta non solo diritti ma anche doveri e responsabilità precise per il dipendente. Il mancato rispetto di questi doveri può dare luogo a responsabilità disciplinare, con l'applicazione di sanzioni che vanno dal rimprovero verbale fino al licenziamento."
+        },
+        {
+          "id": "6.2",
+          "type": "section",
+          "title": "Responsabilità e obblighi del dipendente",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "6.2.1",
+              "type": "definition",
+              "content": "Il dipendente pubblico è tenuto a svolgere le proprie mansioni con diligenza, professionalità e nel rispetto delle norme di legge, del CCNL e delle disposizioni impartite dai superiori gerarchici. Deve comportarsi in modo da mantenere il decoro e il prestigio dell'amministrazione."
+            },
+            {
+              "id": "6.2.2",
+              "type": "section",
+              "title": "Dovere di diligenza",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.2.2.1",
+                  "type": "keypoint",
+                  "content": "Il dovere di diligenza impone al dipendente di svolgere le proprie attività con cura, attenzione e competenza, impiegando tutte le energie necessarie per raggiungere gli obiettivi assegnati. Non è sufficiente una prestazione approssimativa o superficiale."
+                },
+                {
+                  "id": "6.2.2.2",
+                  "type": "keypoint",
+                  "content": "Il dipendente deve aggiornarsi costantemente, partecipare alle attività formative disposte dall'amministrazione e utilizzare con cura i beni e le risorse dell'ufficio, evitando sprechi o usi impropri."
+                }
+              ]
+            },
+            {
+              "id": "6.2.3",
+              "type": "section",
+              "title": "Dovere di obbedienza",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.2.3.1",
+                  "type": "definition",
+                  "content": "Il dovere di obbedienza comporta l'obbligo di eseguire le disposizioni impartite dai superiori gerarchici inerenti all'esercizio delle funzioni. Il dipendente deve conformarsi alle direttive ricevute, purché siano legittime e attinenti al rapporto di lavoro."
+                },
+                {
+                  "id": "6.2.3.2",
+                  "type": "exceptions",
+                  "title": "Limiti all'obbligo di obbedienza",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il dipendente ha il diritto-dovere di non eseguire un ordine che sia manifestamente illegittimo o che costituisca reato. In tal caso, deve rappresentare per iscritto al superiore le proprie perplessità. Se il superiore rinnova l'ordine per iscritto, il dipendente deve comunque astenersi dall'eseguirlo se comporta la commissione di un illecito."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.4",
+              "type": "section",
+              "title": "Dovere di fedeltà e riservatezza",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.2.4.1",
+                  "type": "keypoint",
+                  "content": "Il dipendente deve operare con imparzialità e servire esclusivamente l'interesse pubblico, evitando situazioni di conflitto di interessi tra le funzioni pubbliche e interessi privati propri o di persone a lui legate."
+                },
+                {
+                  "id": "6.2.4.2",
+                  "type": "keypoint",
+                  "content": "È tenuto al segreto d'ufficio su tutti gli atti e le informazioni di cui viene a conoscenza per ragioni di servizio. Non può divulgare notizie riservate né utilizzarle per scopi personali o a vantaggio di terzi."
+                }
+              ]
+            },
+            {
+              "id": "6.2.5",
+              "type": "section",
+              "title": "Incompatibilità e incarichi esterni",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.2.5.1",
+                  "type": "definition",
+                  "content": "Il dipendente pubblico non può svolgere incarichi retribuiti esterni senza preventiva autorizzazione dell'amministrazione. Questo divieto serve a garantire che il dipendente dedichi le proprie energie al servizio pubblico e a evitare conflitti di interesse."
+                },
+                {
+                  "id": "6.2.5.2",
+                  "type": "keypoint",
+                  "content": "L'autorizzazione viene concessa solo se l'incarico esterno non interferisce con i doveri d'ufficio, non è incompatibile con le funzioni svolte e non danneggia l'immagine dell'amministrazione. Alcuni incarichi, come quelli di insegnamento o scientifici, sono più facilmente autorizzabili."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "section",
+          "title": "Procedimento disciplinare",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "6.3.1",
+              "type": "definition",
+              "content": "Il procedimento disciplinare è l'insieme delle fasi attraverso cui l'amministrazione accerta se il dipendente ha commesso un'infrazione ai doveri d'ufficio e, in caso affermativo, applica la sanzione prevista. È regolato da precise garanzie per tutelare il diritto di difesa del lavoratore."
+            },
+            {
+              "id": "6.3.2",
+              "type": "section",
+              "title": "Violazioni e sanzioni disciplinari",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.3.2.1",
+                  "type": "definition",
+                  "content": "Le sanzioni disciplinari sono graduate in base alla gravità della violazione commessa. Il CCNL prevede una scala di sanzioni che vanno dalle più lievi, per infrazioni minori, alle più gravi, che possono portare al licenziamento."
+                },
+                {
+                  "id": "6.3.2.2",
+                  "type": "keypoint",
+                  "content": "Il rimprovero verbale è la sanzione più lieve e viene applicato per mancanze di scarsa rilevanza, come ritardi sporadici o lievi inosservanze dei doveri d'ufficio. Non lascia traccia nel fascicolo personale se non viene reiterato."
+                },
+                {
+                  "id": "6.3.2.3",
+                  "type": "keypoint",
+                  "content": "Il rimprovero scritto (o censura) è una sanzione più seria che viene annotata nel fascicolo personale. Si applica per infrazioni di media gravità, come assenze ingiustificate occasionali o violazioni non gravi delle procedure."
+                },
+                {
+                  "id": "6.3.2.4",
+                  "type": "keypoint",
+                  "content": "La multa consiste nella trattenuta di una somma dalla retribuzione mensile, fino a un massimo di quattro ore di stipendio. Si applica per violazioni più serie come negligenza nell'adempimento dei doveri o inosservanza reiterata di disposizioni di servizio."
+                },
+                {
+                  "id": "6.3.2.5",
+                  "type": "keypoint",
+                  "content": "La sospensione dal servizio con privazione della retribuzione può durare da un minimo di un giorno fino a un massimo di dieci giorni. È prevista per infrazioni gravi come assenze ingiustificate prolungate, insubordinazione o grave negligenza."
+                },
+                {
+                  "id": "6.3.2.6",
+                  "type": "keypoint",
+                  "content": "Il licenziamento disciplinare è la sanzione più grave e comporta la risoluzione del rapporto di lavoro. Si applica per le infrazioni più serie come falsificazione di documenti, furto, comportamenti violenti, gravi molestie o reati commessi nell'esercizio delle funzioni."
+                }
+              ]
+            },
+            {
+              "id": "6.3.3",
+              "type": "section",
+              "title": "Fasi del procedimento",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.3.3.1",
+                  "type": "definition",
+                  "content": "Il procedimento disciplinare si articola in fasi successive che garantiscono il diritto di difesa del dipendente e assicurano una valutazione imparziale dei fatti contestati."
+                },
+                {
+                  "id": "6.3.3.2",
+                  "type": "procedure",
+                  "title": "Contestazione dell'addebito",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il procedimento inizia con la contestazione scritta degli addebiti al dipendente. L'atto di contestazione deve indicare in modo preciso e dettagliato i fatti che si ritengono costituire violazioni disciplinari, con indicazione delle norme violate."
+                    },
+                    {
+                      "content": "La contestazione deve essere notificata al dipendente con modalità che ne garantiscano la ricezione, come la consegna a mano contro ricevuta o l'invio tramite raccomandata. Dalla data di ricezione decorrono i termini per la difesa."
+                    }
+                  ]
+                },
+                {
+                  "id": "6.3.3.3",
+                  "type": "procedure",
+                  "title": "Difesa del dipendente",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il dipendente ha diritto di presentare le proprie giustificazioni scritte entro quindici giorni dalla ricezione della contestazione. Può anche richiedere di essere ascoltato di persona e farsi assistere da un rappresentante sindacale o da un legale di fiducia."
+                    },
+                    {
+                      "content": "Nelle sue difese, il dipendente può contestare la ricostruzione dei fatti operata dall'amministrazione, fornire elementi di prova a proprio favore, indicare testimoni da sentire o circostanze attenuanti da valutare."
+                    }
+                  ]
+                },
+                {
+                  "id": "6.3.3.4",
+                  "type": "procedure",
+                  "title": "Decisione finale",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Decorso il termine per le difese, l'amministrazione valuta tutti gli elementi acquisiti e adotta la decisione finale entro i termini previsti dal CCNL. La decisione deve essere motivata, indicando le ragioni per cui si è ritenuto sussistente l'infrazione."
+                    },
+                    {
+                      "content": "Se viene applicata una sanzione, il provvedimento deve specificare quale sanzione si applica e le motivazioni che l'hanno determinata. Il dipendente può impugnare la sanzione attraverso il ricorso gerarchico, il ricorso all'autorità giudiziaria o la procedura arbitrale se prevista."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.3.4",
+              "type": "section",
+              "title": "Garanzie difensive",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "6.3.4.1",
+                  "type": "keypoint",
+                  "content": "Durante tutto il procedimento disciplinare, il dipendente gode di piene garanzie difensive. Ha diritto di accedere agli atti del procedimento, di prendere visione dei documenti e di estrarne copia per preparare adeguatamente la propria difesa."
+                },
+                {
+                  "id": "6.3.4.2",
+                  "type": "keypoint",
+                  "content": "Nessuna sanzione può essere applicata senza che sia stato rispettato il contraddittorio con il dipendente. L'omissione della contestazione degli addebiti o la violazione del diritto di difesa rendono illegittima la sanzione, che può essere annullata."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "type": "section",
+      "title": "Tutela della Salute e Sicurezza sul Lavoro",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "7.1",
+          "type": "definition",
+          "content": "La tutela della salute e della sicurezza sul lavoro è un diritto fondamentale del lavoratore e un obbligo dell'amministrazione. Le norme in materia si applicano anche al pubblico impiego e mirano a prevenire infortuni e malattie professionali, garantendo ambienti di lavoro sicuri e salubri."
+        },
+        {
+          "id": "7.2",
+          "type": "section",
+          "title": "Obblighi dell'amministrazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.2.1",
+              "type": "definition",
+              "content": "L'amministrazione, in qualità di datore di lavoro, ha l'obbligo di valutare tutti i rischi presenti negli ambienti di lavoro e di adottare le misure necessarie per eliminarli o ridurli al minimo. Deve inoltre informare e formare i dipendenti sui rischi specifici delle loro mansioni."
+            },
+            {
+              "id": "7.2.2",
+              "type": "keypoint",
+              "content": "Deve essere redatto il Documento di Valutazione dei Rischi (DVR), che individua tutti i pericoli presenti nei luoghi di lavoro, valuta i rischi per la salute e la sicurezza e stabilisce le misure di prevenzione e protezione da adottare."
+            },
+            {
+              "id": "7.2.3",
+              "type": "authority",
+              "title": "Figure della sicurezza",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "L'amministrazione deve nominare il Responsabile del Servizio di Prevenzione e Protezione (RSPP), che coordina le attività di sicurezza, e il medico competente, che effettua la sorveglianza sanitaria sui lavoratori esposti a rischi specifici."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "section",
+          "title": "Diritti e doveri del dipendente",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.3.1",
+              "type": "keypoint",
+              "content": "Il dipendente ha il diritto di lavorare in un ambiente sicuro, di ricevere adeguata formazione sui rischi e sulle misure di prevenzione, di utilizzare i dispositivi di protezione individuale forniti dall'amministrazione e di segnalare situazioni di pericolo."
+            },
+            {
+              "id": "7.3.2",
+              "type": "keypoint",
+              "content": "Ha anche il dovere di prendersi cura della propria salute e sicurezza e di quella dei colleghi, rispettando le istruzioni ricevute, utilizzando correttamente le attrezzature e i dispositivi di protezione, e segnalando immediatamente eventuali anomalie o pericoli."
+            }
+          ]
+        },
+        {
+          "id": "7.4",
+          "type": "section",
+          "title": "Sorveglianza sanitaria",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.4.1",
+              "type": "definition",
+              "content": "La sorveglianza sanitaria è l'insieme degli accertamenti medici finalizzati a verificare l'idoneità del lavoratore alle mansioni specifiche e a individuare precocemente eventuali patologie correlate al lavoro. È effettuata dal medico competente nominato dall'amministrazione."
+            },
+            {
+              "id": "7.4.2",
+              "type": "requirements",
+              "title": "Quando è obbligatoria",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La sorveglianza sanitaria è obbligatoria per i lavoratori esposti a rischi specifici individuati dalla legge, come l'uso di videoterminali per oltre venti ore settimanali, la movimentazione manuale di carichi, l'esposizione a rumore o sostanze chimiche pericolose."
+                },
+                {
+                  "content": "Il medico competente effettua visite preventive prima dell'assunzione o del cambio di mansioni, visite periodiche con cadenza stabilita in base ai rischi, e visite su richiesta del lavoratore quando questi lamenta disturbi che ritiene collegati all'attività lavorativa."
+                }
+              ]
+            },
+            {
+              "id": "7.4.3",
+              "type": "effects",
+              "title": "Giudizio di idoneità",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Al termine della visita, il medico competente esprime un giudizio di idoneità che può essere: idoneo senza limitazioni, idoneo con prescrizioni o limitazioni, temporaneamente inidoneo, o permanentemente inidoneo alle mansioni specifiche."
+                },
+                {
+                  "content": "In caso di inidoneità o idoneità con limitazioni, l'amministrazione deve adibire il lavoratore a mansioni compatibili con le sue condizioni di salute, se esistenti. Il lavoratore può richiedere una visita di revisione del giudizio presso l'organo di vigilanza territoriale."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.5",
+          "type": "section",
+          "title": "Formazione e informazione sulla sicurezza",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.5.1",
+              "type": "definition",
+              "content": "La formazione sulla sicurezza è un obbligo dell'amministrazione e un diritto-dovere del lavoratore. Consiste in corsi e attività informative che forniscono al dipendente le conoscenze necessarie per svolgere le proprie mansioni in sicurezza."
+            },
+            {
+              "id": "7.5.2",
+              "type": "procedure",
+              "title": "Come si svolge",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La formazione deve essere effettuata al momento dell'assunzione, quando il lavoratore viene trasferito o cambia mansioni, e quando vengono introdotte nuove attrezzature o tecnologie. Deve essere periodicamente aggiornata."
+                },
+                {
+                  "content": "I contenuti della formazione riguardano i rischi specifici delle mansioni svolte, le procedure di sicurezza da seguire, l'uso corretto dei dispositivi di protezione e le misure di emergenza da adottare in caso di pericolo. La partecipazione è obbligatoria e si svolge durante l'orario di lavoro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.6",
+          "type": "section",
+          "title": "Rappresentante dei Lavoratori per la Sicurezza (RLS)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "7.6.1",
+              "type": "definition",
+              "content": "Il Rappresentante dei Lavoratori per la Sicurezza è una figura eletta o designata dai lavoratori per rappresentarli in materia di salute e sicurezza. Ha il compito di vigilare sull'applicazione delle norme di prevenzione e di fungere da tramite tra i lavoratori e l'amministrazione."
+            },
+            {
+              "id": "7.6.2",
+              "type": "authority",
+              "title": "Poteri e funzioni",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Il RLS ha diritto di accedere ai luoghi di lavoro, di essere consultato preventivamente sulla valutazione dei rischi e sulle misure di prevenzione, di ricevere informazioni dall'amministrazione e di promuovere iniziative per migliorare la sicurezza."
+                },
+                {
+                  "content": "Riceve una formazione specifica di almeno 32 ore e dispone di permessi retribuiti per svolgere la sua funzione. Non può subire pregiudizi a causa dell'attività svolta e gode di particolari tutele contro il trasferimento o il licenziamento."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "type": "section",
+      "title": "Discipline Specifiche e Clausole Contrattuali",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "8.1",
+          "type": "section",
+          "title": "Formazione del personale",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.1.1",
+              "type": "definition",
+              "content": "La formazione professionale è un diritto fondamentale del dipendente pubblico e un investimento strategico per l'amministrazione. Serve ad aggiornare le competenze, sviluppare nuove capacità e migliorare la qualità dei servizi offerti ai cittadini."
+            },
+            {
+              "id": "8.1.2",
+              "type": "section",
+              "title": "Diritto alla formazione continua",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "8.1.2.1",
+                  "type": "keypoint",
+                  "content": "Ogni dipendente ha diritto a partecipare ad attività formative per almeno un certo numero di ore all'anno. L'amministrazione deve predisporre un piano annuale della formazione, individuando i fabbisogni formativi in relazione agli obiettivi organizzativi."
+                },
+                {
+                  "id": "8.1.2.2",
+                  "type": "keypoint",
+                  "content": "La formazione può riguardare competenze tecniche specifiche del settore di lavoro, competenze trasversali come le lingue straniere o l'informatica, o competenze manageriali per chi ricopre ruoli di coordinamento."
+                }
+              ]
+            },
+            {
+              "id": "8.1.3",
+              "type": "section",
+              "title": "Congedi per la formazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "8.1.3.1",
+                  "type": "definition",
+                  "content": "Il dipendente può richiedere congedi per formazione, cioè periodi di aspettativa non retribuita per partecipare a corsi di studio o formazione professionale non organizzati dall'amministrazione, finalizzati al completamento della formazione o all'acquisizione di nuove competenze."
+                },
+                {
+                  "id": "8.1.3.2",
+                  "type": "requirements",
+                  "title": "Condizioni per ottenerli",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il congedo può essere richiesto dopo un certo periodo di servizio continuativo e per una durata massima stabilita. L'amministrazione valuta la domanda tenendo conto delle esigenze di servizio e può autorizzare solo un numero limitato di congedi contemporaneamente."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "type": "section",
+          "title": "Pari opportunità e politiche di genere",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.2.1",
+              "type": "definition",
+              "content": "Il principio delle pari opportunità garantisce che tutti i dipendenti, indipendentemente dal genere, abbiano le stesse possibilità di accesso al lavoro, di carriera e di trattamento economico. Le amministrazioni devono adottare misure concrete per rimuovere gli ostacoli alla piena parità."
+            },
+            {
+              "id": "8.2.2",
+              "type": "keypoint",
+              "content": "Ogni amministrazione deve redigere un Piano Triennale di Azioni Positive che individua le aree di criticità in tema di pari opportunità e stabilisce obiettivi e azioni concrete per favorire l'equilibrio di genere, la conciliazione vita-lavoro e la valorizzazione delle differenze."
+            },
+            {
+              "id": "8.2.3",
+              "type": "keypoint",
+              "content": "È costituito il Comitato Unico di Garanzia (CUG) che vigila sull'attuazione delle pari opportunità, contrasta le discriminazioni e le molestie nei luoghi di lavoro, e promuove il benessere organizzativo."
+            }
+          ]
+        },
+        {
+          "id": "8.3",
+          "type": "section",
+          "title": "Lavoro agile (Smart Working)",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.3.1",
+              "type": "definition",
+              "content": "Il lavoro agile è una modalità di svolgimento della prestazione lavorativa caratterizzata dall'assenza di precisi vincoli di orario e di luogo di lavoro, attraverso l'utilizzo di strumenti tecnologici. Il dipendente può lavorare in parte da remoto, alternando giornate in presenza e giornate da casa o altri luoghi."
+            },
+            {
+              "id": "8.3.2",
+              "type": "section",
+              "title": "Disciplina e criteri di attuazione",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "8.3.2.1",
+                  "type": "keypoint",
+                  "content": "L'accesso al lavoro agile avviene su base volontaria attraverso la stipula di un accordo individuale tra il dipendente e l'amministrazione. L'accordo stabilisce le modalità di svolgimento della prestazione, i giorni di lavoro agile, gli obiettivi da raggiungere e gli strumenti tecnologici messi a disposizione."
+                },
+                {
+                  "id": "8.3.2.2",
+                  "type": "keypoint",
+                  "content": "Non tutte le mansioni sono compatibili con il lavoro agile. L'amministrazione valuta caso per caso considerando la natura delle attività, la necessità di presenza fisica e la possibilità di garantire la stessa qualità del servizio anche da remoto."
+                }
+              ]
+            },
+            {
+              "id": "8.3.3",
+              "type": "section",
+              "title": "Diritti e obblighi del lavoratore in lavoro agile",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "8.3.3.1",
+                  "type": "keypoint",
+                  "content": "Il lavoratore in smart working mantiene tutti i diritti del dipendente che lavora in sede: stessa retribuzione, stesse tutele in materia di salute e sicurezza, stesso trattamento ai fini della progressione di carriera e della valutazione."
+                },
+                {
+                  "id": "8.3.3.2",
+                  "type": "keypoint",
+                  "content": "Ha l'obbligo di garantire la riservatezza dei dati e delle informazioni trattate, di utilizzare gli strumenti tecnologici in modo appropriato e secondo le policy di sicurezza informatica, e di raggiungere gli obiettivi concordati rispettando le scadenze."
+                },
+                {
+                  "id": "8.3.3.3",
+                  "type": "notes",
+                  "title": "Diritto alla disconnessione",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "Il dipendente in lavoro agile ha diritto alla disconnessione, cioè a non essere contattato al di fuori dell'orario di lavoro concordato. L'accordo individuale deve indicare le fasce orarie in cui il lavoratore è tenuto a essere reperibile e quelle in cui può disconnettersi completamente dagli strumenti di lavoro."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.4",
+          "type": "section",
+          "title": "Tutela previdenziale e assistenziale integrativa",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "8.4.1",
+              "type": "definition",
+              "content": "Oltre alla previdenza obbligatoria gestita dall'INPS, i dipendenti pubblici possono accedere a forme di previdenza complementare e assistenza sanitaria integrativa che migliorano le tutele in caso di pensionamento, malattia o infortunio."
+            },
+            {
+              "id": "8.4.2",
+              "type": "section",
+              "title": "Fondo di previdenza complementare (FOPEN)",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "8.4.2.1",
+                  "type": "definition",
+                  "content": "Il FOPEN è il Fondo di previdenza complementare per i dipendenti pubblici. Consente di integrare la pensione pubblica obbligatoria attraverso versamenti volontari del lavoratore e contributi dell'amministrazione."
+                },
+                {
+                  "id": "8.4.2.2",
+                  "type": "keypoint",
+                  "content": "L'adesione al fondo è volontaria. Il dipendente sceglie quanto versare (con un minimo previsto) e l'amministrazione aggiunge un contributo proprio, aumentando così il montante che verrà restituito sotto forma di pensione integrativa al momento del pensionamento."
+                },
+                {
+                  "id": "8.4.2.3",
+                  "type": "effects",
+                  "title": "Vantaggi fiscali",
+                  "collapsible": true,
+                  "children": [
+                    {
+                      "content": "I contributi versati al fondo di previdenza complementare sono deducibili dal reddito imponibile fino a un certo limite annuo, riducendo quindi il carico fiscale del lavoratore. Anche il rendimento del fondo gode di una tassazione agevolata."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "8.4.3",
+              "type": "section",
+              "title": "Assicurazione contro gli infortuni",
+              "collapsible": true,
+              "children": [
+                {
+                  "id": "8.4.3.1",
+                  "type": "keypoint",
+                  "content": "Tutti i dipendenti pubblici sono obbligatoriamente assicurati presso l'INAIL contro gli infortuni sul lavoro e le malattie professionali. In caso di infortunio, l'INAIL eroga prestazioni economiche e sanitarie."
+                },
+                {
+                  "id": "8.4.3.2",
+                  "type": "keypoint",
+                  "content": "Le prestazioni INAIL comprendono l'indennità giornaliera durante l'assenza per infortunio, il rimborso delle spese mediche, eventuali rendite in caso di invalidità permanente, e l'assegno una tantum in caso di danno biologico."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "type": "section",
+      "title": "Contrattazione Collettiva Integrativa",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "9.1",
+          "type": "definition",
+          "content": "La contrattazione collettiva integrativa è il processo di negoziazione che si svolge a livello di ciascuna amministrazione tra la dirigenza e le rappresentanze sindacali. Serve a regolare aspetti specifici del rapporto di lavoro che il CCNL nazionale lascia alla determinazione locale."
+        },
+        {
+          "id": "9.2",
+          "type": "section",
+          "title": "Ambito e limiti della contrattazione integrativa",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.2.1",
+              "type": "keypoint",
+              "content": "La contrattazione integrativa può intervenire solo sulle materie espressamente previste dal CCNL nazionale e dalla legge. Non può derogare alle disposizioni del contratto nazionale né alle norme di legge imperative."
+            },
+            {
+              "id": "9.2.2",
+              "type": "keypoint",
+              "content": "Deve rispettare i vincoli di bilancio dell'amministrazione: gli accordi integrativi non possono comportare oneri superiori alle risorse disponibili certificate dal dirigente responsabile della gestione finanziaria."
+            }
+          ]
+        },
+        {
+          "id": "9.3",
+          "type": "section",
+          "title": "Materie devolute alla contrattazione integrativa",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.3.1",
+              "type": "definition",
+              "content": "Le principali materie su cui la contrattazione integrativa può intervenire riguardano l'utilizzo delle risorse destinate al trattamento accessorio, l'organizzazione del lavoro e le modalità di erogazione dei servizi."
+            },
+            {
+              "id": "9.3.2",
+              "type": "keypoint",
+              "content": "Rientrano nella contrattazione integrativa i criteri di ripartizione del fondo per la retribuzione di risultato, i parametri di valutazione della performance individuale, le modalità di attribuzione degli incentivi economici legati alla produttività."
+            },
+            {
+              "id": "9.3.3",
+              "type": "keypoint",
+              "content": "Può regolare anche l'articolazione dell'orario di lavoro (fasce di flessibilità, orari differenziati), i criteri per l'autorizzazione del lavoro straordinario, le modalità di attuazione del lavoro agile e la disciplina delle turnazioni."
+            },
+            {
+              "id": "9.3.4",
+              "type": "exceptions",
+              "title": "Materie escluse",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Sono escluse dalla contrattazione integrativa le materie relative all'organizzazione degli uffici, alla determinazione delle dotazioni organiche, ai sistemi di classificazione del personale e alle scelte strategiche dell'amministrazione, che rientrano nella competenza esclusiva della dirigenza."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.4",
+          "type": "section",
+          "title": "Procedimento di contrattazione",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "9.4.1",
+              "type": "procedure",
+              "title": "Come si svolge",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "La contrattazione viene attivata su iniziativa dell'amministrazione o su richiesta delle organizzazioni sindacali. Le parti si incontrano in apposite sessioni negoziali per discutere le proposte e cercare un accordo."
+                },
+                {
+                  "content": "Una volta raggiunta l'intesa, viene sottoscritto il contratto integrativo che deve essere certificato dall'organo di controllo interno per verificare la compatibilità con i vincoli di bilancio e la conformità alle norme."
+                },
+                {
+                  "content": "Il contratto integrativo viene poi trasmesso alla Corte dei Conti e all'ARAN per il monitoraggio. Decorsi trenta giorni dalla certificazione, se non vi sono rilievi, l'accordo diventa efficace e vincolante per l'amministrazione e i lavoratori."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "type": "section",
+      "title": "Disposizioni Finali e Transitorie",
+      "collapsible": true,
+      "children": [
+        {
+          "id": "10.1",
+          "type": "definition",
+          "content": "Le disposizioni finali e transitorie del CCNL regolano il passaggio dal vecchio al nuovo contratto, garantendo la continuità dei rapporti di lavoro in corso e disciplinando le situazioni che richiedono un periodo di adattamento alle nuove norme."
+        },
+        {
+          "id": "10.2",
+          "type": "section",
+          "title": "Norme transitorie per i rapporti in corso",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.2.1",
+              "type": "keypoint",
+              "content": "Il CCNL 2022-2024 si applica a tutti i rapporti di lavoro in essere alla data della sua sottoscrizione. I diritti acquisiti dai dipendenti in base al precedente contratto sono mantenuti, salvo che il nuovo CCNL non preveda espressamente modifiche migliorative o peggiorative."
+            },
+            {
+              "id": "10.2.2",
+              "type": "keypoint",
+              "content": "Gli aumenti retributivi previsti dal nuovo CCNL hanno decorrenza dalla data stabilita dal contratto stesso e vengono corrisposti con le modalità e i tempi indicati nelle tabelle retributive allegate. Eventuali arretrati spettanti vengono liquidati nei termini previsti."
+            },
+            {
+              "id": "10.2.3",
+              "type": "notes",
+              "title": "Salvaguardia dei trattamenti più favorevoli",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Se il precedente contratto o accordi integrativi locali prevedevano trattamenti economici o normativi più favorevoli per i dipendenti rispetto al nuovo CCNL, tali trattamenti vengono mantenuti a titolo di assegno personale riassorbibile, cioè compensabili con i futuri miglioramenti contrattuali."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "type": "section",
+          "title": "Clausola di rinvio e ultrattività",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.3.1",
+              "type": "definition",
+              "content": "Il CCNL contiene una clausola di rinvio al successivo contratto che stabilisce cosa accade alla scadenza del contratto stesso. Fino alla sottoscrizione del nuovo CCNL, continuano ad applicarsi le disposizioni del contratto scaduto."
+            },
+            {
+              "id": "10.3.2",
+              "type": "keypoint",
+              "content": "Il principio di ultrattività garantisce che le norme del CCNL scaduto continuino a regolare il rapporto di lavoro fino all'entrata in vigore del nuovo contratto. Questo evita vuoti normativi e assicura continuità nella disciplina del lavoro pubblico."
+            },
+            {
+              "id": "10.3.3",
+              "type": "keypoint",
+              "content": "Durante il periodo di vacanza contrattuale (tra la scadenza del vecchio CCNL e l'entrata in vigore del nuovo), ai dipendenti viene riconosciuta l'indennità di vacanza contrattuale, che compensa parzialmente la perdita di potere d'acquisto dovuta all'inflazione."
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "type": "section",
+          "title": "Rinvio alle norme di legge",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.4.1",
+              "type": "keypoint",
+              "content": "Per tutto ciò che non è espressamente disciplinato dal CCNL, si applicano le disposizioni del D.Lgs. 165/2001 (Testo Unico sul Pubblico Impiego) e le altre norme di legge in materia di lavoro pubblico."
+            },
+            {
+              "id": "10.4.2",
+              "type": "keypoint",
+              "content": "In caso di contrasto tra le norme del CCNL e le disposizioni di legge sopravvenute, prevalgono queste ultime. Le amministrazioni devono adeguare i propri comportamenti alle nuove norme anche se il contratto non è stato ancora aggiornato."
+            }
+          ]
+        },
+        {
+          "id": "10.5",
+          "type": "section",
+          "title": "Clausola finale",
+          "collapsible": true,
+          "children": [
+            {
+              "id": "10.5.1",
+              "type": "definition",
+              "content": "Il CCNL Funzioni Centrali 2022-2024 costituisce il riferimento normativo completo per la gestione del rapporto di lavoro dei dipendenti delle amministrazioni centrali dello Stato per il triennio di vigenza. Le sue disposizioni si integrano con la legge e con la contrattazione integrativa di livello locale."
+            },
+            {
+              "id": "10.5.2",
+              "type": "keypoint",
+              "content": "Ogni modifica o integrazione al CCNL deve avvenire attraverso accordi sottoscritti dalle stesse parti firmatarie del contratto nazionale: ARAN per le amministrazioni e organizzazioni sindacali rappresentative per i lavoratori."
+            },
+            {
+              "id": "10.5.3",
+              "type": "notes",
+              "title": "Prossimi rinnovi contrattuali",
+              "collapsible": true,
+              "children": [
+                {
+                  "content": "Le trattative per il rinnovo del CCNL dovrebbero iniziare alcuni mesi prima della scadenza naturale del contratto, al fine di evitare lunghi periodi di vacanza contrattuale. Il nuovo contratto disciplinerà il triennio successivo, con eventuali adeguamenti retributivi e normativi alle mutate esigenze organizzative e alle nuove disposizioni legislative."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
